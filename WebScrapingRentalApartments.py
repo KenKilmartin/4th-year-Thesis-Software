@@ -1,22 +1,32 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import csv
 import datetime
 
 #constant for number of pages wanted to crawl
-MAX_PAGE_NUM = 35
+MAX_PAGE_NUM = 1
 
 #need to download the chromedriver to get it to open page
 chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
+
+
 #The below path is for laptop
 #chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
-driver = webdriver.Chrome(chrome_path)
+
+
+options = Options()
+options.add_argument("--headless")
+driver = webdriver.Chrome(chrome_path, chrome_options=options)
+
+
+#driver = webdriver.Chrome(chrome_path)
 
 now = datetime.datetime.now()
 
 #writing csv file and labeling the csv file with date
 
 # csv_file = open('test.csv', 'w')
-csv_file = open('Scrapped Data/Scrape from ' + now.strftime("%d-%m-%Y at %H"+"H"+" %M M")+'.csv', 'w', newline='')
+csv_file = open('Scrapped Data Apartments/Scrape from ' + now.strftime("%d-%m-%Y at %H"+"H"+" %M M")+'.csv', 'w', newline='')
 
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['House', 'Price', 'County'])
@@ -50,7 +60,7 @@ def crawlycrawl(houses):
     for house in houses:
         houseName = house.find_element_by_class_name("search_result_title_box").text
         # and '- House to Ren'
-        startOfStringToRemove = houseName.find(' - Apartment to Rent')
+        startOfStringToRemove = houseName.find(' - Apartment to Rent') and houseName.find(' - Apartment to Rent')
         houseName = houseName[:startOfStringToRemove]
         price = house.find_element_by_class_name("info-box").find_element_by_class_name("price")
 
@@ -77,7 +87,7 @@ def crawlycrawl(houses):
 
 
 #this closes the browser
-print("CSV file has been wrote if the browser closed")
+print("Starting to Scrape Apartments")
 getDataByCounty()
 driver.close()
 
