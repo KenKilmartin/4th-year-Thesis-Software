@@ -79,7 +79,7 @@ def crawlycrawl(houses):
           #  "{0:.2f}".format(value)
         else:
             value = int(priceText)
-        csv_writer.writerow([houseName]+[value] + [findByCountyName(houseName)]+[room])  #+[room]
+        csv_writer.writerow([houseName]+[value] + [findByCountyName(houseName)]+[room])
 
 
 #this closes the browser
