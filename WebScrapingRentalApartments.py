@@ -1,3 +1,4 @@
+import selenium
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import csv
@@ -7,11 +8,11 @@ import datetime
 MAX_PAGE_NUM = 45
 
 #need to download the chromedriver to get it to open page
-chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
+#chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
 
 
 #The below path is for laptop
-#chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
+chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
 
 
 options = Options()

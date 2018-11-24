@@ -7,10 +7,10 @@ import datetime
 MAX_PAGE_NUM = 25
 
 #need to download the chromedriver to get it to open page
-chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
+#chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
 #The below path is for laptop
-#chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
-#driver = webdriver.Chrome(chrome_path)
+chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
+driver = webdriver.Chrome(chrome_path)
 
 
 options = Options()
