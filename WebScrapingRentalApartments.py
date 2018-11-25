@@ -5,14 +5,14 @@ import csv
 import datetime
 
 #constant for number of pages wanted to crawl
-MAX_PAGE_NUM = 45
+MAX_PAGE_NUM = 46
 
 #need to download the chromedriver to get it to open page
-#chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
+chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
 
 
 #The below path is for laptop
-chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
+#chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
 
 
 options = Options()
