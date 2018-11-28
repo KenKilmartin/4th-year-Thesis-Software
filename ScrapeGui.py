@@ -13,7 +13,6 @@ window.title("WebScrapper scraping")
 
 window.geometry('400x100')
 
-
 lbl = Label(window, text="Please be patient !! ")
 lbl.grid(column=0, row=0)
 
@@ -43,10 +42,8 @@ btn = Button(window, text="Scrape Houses", command=clicked)
 btn2 = Button(window, text="Scrape Apartment", command=clicked2)
 btn3 = Button(window, text="Scrape Both", command=stop)
 
-
 btn.grid(column=1, row=2)
 btn2.grid(column=4, row=2)
 btn3.grid(column=3, row=6)
-
 
 window.mainloop()
