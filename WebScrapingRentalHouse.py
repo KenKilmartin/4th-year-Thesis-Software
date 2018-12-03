@@ -84,9 +84,10 @@ def crawlycrawl(houses):
         else:
             value = int(priceText)
 
-      #  aproxPpr = value / int(float(room))
+        aproxPpr = value / int(room)
+        print(aproxPpr)
 
-        csv_writer.writerow([houseName]+[value] + [findByCountyName(houseName)]+[room]) # +[aproxPpr]
+        csv_writer.writerow([houseName]+[value] + [findByCountyName(houseName)]+[room]+[aproxPpr]) # +[aproxPpr]
 
 
 #this closes the browser
