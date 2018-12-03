@@ -1,0 +1,511 @@
+House,Price,County,Room,Approx price per room
+"1. Rathana, Borris, Co. Carlow",1100, Co. Carlow,"House to Rent|
+5 Beds|
+3 Baths"
+"2. Heatherhill road, Graiguecullen, Co. Carlow",1100, Co. Carlow,"House to Rent|
+3 Beds|
+3 Baths"
+"3. Newton Place, Bachelors' Walk, Bagenalstown, Co. Carlow",995, Co. Carlow,"House to Rent|
+2 Beds|
+2 Baths"
+"4. Milltown, Garryhilll, Garryhill, Co. Carlow",1300, Co. Carlow,"House to Rent|
+4 Beds|
+2 Baths"
+"5. Clonagoose, Borris, Co. Carlow",800, Co. Carlow,"House to Rent|
+3 Beds|
+1 Bath"
+"6. The Stables, Dranagh, St. Mullins, Co. Carlow",550, Co. Carlow,"House to Rent|
+1 Bed|
+1 Bath"
+"7. Lime Grove, Palatine, Carlow, Carlow Town, Co. Carlow",950, Co. Carlow,"House to Rent|
+3 Beds|
+2 Baths"
+"8. 1 John Street R93v262, Graiguecullen, Co. Carlow",550, Co. Carlow,"House to Rent|
+1 Bed|
+2 Baths"
+"9. Browneshill, Carlow Town, Co. Carlow",900, Co. Carlow,"House to Rent|
+2 Beds|
+2 Baths"
+"10. Garryhill, Garryhill, Co. Carlow",1200, Co. Carlow,"House to Rent|
+3 Beds|
+3 Baths"
+"11. Gilbertstown Rathoe, Rathoe, Co. Carlow",320, Co. Carlow,"House to Rent|
+3 Beds|
+3 Baths"
+"12. Brotherton, Graiguecullen, Co. Carlow",1100, Co. Carlow,"House to Rent|
+3 Beds|
+3 Baths"
+"13. 20 Mount Clare Court, Graiguecullen, Co. Carlow",1100, Co. Carlow,"House to Rent|
+3 Beds|
+2 Baths"
+"14. Askea Court, O'Brien Road, Carlow Town, Co. Carlow",850, Co. Carlow,"House to Rent|
+2 Beds|
+2 Baths"
+"15. Moanduff, Oldleighlin, Co. Carlow",950, Co. Carlow,"House to Rent|
+4 Beds|
+2 Baths"
+"16. Hunters Green, Pollerton, Carlow Town, Co. Carlow",1100, Co. Carlow,"House to Rent|
+3 Beds|
+2 Baths"
+"17. Dolmen Gardens, Pollerton, Co. Carlow",1200, Co. Carlow,"House to Rent|
+4 Beds|
+2 Baths"
+"18. 140 ROCHFORT MANOR, Carlow Town, Co. Carlow",1100, Co. Carlow,"House to Rent|
+4 Beds|
+3 Baths"
+"19. Coolkenno, Tullow, Co. Carlow",800, Co. Carlow,"House to Rent|
+8 Beds|
+1 Bath"
+"20. The vale, graigcullen, Carlow Town, Co. Carlow",1000, Co. Carlow,"House to Rent|
+3 Beds|
+3 Baths"
+"1. 25 Henry Street, Bailieborough, Co. Cavan",600, Co. Cavan,"House to Rent|
+2 Beds|
+2 Baths"
+"2. 26 Henry St. Bailieborough, Co. Cavan, Bailieborough, Co. Cavan",600, Co. Cavan,"House to Rent|
+2 Beds|
+2 Baths"
+"3. Maple Drive 32, Cavan, Co. Cavan",800, Co. Cavan,"House to Rent|
+3 Beds|
+3 Baths"
+"4. Bramblewood Court, Kingscourt, Co. Cavan, Kingscourt, Co. Cavan",900, Co. Cavan,"House to Rent|
+4 Beds|
+3 Baths"
+"5. Rampart View, Virginia, Co. Cavan",900, Co. Cavan,"House to Rent|
+4 Beds|
+4 Baths"
+"6. Rampart View, Virginia, Co. Cavan",900, Co. Cavan,"House to Rent|
+4 Beds|
+3 Baths"
+"7. Yew Park, Virginia, Co. Cavan",950, Co. Cavan,"House to Rent|
+4 Beds|
+2 Baths"
+"8. Stranadarragh, Ballinamore, Bawnboy, Co. Cavan",500, Co. Cavan,"House to Rent|
+3 Beds|
+1 Bath"
+"9. Yew Park, Virginia, Co. Cavan",850, Co. Cavan,"House to Rent|
+4 Beds|
+2 Baths"
+"10. The Hawthorns, Bailieborough, Co. Cavan",895, Co. Cavan,"House to Rent|
+3 Beds|
+2 Baths"
+"11. Kingscourt, Kingscourt, Co. Cavan",1200, Co. Cavan,"House to Rent|
+6 Beds|
+3 Baths"
+"12. woodview, Bailieborough, Co. Cavan",675, Co. Cavan,"House to Rent|
+3 Beds|
+1 Bath"
+"13. Bramble Rise, Cavan, Co. Cavan",850, Co. Cavan,"House to Rent|
+4 Beds|
+3 Baths"
+"14. Ballyhugh, Ballyconnell, Co. Cavan",500, Co. Cavan,"House to Rent|
+2 Beds|
+1 Bath"
+"1. Killestry Cottage, Killaloe, Co. Clare",800, Co. Clare,"House to Rent|
+3 Beds|
+2 Baths"
+"2. 91 Dromiard, Drumcliffe Road, Ennis, Co. Clare",1250, Co. Clare,"House to Rent|
+4 Beds|
+3 Baths"
+"3. knockraderry, Liscannor, Co. Clare",950, Co. Clare,"House to Rent|
+3 Beds|
+2 Baths"
+"4. 4 fairgreen Tulla, Tulla, Co. Clare",800, Co. Clare,"House to Rent|
+2 Beds|
+2 Baths"
+"5. 41 Gleann an Oir, Shannon, Co. Clare",1000, Co. Clare,"House to Rent|
+5 Beds|
+2 Baths"
+"6. 1 Ballinacragga, Newmarket on Fergus, Co. Clare",1200, Co. Clare,"House to Rent|
+5 Beds|
+3 Baths"
+"7. Kilnasoolagh, Newmarket on Fergus, Co. Clare",800, Co. Clare,"House to Rent|
+4 Beds|
+1 Bath"
+"8. Carrowmeer House, Carrowmeer, Newmarket on Fergus, Co. Clare",1000, Co. Clare,"House to Rent|
+5 Beds|
+2 Baths"
+"9. Garville Court, Woodstock, Ennis, Co. Clare",850, Co. Clare,"House to Rent|
+3 Beds|
+2 Baths"
+"10. Bramble Lane, Limerick Road, Ennis, Co. Clare",950, Co. Clare,"House to Rent|
+4 Beds|
+3 Baths"
+"11. 5 Árd Aoibhinn, Limerick Road, Ennis, Co. Clare",1500, Co. Clare,"House to Rent|
+4 Beds|
+3 Baths"
+"12. Ivy Cottage, Parteen, Co. Clare",1000, Co. Clare,"House to Rent|
+4 Beds|
+3 Baths"
+"13. Castlerock, Ennis, Co. Clare",850, Co. Clare,"House to Rent|
+4 Beds|
+2 Baths"
+"14. The Hawthrorns, Limerick Road, Ennis, Co. Clare",850, Co. Clare,"House to Rent|
+3 Beds|
+2 Baths"
+"15. Wood Road, Cratloe, Co. Clare",1100, Co. Clare,"House to Rent|
+3 Beds|
+1 Bath"
+"16. Moymore, Lahinch, Co. Clare",1000, Co. Clare,"House to Rent|
+3 Beds|
+2 Baths"
+"17. Lakes Village, Killaloe, Co. Clare",825, Co. Clare,"House to Rent|
+2 Beds|
+1 Bath"
+"18. The Park, Ennis, Co. Clare",1350, Co. Clare,"House to Rent|
+4 Beds|
+3 Baths"
+"19. 12 Bruach na Abhainn, Ennis, Co. Clare",900, Co. Clare,"House to Rent|
+3 Beds|
+3 Baths"
+"20. 86 The Hawthorns, Limerick Road, Ennis, Co. Clare",1000, Co. Clare,"House to Rent|
+5 Beds|
+3 Baths"
+"1. Millers Court, Old Quarter, Ballincollig, Co. Cork",1800, Co. Cork,"House to Rent|
+3 Beds|
+2 Baths"
+"2. Sheraton Court, Hartlands Avenue, Cork City, Co. Cork",1287, Co. Cork,"House to Rent|
+2 Beds|
+1 Bath"
+"3. 4 o mahony square broad lane, Blacpool, Blackpool, Co. Cork",990, Co. Cork,"House to Rent|
+2 Beds|
+1 Bath"
+"4. Ballyvorisheen West, Carrignavar, Co. Cork",1465, Co. Cork,"House to Rent|
+3 Beds|
+2 Baths"
+"5. Worlds End, Kinsale, Co. Cork",1800, Co. Cork,"House to Rent|
+3 Beds|
+2 Baths"
+"6. 19 Bendemeer Park, Glasheen, Co. Cork",1690, Co. Cork,"House to Rent|
+3 Beds|
+1 Bath"
+"7. Kealties, Durrus, Co. Cork",900, Co. Cork,"House to Rent|
+3 Beds|
+1 Bath"
+"8. Goggins Hill, Ballinhassig, Co. Cork",950, Co. Cork,"House to Rent|
+2 Beds|
+2 Baths"
+"9. 1 Bridgetown Drive, Castlemartyr, Castlemartyr, Co. Cork",1200, Co. Cork,"House to Rent|
+3 Beds|
+3 Baths"
+"10. 29 Pairc na Habhann, Cloyne, Co. Cork",1000, Co. Cork,"House to Rent|
+6 Beds|
+2 Baths"
+"11. Ballydavid, Cloyne, Co. Cork",1300, Co. Cork,"House to Rent|
+4 Beds|
+1 Bath"
+"12. Ballyduff, Ballymaloe, Cloyne, Co. Cork",850, Co. Cork,"House to Rent|
+2 Beds|
+1 Bath"
+"13. Coomhola Bridge, Bantry, Co. Cork",1100, Co. Cork,"House to Rent|
+5 Beds|
+4 Baths"
+"14. Coolatooder, Ballinhassig, Co. Cork",1200, Co. Cork,"House to Rent|
+2 Beds|
+1 Bath"
+"15. 21 Manor Court, Mallow, Co. Cork",950, Co. Cork,"House to Rent|
+3 Beds|
+1 Bath"
+"16. Cloon Cottage, Carrigdownane, Fermoy, Co. Cork",1095, Co. Cork,"House to Rent|
+4 Beds|
+2 Baths"
+"17. Coolieragh, Glengarriff, Co. Cork",695, Co. Cork,"House to Rent|
+2 Beds|
+1 Bath"
+"18. Firgrove Drive, Bishopstown, Co. Cork",1900, Co. Cork,"House to Rent|
+4 Beds|
+2 Baths"
+"19. Elden, Maryborough Hill, Douglas, Co. Cork",1850, Co. Cork,"House to Rent|
+3 Beds|
+3 Baths"
+"20. South Douglas Road, Douglas, Co. Cork",1675, Co. Cork,"House to Rent|
+3 Beds|
+4 Baths"
+"1. Armada cottages, Bundoran, Co. Donegal",565, Co. Donegal,"House to Rent|
+3 Beds|
+2 Baths"
+"2. Whitethorn Close, Letterkenny, Co. Donegal",900, Co. Donegal,"House to Rent|
+4 Beds|
+3 Baths"
+"3. meenahalla, Glenties, Co. Donegal",475, Co. Donegal,"House to Rent|
+4 Beds|
+1 Bath"
+"4. Lisnenan Court, Letterkenny, Co. Donegal",900, Co. Donegal,"House to Rent|
+4 Beds|
+3 Baths"
+"5. 110 Ard O Donnell, Letterkenny, Co. Donegal",650, Co. Donegal,"House to Rent|
+2 Beds|
+1 Bath"
+"6. 19 Orchard Grove, Ramelton Rd, Letterkenny, Co. Donegal",900, Co. Donegal,"House to Rent|
+5 Beds|
+2 Baths"
+"7. Cottage Rahan, Letterkenny, Co. Donegal",480, Co. Donegal,"House to Rent|
+1 Bed|
+1 Bath"
+"8. 9 Fairgreen Park, Letterkenny, Co. Donegal",650, Co. Donegal,"House to Rent|
+4 Beds|
+3 Baths"
+"9. 32 Greenfields, Convoy, Co. Donegal",650, Co. Donegal,"House to Rent|
+4 Beds|
+3 Baths"
+"10. 11 Gleann Rua, Killylastin, Letterkenny, Co. Donegal",650, Co. Donegal,"House to Rent|
+3 Beds|
+3 Baths"
+"11. 65 The Green, Ballymacool, Letterkenny, Co. Donegal",700, Co. Donegal,"House to Rent|
+3 Beds|
+2 Baths"
+"12. 81 Cara Bay, Culdaff, Co. Donegal",560, Co. Donegal,"House to Rent|
+2 Beds|
+2 Baths"
+"13. 30 Clearwaters, Rathmullan, Co. Donegal",600, Co. Donegal,"House to Rent|
+3 Beds|
+2 Baths"
+"14. Fort Royal House, Rathmullan, Co. Donegal",1400, Co. Donegal,"House to Rent|
+4 Beds|
+2 Baths"
+"15. Porthall, Lifford, Co. Donegal",550, Co. Donegal,"House to Rent|
+2 Beds|
+1 Bath"
+"16. 14 St Johns Park, Gransha Road, Buncrana, Co. Donegal",750, Co. Donegal,"House to Rent|
+4 Beds|
+3 Baths"
+"17. Altnapaste Mill, Ballybofey, Co. Donegal",1250, Co. Donegal,"House to Rent|
+4 Beds|
+2 Baths"
+"18. 25 Brookfield Heights, Letterkenny, Co. Donegal",800, Co. Donegal,"House to Rent|
+3 Beds|
+2 Baths"
+"19. 42 Millbrea, Meadows, Ballyloskey, Carndonagh, Co. Donegal",600, Co. Donegal,"House to Rent|
+3 Beds|
+3 Baths"
+"20. 21 Churchlands, Manorcunningham, Co. Donegal",650, Co. Donegal,"House to Rent|
+4 Beds|
+3 Baths"
+"1. Belarmine Park, Stepaside, Dublin 18",3800, Dublin 18,"House to Rent|
+4 Beds|
+3 Baths"
+"2. 99 Inchicore Rd., Kilmainham, Dublin 8",2600, Dublin 8,"House to Rent|
+3 Beds|
+1 Bath"
+"3. Old Estuary Mill, Malahide, Co. Dublin",3600, Co. Dublin,"House to Rent|
+4 Beds|
+4 Baths"
+"4. Seafield Downs, Clontarf, Dublin 3",2500, Dublin 3,"House to Rent|
+2 Beds|
+2 Baths"
+"5. Woodside Drive, Rathfarnham, Dublin 14",4750, Dublin 14,"House to Rent|
+6 Beds|
+5 Baths"
+"6. 8 The Avenue, Marianella, Rathgar, Dublin 6",5500, Dublin 6,"House to Rent|
+5 Beds|
+5 Baths"
+"7. Geraldine Street, Dublin 7",2750, Dublin 7,"House to Rent|
+3 Beds|
+1 Bath"
+"8. 13 Milltown Avenue, Mount St Annes, Milltown, Dublin 6",2750, Dublin 6,"House to Rent|
+3 Beds|
+2 Baths"
+"9. 13a Suir Road, Kilmainham, Dublin 8",2600, Dublin 8,"House to Rent|
+3 Beds|
+2 Baths"
+"10. Kingstown Mews, Park Lane, Sandycove, Co. Dublin",3750, Co. Dublin,"House to Rent|
+4 Beds|
+3 Baths"
+"11. Bushy Park House, Terenure, Dublin 6w",5520, Dublin 6w,"House to Rent|
+5 Beds|
+4 Baths"
+"12. Inglenook Wood, Glenamuck Road, Carrickmines, Dublin 18",3800, Dublin 18,"House to Rent|
+4 Beds|
+4 Baths"
+"13. All Hallows Square, Drumcondra, Dublin 3",2500, Dublin 3,"House to Rent|
+3 Beds|
+3 Baths"
+"14. Drummartin Terrace, Dundrum, Dublin 14",2400, Dublin 14,"House to Rent|
+2 Beds|
+2 Baths"
+"15. Blooms Court, 47A Upper Clanbrassil Street, dublin, Dublin 8",3700, Dublin 8,"House to Rent|
+4 Beds|
+2 Baths"
+"16. Foxrock Mount, Foxrock Park, Dublin 18, Foxrock, Dublin 18",3000, Dublin 18,"House to Rent|
+4 Beds|
+2 Baths"
+"17. Dunbar, Off Eglington Road, Donnybrook, Donnybrook, Dublin 4",2980, Dublin 4,"House to Rent|
+3 Beds|
+2 Baths"
+"18. 41 St. Johns Road, Sandymount, Dublin 4",3490, Dublin 4,"House to Rent|
+3 Beds|
+2 Baths"
+"19. Joy Streets, Dublin 4",2500, Dublin 4,"House to Rent|
+2 Beds|
+1 Bath"
+"20. Abbotts Grove Avenue, Knocklyon, Dublin 16",2300, Dublin 16,"House to Rent|
+3 Beds|
+2 Baths"
+"1. 3 Melvin Cottages, Garrison, Co. Fermanagh, BT93 4ER",420480, BT93 4ER,"House to Rent|
+2 Beds|
+1 Bath"
+"1. Seannareeough, Furbo, Co. Galway",1200, Co. Galway,"House to Rent|
+4 Beds|
+4 Baths"
+"2. Doire Uachtair, Furbo, Co. Galway",1750, Co. Galway,"House to Rent|
+5 Beds|
+3 Baths"
+"3. Caislean Oir, Athenry, Co. Galway",1150, Co. Galway,"House to Rent|
+4 Beds|
+2 Baths"
+"4. An Reilean, Roscam, Co. Galway",2000, Co. Galway,"House to Rent|
+4 Beds|
+3 Baths"
+"5. 9 Upper Newcastle Road, Newcastle, Co. Galway",1200, Co. Galway,"House to Rent|
+4 Beds|
+2 Baths"
+"6. Bunasilla, Caherlistrane, Caherlistrane, Co. Galway",950, Co. Galway,"House to Rent|
+4 Beds|
+2 Baths"
+"7. 75 coill clocha, oranmore, galway, Oranmore, Co. Galway",1650, Co. Galway,"House to Rent|
+5 Beds|
+3 Baths"
+"8. Cahreen, Craughwell, Craughwell, Co. Galway",900, Co. Galway,"House to Rent|
+3 Beds|
+2 Baths"
+"9. 13 Cottage Hill Athenry Road, Loughrea, Co. Galway",1125, Co. Galway,"House to Rent|
+4 Beds|
+2 Baths"
+"10. 37 Cottage Hill Athenry Road, Loughrea, Co. Galway",1125, Co. Galway,"House to Rent|
+4 Beds|
+2 Baths"
+"11. Cois Furain, Loughrea, Co. Galway",1100, Co. Galway,"House to Rent|
+3 Beds|
+2 Baths"
+"12. Misneach, Killeeneenmore, Craughwell, Clarinbridge, Co. Galway",2050, Co. Galway,"House to Rent|
+5 Beds|
+5 Baths"
+"13. Lemonfield Oughterard, Oughterard, Co. Galway",725, Co. Galway,"House to Rent|
+1 Bed|
+1 Bath"
+"14. Oughterard, Co. Galway",900, Co. Galway,"House to Rent|
+4 Beds|
+1 Bath"
+"15. Moycullen, Co. Galway",1000, Co. Galway,"House to Rent|
+2 Beds|
+1 Bath"
+"16. Oughterard, Co. Galway",675, Co. Galway,"House to Rent|
+1 Bed|
+1 Bath"
+"17. Oughterard, Co. Galway",675, Co. Galway,"House to Rent|
+2 Beds|
+1 Bath"
+"18. Ashfield Drive, Ballinasloe, Co. Galway",900, Co. Galway,"House to Rent|
+3 Beds|
+2 Baths"
+"19. Kilagoola, Moycullen, Co. Galway",950, Co. Galway,"House to Rent|
+2 Beds|
+1 Bath"
+"20. Lenaboy Park, Salthill, Co. Galway",2000, Co. Galway,"House to Rent|
+3 Beds|
+2 Baths"
+"1. Ardoughter Ballyduff, Ballyduff, Co. Kerry",800, Co. Kerry,"House to Rent|
+4 Beds|
+3 Baths"
+"2. Ardmullen, Kenmare, Co. Kerry",1050, Co. Kerry,"House to Rent|
+3 Beds|
+2 Baths"
+"3. Opulent Secluded Rental, Killarney, Co. Kerry",2350, Co. Kerry,"House to Rent|
+4 Beds|
+3 Baths"
+"4. Gortadrislig, Lixnaw, Co. Kerry",675, Co. Kerry,"House to Rent|
+2 Beds|
+1 Bath"
+"5. Taulaght, Tralee, Fenit, Co. Kerry",1400, Co. Kerry,"House to Rent|
+6 Beds|
+6 Baths"
+"6. Beenoskee, Ballyard, Tralee, Co. Kerry",1200, Co. Kerry,"House to Rent|
+4 Beds|
+3 Baths"
+"7. Main Street, Causeway, Co. Kerry",550, Co. Kerry,"House to Rent|
+2 Beds|
+1 Bath"
+"8. Hillside, Poulawaddra, Tralee, Co. Kerry",750, Co. Kerry,"House to Rent|
+3 Beds|
+2 Baths"
+"9. Churchill, The Spa, Fenit, Co. Kerry",1000, Co. Kerry,"House to Rent|
+4 Beds|
+2 Baths"
+"10. Sand dune cottages, banna beach, tralee, Banna, Co. Kerry",600, Co. Kerry,"House to Rent|
+3 Beds|
+2 Baths"
+"11. Sand dune cottages, banna beach, tralee, Banna, Co. Kerry",700, Co. Kerry,"House to Rent|
+3 Beds|
+2 Baths"
+"12. Langford Downs, Killorglin, Co. Kerry",700, Co. Kerry,"House to Rent|
+2 Beds|
+1 Bath"
+"13. Main St., Killorglin, Co. Kerry",675, Co. Kerry,"House to Rent|
+3 Beds|
+1 Bath"
+"14. Caherslee, Tralee, Co. Kerry",900, Co. Kerry,"House to Rent|
+3 Beds|
+2 Baths"
+"15. Parkavonear, Aghadoe, Killarney, Co. Kerry",1170, Co. Kerry,"House to Rent|
+3 Beds|
+1 Bath"
+"16. The Sands, Ballybunion, Co. Kerry",850, Co. Kerry,"House to Rent|
+4 Beds|
+3 Baths"
+"17. Sli Na Speire, Clieveragh, Listowel, Co. Kerry",600, Co. Kerry,"House to Rent|
+3 Beds|
+3 Baths"
+"18. Kilsarcon, Currow, Killarney, Co. Kerry",700, Co. Kerry,"House to Rent|
+4 Beds|
+2 Baths"
+"19. Knocklyne Valley, Sunhill, Killorglin, Co. Kerry",1000, Co. Kerry,"House to Rent|
+4 Beds|
+4 Baths"
+"20. Glenduff, Kielduff, Tralee, Co Kerry, Tralee, Co. Kerry",700, Co. Kerry,"House to Rent|
+3 Beds|
+1 Bath"
+"1. Riverside, Portarlington, Co. Laois",1000, Co. Laois,"House to Rent|
+3 Beds|
+3 Baths"
+"2. 8 powerscourt Portlaoise, Portlaoise, Co. Laois",1100, Co. Laois,"House to Rent|
+3 Beds|
+3 Baths"
+"3. The green,Main Street, Stradbally, Co. Laois",800, Co. Laois,"House to Rent|
+2 Beds|
+1 Bath"
+"4. Aghnaharna Court, Portlaoise, Co. Laois",1200, Co. Laois,"House to Rent|
+4 Beds|
+2 Baths"
+"5. Higgins Park, Fairgreen, Portlaoise, Co. Laois",900, Co. Laois,"House to Rent|
+2 Beds|
+3 Baths"
+"6. Castlegate, Portarlington, Co. Laois",1200, Co. Laois,"House to Rent|
+4 Beds|
+3 Baths"
+"7. Doire og,derry, Rosenallis, Co. Laois",900, Co. Laois,"House to Rent|
+3 Beds|
+2 Baths"
+"8. Boughlone Way, Bellingham, Portlaoise, Co. Laois",1200, Co. Laois,"House to Rent|
+3 Beds|
+3 Baths"
+"9. Sweetview, Abbeyleix, Co. Laois",850, Co. Laois,"House to Rent|
+3 Beds|
+1 Bath"
+"10. Clondarrig Court, Bellingham, Portlaoise, Co. Laois",1150, Co. Laois,"House to Rent|
+3 Beds|
+3 Baths"
+"11. Rossdarragh Glen, Rathevan, Portlaoise, Co. Laois",975, Co. Laois,"House to Rent|
+3 Beds|
+3 Baths"
+"12. Ivy House, The Heritage Golf & Country Club, Killenard, Co. Laois",4800, Co. Laois,"House to Rent|
+5 Beds|
+4 Baths"
+"13. Rathevan Close, Portlaoise, Co. Laois",900, Co. Laois,"House to Rent|
+2 Beds|
+3 Baths"
+"14. Coote Street, Portlaoise, Co. Laois",1000, Co. Laois,"House to Rent|
+2 Beds|
+3 Baths"
+"15. The Agents House, Geashill, Portarlington, Co. Laois",1200, Co. Laois,"House to Rent|
+4 Beds|
+2 Baths"

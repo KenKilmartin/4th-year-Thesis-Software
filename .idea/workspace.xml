@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="66a949b7-b6bf-47f7-a08d-d8df997d179c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapeGui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapeGui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScrapingRentalApartments.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebScrapingRentalApartments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScrapingRentalHouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebScrapingRentalHouse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +14,11 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Thesis_$WebScraper.coverage" NAME="WebScraper Coverage Results" MODIFIED="1542677031778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Thesis_$WebScrapingRentalHouse.coverage" NAME="WebScrapingRentalHouse Coverage Results" MODIFIED="1543099784277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Thesis_$WebScrapingRentalHouse.coverage" NAME="WebScrapingRentalHouse Coverage Results" MODIFIED="1543795011999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Thesis_software$WebScraper.coverage" NAME="WebScraper Coverage Results" MODIFIED="1542358857641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Thesis_$WebScrapingRentalApartments.coverage" NAME="WebScrapingRentalApartments Coverage Results" MODIFIED="1542963562251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Thesis_$playingWithPanda__1_.coverage" NAME="playingWithPanda (1) Coverage Results" MODIFIED="1543111377012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapped Data Apartments" />
-    <SUITE FILE_PATH="coverage/Thesis_$ScrapeGui.coverage" NAME="ScrapeGui Coverage Results" MODIFIED="1543440812622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Thesis_$ScrapeGui.coverage" NAME="ScrapeGui Coverage Results" MODIFIED="1543780336653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Thesis_$WebScrapingRentalApartments.coverage" NAME="WebScrapingRentalApartments Coverage Results" MODIFIED="1543793731871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Thesis_$visualisationAttempt2.coverage" NAME="visualisationAttempt2 Coverage Results" MODIFIED="1543111255126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Thesis/Software at different stages/Thesis for git/testWithPages" />
     <SUITE FILE_PATH="coverage/Thesis_$playingWithPanda__2_.coverage" NAME="playingWithPanda (2) Coverage Results" MODIFIED="1543112430800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Thesis_$testing.coverage" NAME="testing Coverage Results" MODIFIED="1542707655973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -41,35 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 27-11-2018 at 00H 09 M.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="17">
-              <caret line="147" column="5" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebScrapingRentalApartments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="211">
+              <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -78,59 +54,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 22-11-2018 at 12H 56 M.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 28-11-2018 at 21H 52 M.csv">
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" rowLines="3" />
           </provider>
           <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="-25862" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrapeGui.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 28-11-2018 at 21H 33 M.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="-28208" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 26-11-2018 at 23H 53 M.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="17">
-              <caret line="124" column="59" selection-start-line="124" selection-start-column="59" selection-end-line="124" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebScrapingRentalHouse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="544">
+              <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 56 M.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 46 M.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 37 M.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="-1688" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 01H 03 M.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -174,18 +160,18 @@
         <option value="$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 53 M.csv" />
         <option value="$PROJECT_DIR$/GuiIdea.py" />
         <option value="$PROJECT_DIR$/Scrapped Data House/Scrape from 23-11-2018 at 08H 55 M.csv" />
-        <option value="$PROJECT_DIR$/WebScrapingRentalHouse.py" />
-        <option value="$PROJECT_DIR$/WebScrapingRentalApartments.py" />
         <option value="$PROJECT_DIR$/../../Thesis/Software at different stages/Thesis for git/testWithPages/visualisationAttempt2.py" />
         <option value="$PROJECT_DIR$/playingWithPanda.py" />
         <option value="$PROJECT_DIR$/ScrapeGui.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/WebScrapingRentalApartments.py" />
+        <option value="$PROJECT_DIR$/WebScrapingRentalHouse.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="389" />
-    <option name="y" value="123" />
+    <option name="x" value="2171" />
+    <option name="y" value="119" />
     <option name="width" value="1653" />
     <option name="height" value="969" />
   </component>
@@ -243,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ScrapeGui">
+  <component name="RunManager" selected="Python.WebScrapingRentalHouse">
     <configuration name="ScrapeGui" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Thesis-software" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,6 +244,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapeGui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebScrapingRentalApartments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Thesis-software" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebScrapingRentalApartments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebScrapingRentalHouse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Thesis-software" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebScrapingRentalHouse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,64 +340,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="playingWithPanda" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Thesis-software" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nutzer\Desktop\Thesis software 24th\Thesis-\Scrapped Data Apartments\playingWithPanda.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="visualisationAttempt2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Thesis-software" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Thesis/Software at different stages/Thesis for git/testWithPages" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Thesis/Software at different stages/Thesis for git/testWithPages/visualisationAttempt2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.ScrapeGui" />
-      <item itemvalue="Python.playingWithPanda" />
-      <item itemvalue="Python.visualisationAttempt2" />
       <item itemvalue="Python.playingWithPanda (1)" />
       <item itemvalue="Python.playingWithPanda (2)" />
+      <item itemvalue="Python.WebScrapingRentalHouse" />
+      <item itemvalue="Python.WebScrapingRentalApartments" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WebScrapingRentalHouse" />
+        <item itemvalue="Python.WebScrapingRentalApartments" />
         <item itemvalue="Python.ScrapeGui" />
         <item itemvalue="Python.playingWithPanda (2)" />
         <item itemvalue="Python.playingWithPanda (1)" />
-        <item itemvalue="Python.playingWithPanda" />
-        <item itemvalue="Python.visualisationAttempt2" />
       </list>
     </recent_temporary>
   </component>
@@ -386,21 +372,24 @@
       <workItem from="1543188992049" duration="2467000" />
       <workItem from="1543276353485" duration="2011000" />
       <workItem from="1543440807638" duration="2772000" />
+      <workItem from="1543780023319" duration="680000" />
+      <workItem from="1543780828997" duration="5002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8864000" />
+    <option name="totallyTimeSpent" value="14546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="389" y="123" width="1653" height="969" extended-state="0" />
+    <frame x="2171" y="119" width="1653" height="969" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21594475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22096673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30382776" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30382776" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,58 +413,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 20-11-2018 at 08H 36 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 20-11-2018 at 08H 33 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 20-11-2018 at 09H 26 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 30 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 31 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 33 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 40 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 41 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 43 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 46 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 44 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 53 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 52 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 47 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 20-11-2018 at 09H 54 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 09H 58 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 20-11-2018 at 10H 00 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 10H 02 M.csv" />
-    <entry file="file://$PROJECT_DIR$/../../daftlistings-dev/daftlistings/daft.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1938" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../daftlistings-dev/examples/contact_advertiser.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 22-11-2018 at 13H 13 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 22-11-2018 at 13H 26 M.csv" />
     <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 23-11-2018 at 08H 54 M.csv" />
     <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 23-11-2018 at 08H 55 M.csv" />
     <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 22-11-2018 at 12H 40 M.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 22-11-2018 at 12H 56 M.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3077">
-          <caret line="181" column="55" selection-start-line="181" selection-start-column="55" selection-end-line="181" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/counties.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 24-11-2018 at 22H 50 M.csv" />
     <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 24-11-2018 at 23H 28 M.csv" />
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 23-11-2018 at 08H 59 M.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Thesis/Software at different stages/testScrapey/daft.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -491,20 +435,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 23-11-2018 at 09H 22 M.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-51" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 01H 03 M.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Thesis/Software at different stages/Thesis for git/testWithPages/visualisationAttempt2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -556,8 +493,128 @@
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 20-11-2018 at 01H 23 M.csv">
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 28-11-2018 at 22H 11 M.csv" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 19H 52 M.csv" />
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 19H 55 M.csv" />
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 19H 57 M.csv" />
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 27-11-2018 at 00H 09 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="2499">
+          <caret line="147" column="5" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapeGui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 28-11-2018 at 21H 33 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 26-11-2018 at 23H 53 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="59" selection-start-line="124" selection-start-column="59" selection-end-line="124" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 10 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counties.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 15 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 17 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 20H 03 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 23 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 26 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 27 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 23-11-2018 at 08H 59 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 22-11-2018 at 12H 56 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="55" selection-start-line="181" selection-start-column="55" selection-end-line="181" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 32 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 20-11-2018 at 01H 23 M.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
@@ -566,86 +623,114 @@
           <caret line="1" column="97" selection-start-line="1" selection-start-column="97" selection-end-line="1" selection-end-column="103" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebScrapingRentalHouse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapeGui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 26-11-2018 at 23H 53 M.csv">
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 28 M.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="17">
-          <caret line="124" column="59" selection-start-line="124" selection-start-column="59" selection-end-line="124" selection-end-column="59" />
-        </state>
+        <state relative-caret-position="-1734" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 28-11-2018 at 21H 33 M.csv">
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 29 M.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-28208" />
+        <state relative-caret-position="-1428" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebScrapingRentalApartments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 27-11-2018 at 00H 09 M.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="17">
-          <caret line="147" column="5" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 28-11-2018 at 22H 11 M.csv">
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 33 M.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 34 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 02-12-2018 at 23H 35 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 20 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 36 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 37 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-1688" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scrapped Data Apartments/Scrape from 28-11-2018 at 21H 52 M.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-25862" />
+        <state relative-caret-position="306">
+          <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 39 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 46 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 20-11-2018 at 01H 03 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapped Data House/Scrape from 02-12-2018 at 23H 56 M.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebScrapingRentalApartments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebScrapingRentalHouse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

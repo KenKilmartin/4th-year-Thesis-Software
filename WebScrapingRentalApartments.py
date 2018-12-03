@@ -5,7 +5,7 @@ import csv
 import datetime
 
 #constant for number of pages wanted to crawl
-MAX_PAGE_NUM = 46
+MAX_PAGE_NUM = 1
 
 #need to download the chromedriver to get it to open page
 chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
@@ -17,7 +17,7 @@ chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
 
 options = Options()
 options.add_argument("--headless")
-driver = webdriver.Chrome(chrome_path, chrome_options=options)
+driver = webdriver.Chrome(chrome_path, options=options)
 
 
 #driver = webdriver.Chrome(chrome_path)
@@ -30,7 +30,7 @@ now = datetime.datetime.now()
 csv_file = open('Scrapped Data Apartments/Scrape from ' + now.strftime("%d-%m-%Y at %H"+"H"+" %M M")+'.csv', 'w', newline='')
 
 csv_writer = csv.writer(csv_file)
-csv_writer.writerow(['House', 'Price', 'County'])
+csv_writer.writerow(['House', 'Price', 'County', 'Room'])  #, 'Approx price per room'
 
 
 def getDataByCounty():
@@ -69,6 +69,10 @@ def crawlycrawl(houses):
        # print(houseName.text + " " + price.text)
         priceText = ''
 
+        room = house.find_element_by_class_name("info-box").find_element_by_class_name("info").text
+        room = room[20:-13]
+     #   room = int(room)
+
         """
         This is looking for the price and if the price is per week if it finds per week it multiplys by 4 else it saves the value
         it also takes out the euro symbol and the per month per week string
@@ -84,7 +88,7 @@ def crawlycrawl(houses):
           #  "{0:.2f}".format(value)
         else:
             value = int(priceText)
-        csv_writer.writerow([houseName]+[value] + [findByCountyName(houseName)])
+        csv_writer.writerow([houseName]+[value] + [findByCountyName(houseName)]+[room])
 
 
 #this closes the browser
