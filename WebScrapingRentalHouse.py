@@ -5,13 +5,13 @@ import datetime
 import math
 
 #constant for number of pages wanted to crawl
-MAX_PAGE_NUM = 1
+MAX_PAGE_NUM = 25
 
 #need to download the chromedriver to get it to open page
-chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
+#chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
 
 #The below path is for laptop
-#chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
+chrome_path = r'C:\Python\Python37-32\Scripts\chromedriver.exe'
 driver = webdriver.Chrome(chrome_path)
 
 
@@ -23,11 +23,11 @@ now = datetime.datetime.now()
 
 #writing csv file and labeling the csv file with date
 
-# csv_file = open('test.csv', 'w')
+
 csv_file = open('Scrapped Data House/Scrape from ' + now.strftime("%d-%m-%Y at %H"+"H"+" %M M")+'.csv', 'w', newline='')
 
 csv_writer = csv.writer(csv_file)
-csv_writer.writerow(['House', 'Price', 'County', 'Room', 'Approx price per room'])
+csv_writer.writerow(['House Index', 'Address', 'Price', 'County', 'Room', 'Approx price per room'])
 
 
 def getDataByCounty():
@@ -44,29 +44,39 @@ def getDataByCounty():
         print(line)
     csv_file.close()
 
-
 def findByCountyName(stringToSearch):
 
     stringArray = stringToSearch.split(',')
     county = stringArray[len(stringArray) - 1]
     return county
 
+
 """
 going through each house on each page and
 """
 def crawlycrawl(houses):
     for house in houses:
+        houseID = house.find_element_by_class_name("search_result_title_box").text
+        getRidOfAllButIndex = houseID.find('.')
+        houseID = houseID[:getRidOfAllButIndex ] #+ 1
+
+
         houseName = house.find_element_by_class_name("search_result_title_box").text
         startOfStringToRemove = houseName.find(' - House to Rent') and houseName.find(' - House to Rent')
-        houseName = houseName[:startOfStringToRemove]
+        getRidOfIndex = houseName.find('.')
+        houseName = houseName[getRidOfIndex + 2:startOfStringToRemove]
+
+        # houseName = houseName[:startOfStringToRemove]
         price = house.find_element_by_class_name("info-box").find_element_by_class_name("price")
         priceText = ''
 
         room = house.find_element_by_class_name("info-box").find_element_by_class_name("info").text
-        room = room[15:-13]
-      #  intRoom = int(room)
+        if 'beds' in room.lower():
+            room = room[15:-13]
+        else:
+            room = room[15:-12]
 
-
+        intRoom = int(room)
 
         """
         This is looking for the price and if the price is per week if it finds per week it multiplys by 4 else it saves the value
@@ -84,13 +94,16 @@ def crawlycrawl(houses):
         else:
             value = int(priceText)
 
-        aproxPpr = value / int(room)
-        print(aproxPpr)
 
-        csv_writer.writerow([houseName]+[value] + [findByCountyName(houseName)]+[room]+[aproxPpr]) # +[aproxPpr]
+        if intRoom == 0:
+             value = aproxPpr
+        else:
+            aproxPpr = value / intRoom  #int(room)    #intRoom
+            aproxPpr = "{0:.2f}".format(aproxPpr)
+
+        csv_writer.writerow([houseID]+[houseName]+[value] + [findByCountyName(houseName)]+[room]+[aproxPpr])
 
 
-#this closes the browser
 print("Starting to scrape House :")
 getDataByCounty()
 driver.close()

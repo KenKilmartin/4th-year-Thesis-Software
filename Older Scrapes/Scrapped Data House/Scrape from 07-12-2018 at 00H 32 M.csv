@@ -1,0 +1,116 @@
+House Index,Address,Price,County,Room,Approx price per room
+1,"Hunters Green(Ref 201) Pollerton, Carlow Town, Co. Carlow",1000, Co. Carlow,3 ,333.33
+2,"Burrin Manor (ref 94), Tullow Road, Carlow Town, Co. Carlow",850, Co. Carlow,3,283.33
+3,"Newton Place, Bachelors' Walk, Bagenalstown, Co. Carlow",995, Co. Carlow,2 ,497.50
+4,"Hunters Green, Pollerton, Carlow Town, Co. Carlow",1100, Co. Carlow,3 ,366.67
+5,"Garryhill, Garryhill, Co. Carlow",1200, Co. Carlow,3 ,400.00
+6,"Moanduff, Oldleighlin, Co. Carlow",950, Co. Carlow,4 ,237.50
+7,"Askea Court, O'Brien Road, Carlow Town, Co. Carlow",850, Co. Carlow,2 ,425.00
+8,"Clonagoose, Borris, Co. Carlow",800, Co. Carlow,3,266.67
+9,"The Stables, Dranagh, St. Mullins, Co. Carlow",550, Co. Carlow,1,550.00
+10,"2 Main Street, Oldleighlin, Co. Carlow",800, Co. Carlow,2,400.00
+11,"Askea, Carlow Town, Co. Carlow",320, Co. Carlow,1,320.00
+12,"Milltown, Garryhilll, Garryhill, Co. Carlow",1300, Co. Carlow,4 ,325.00
+13,"1 John Street R93v262, Graiguecullen, Co. Carlow",550, Co. Carlow,1 ,550.00
+14,"Browneshill, Carlow Town, Co. Carlow",900, Co. Carlow,2 ,450.00
+15,"Gilbertstown Rathoe, Rathoe, Co. Carlow",320, Co. Carlow,3 ,106.67
+16,"Brotherton, Graiguecullen, Co. Carlow",1100, Co. Carlow,3 ,366.67
+17,"20 Mount Clare Court, Graiguecullen, Co. Carlow",1100, Co. Carlow,3 ,366.67
+18,"140 ROCHFORT MANOR, Carlow Town, Co. Carlow",1100, Co. Carlow,4 ,275.00
+19,"Coolkenno, Tullow, Co. Carlow",800, Co. Carlow,8,100.00
+20,"22 Grange Court, Pollerton, Carlow, Carlow Town, Co. Carlow",900, Co. Carlow,3 ,300.00
+21,"Longwood, Bennekerry, Carlow Town, Co. Carlow",1500, Co. Carlow,4 ,375.00
+1,"No.5 New Drumbannon, Bailieboro, Bailieborough, Co. Cavan",650, Co. Cavan,3,216.67
+2,"Amberwood, Ballyconnell, Co. Cavan",700, Co. Cavan,3 ,233.33
+3,"19 Bruce Hill Manor, Arva, Co. Cavan",650, Co. Cavan,3 ,216.67
+4,"Ard na laoi, Cavan, Co. Cavan",900, Co. Cavan,4 ,225.00
+5,"45 Blackwood Ave, The Gallops, Latt, Cavan, Co. Cavan",700, Co. Cavan,3 ,233.33
+6,"Drumgill, Kingscourt, Co. Cavan",900, Co. Cavan,3 ,300.00
+7,"10 Ard na Laoi, Cavan, Co. Cavan",800, Co. Cavan,4 ,200.00
+8,"Barora Park, Bailieborough, Co. Cavan",850, Co. Cavan,4 ,212.50
+9,"New Street No 14, Virginia, Co. Cavan",750, Co. Cavan,3,250.00
+10,"Deerpark, Virginia, Co. Cavan",700, Co. Cavan,2,350.00
+11,"woodview, Bailieborough, Co. Cavan",675, Co. Cavan,3,225.00
+12,"Clanmahon Place, Ballinagh, Co. Cavan",550, Co. Cavan,3 ,183.33
+13,"25 Henry Street, Bailieborough, Co. Cavan",600, Co. Cavan,2 ,300.00
+14,"26 Henry St. Bailieborough, Co. Cavan, Bailieborough, Co. Cavan",600, Co. Cavan,2 ,300.00
+15,"Maple Drive 32, Cavan, Co. Cavan",800, Co. Cavan,3 ,266.67
+16,"Rampart View, Virginia, Co. Cavan",900, Co. Cavan,4 ,225.00
+17,"Stranadarragh, Ballinamore, Bawnboy, Co. Cavan",500, Co. Cavan,3,166.67
+18,"Kingscourt, Kingscourt, Co. Cavan",1200, Co. Cavan,6 ,200.00
+19,"Bramble Rise, Cavan, Co. Cavan",850, Co. Cavan,4 ,212.50
+20,"Ballyhugh, Ballyconnell, Co. Cavan",500, Co. Cavan,2,250.00
+1,"21 Marine Village, Ballina, Killaloe, Co. Clare",1400, Co. Clare,3 ,466.67
+2,"5 Árd Aoibhinn, Limerick Road, Ennis, Co. Clare",1500, Co. Clare,4 ,375.00
+3,"Garville Court, Woodstock, Ennis, Co. Clare",850, Co. Clare,3 ,283.33
+4,"Bramble Lane, Limerick Road, Ennis, Co. Clare",950, Co. Clare,4 ,237.50
+5,"Dun Na Mara Doonbeg, Doonbeg, Co. Clare",900, Co. Clare,4 ,225.00
+6,"Castlerock, Ennis, Co. Clare",850, Co. Clare,4 ,212.50
+7,"The Hawthrorns, Limerick Road, Ennis, Co. Clare",850, Co. Clare,3 ,283.33
+8,"Kilmaley, Kilmaley, Co. Clare",450, Co. Clare,4,112.50
+9,"Ivy Cottage, Parteen, Co. Clare",1000, Co. Clare,4 ,250.00
+10,"Lakes Village, Killaloe, Co. Clare",825, Co. Clare,2,412.50
+11,"22 Lios Rua, Shannon, Co. Clare",1000, Co. Clare,3 ,333.33
+12,"1 Ballinacragga, Newmarket on Fergus, Co. Clare",1200, Co. Clare,5 ,240.00
+13,"Carrowmeer House, Carrowmeer, Newmarket on Fergus, Co. Clare",1000, Co. Clare,5 ,200.00
+14,"The Park, Ennis, Co. Clare",1350, Co. Clare,4 ,337.50
+15,"5 Shanacloon, Shanballa, Ennis, Co. Clare",925, Co. Clare,3 ,308.33
+16,"Wood Road, Cratloe, Co. Clare",1100, Co. Clare,3,366.67
+17,"Moymore, Lahinch, Co. Clare",1000, Co. Clare,3 ,333.33
+18,"28 Ard Caoin, Gort Road, Ennis, Co. Clare",895, Co. Clare,3 ,298.33
+19,"91 Dromiard, Drumcliffe Road, Ennis, Co. Clare",1250, Co. Clare,4 ,312.50
+20,"14 Ard na Mainistreach, Quin, Ennis, Co. Clare",900, Co. Clare,3 ,300.00
+21,"1 Miltown Road, Kilkee, Co. Clare",3200, Co. Clare,4 ,800.00
+22,"knockraderry, Liscannor, Co. Clare",950, Co. Clare,3 ,316.67
+23,"86 The Hawthorns, Limerick Road, Ennis, Co. Clare",1000, Co. Clare,5 ,200.00
+24,"5 Killeen, Corofin, Co. Clare",600, Co. Clare,3,200.00
+25,"2 Riverview Terrace, Ennistymon, Co. Clare",675, Co. Clare,2,337.50
+26,"Dun Meadbhe, Lahinch, Co. Clare",700, Co. Clare,4,175.00
+27,"18 French Court, Clonroad, Ennis, Co. Clare",850, Co. Clare,3 ,283.33
+28,"Ennis Road, Miltown Malbay, Co. Clare",750, Co. Clare,5 ,150.00
+29,"35 Shanacloon, Shanballa, Ennis, Co. Clare",800, Co. Clare,2 ,400.00
+30,"59c Ballysallagh West, Newmarket on Fergus, Co. Clare",1000, Co. Clare,3 ,333.33
+31,"22 Glenoir, Ennis, Co. Clare",900, Co. Clare,3,300.00
+32,"Corofin, Corofin, Co. Clare",700, Co. Clare,3 ,233.33
+33,"Ballysallagh West, Newmarket on Fergus, Co. Clare",1000, Co. Clare,3 ,333.33
+34,"Lisroe, Kilmaley, Co. Clare",950, Co. Clare,6 ,158.33
+35,"Lacknashannagh, Kildysart, Co. Clare",695, Co. Clare,2 ,347.50
+36,"9 The Crescent, Miltown Malbay, Co. Clare",650, Co. Clare,3 ,216.67
+37,"Garrihys Cross House, Doolin, Co. Clare",800, Co. Clare,3 ,266.67
+38,"5 Carnelly Woods, Clarecastle, Co. Clare, Ennis, Co. Clare",3000, Co. Clare,5 ,600.00
+1,"Millers Court, Old Quarter, Ballincollig, Co. Cork",1800, Co. Cork,3 ,600.00
+2,"Emmet Street, Mallow, Co. Cork",850, Co. Cork,3,283.33
+3,"Worlds End, Kinsale, Co. Cork",1800, Co. Cork,3 ,600.00
+4,"Ballyvorisheen West, Carrignavar, Co. Cork",1465, Co. Cork,3 ,488.33
+5,"19 Bendemeer Park, Glasheen, Co. Cork",1690, Co. Cork,3,563.33
+6,"Kealties, Durrus, Co. Cork",900, Co. Cork,3,300.00
+7,"Loughane, Ladysbridge, Co. Cork",900, Co. Cork,3,300.00
+8,"Carrigdarrery, Lissarda, Co. Cork",1100, Co. Cork,2 ,550.00
+9,"Main Street, Midleton, Co. Cork",775, Co. Cork,1,775.00
+10,"Butlerstown, Courtmacsherry, Co. Cork",850, Co. Cork,4 ,212.50
+11,"6 Kiltha Park, Castlemartyr, Co. Cork",1200, Co. Cork,3,400.00
+12,"Greenmount, Cork City, Co. Cork",1500, Co. Cork,3,500.00
+13,"Ballinguilly, Ballincollig, Co. Cork",1800, Co. Cork,4 ,450.00
+14,"Main Street, Carrigtwohill, Co. Cork",2200, Co. Cork,4 ,550.00
+15,"Walshestown, Churchtown, Mallow, Churchtown, Co. Cork",1000, Co. Cork,3 ,333.33
+16,"Maple Woods, Ballinacurra, Midleton, Co. Cork",1395, Co. Cork,3 ,465.00
+17,"Friars walk, Cork City, Co. Cork",1900, Co. Cork,5 ,380.00
+18,"The Maples, Glanmire, Co. Cork",1500, Co. Cork,3 ,500.00
+19,"Main St, Watergrasshill, Co. Cork",1500, Co. Cork,3 ,500.00
+20,"Curragh Woods, Cork City, Co. Cork",1600, Co. Cork,3 ,533.33
+21,"Lee Road, Cork City, Co. Cork",1250, Co. Cork,3 ,416.67
+22,"Cork City, Cork City, Co. Cork",2400, Co. Cork,3 ,800.00
+23,"Curragh Woods, Frankfield, Co. Cork",1600, Co. Cork,3 ,533.33
+24,"Model Village, Tower, Co. Cork",1800, Co. Cork,5 ,360.00
+25,"Inchigaggin Lane, Model Farm Road, Co. Cork",2400, Co. Cork,3 ,800.00
+26,"Coolmaine Mews, Kinsale Manor, Kinsale, Co. Cork",1800, Co. Cork,3 ,600.00
+27,"Brookfield Villas, College Road, Cork., Cork City, Co. Cork",3000, Co. Cork,5 ,600.00
+28,"Hazeldene, Hazelwood, Mallow, Co. Cork",825, Co. Cork,2,412.50
+29,"Pearse Terrace, Mallow, Co. Cork",1050, Co. Cork,3 ,350.00
+30,"Ballyclough Village, Mallow, Co. Cork",900, Co. Cork,2,450.00
+31,"Main Street, Ballyclough, Mallow, Co. Cork",900, Co. Cork,3,300.00
+32,"Brookyn House, 2 Glensprings, Lower Kileens, Black, Killeens, Co. Cork",550, Co. Cork,3 ,183.33
+33,"Maryville, Old Youghal Road, Youghal, Co. Cork",1030, Co. Cork,2,515.00
+34,"The Avenue, Rockfield, Church Road, Blackrock, Co. Cork",2050, Co. Cork,4 ,512.50
+35,"Carrigrohane, Carrigrohane, Co. Cork",2500, Co. Cork,5 ,500.00
+36,"Ballady House, Ballady, Belgooly, Co. Cork",2750, Co. Cork,5 ,550.00

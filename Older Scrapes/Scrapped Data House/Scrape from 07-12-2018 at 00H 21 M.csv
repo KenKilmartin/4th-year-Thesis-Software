@@ -1,0 +1,436 @@
+House Index,Address,Price,County,Room,Approx price per room
+1. ,"Hunters Green(Ref 201) Pollerton, Carlow Town, Co. Carlow",1000, Co. Carlow,3 ,333.33
+2. ,"Burrin Manor (ref 94), Tullow Road, Carlow Town, Co. Carlow",850, Co. Carlow,3,283.33
+3. ,"Newton Place, Bachelors' Walk, Bagenalstown, Co. Carlow",995, Co. Carlow,2 ,497.50
+4. ,"Garryhill, Garryhill, Co. Carlow",1200, Co. Carlow,3 ,400.00
+5. ,"Askea Court, O'Brien Road, Carlow Town, Co. Carlow",850, Co. Carlow,2 ,425.00
+6. ,"Moanduff, Oldleighlin, Co. Carlow",950, Co. Carlow,4 ,237.50
+7. ,"Hunters Green, Pollerton, Carlow Town, Co. Carlow",1100, Co. Carlow,3 ,366.67
+8. ,"Clonagoose, Borris, Co. Carlow",800, Co. Carlow,3,266.67
+9. ,"The Stables, Dranagh, St. Mullins, Co. Carlow",550, Co. Carlow,1,550.00
+10. ,"2 Main Street, Oldleighlin, Co. Carlow",800, Co. Carlow,2,400.00
+11. ,"Askea, Carlow Town, Co. Carlow",320, Co. Carlow,1,320.00
+12. ,"Milltown, Garryhilll, Garryhill, Co. Carlow",1300, Co. Carlow,4 ,325.00
+13. ,"1 John Street R93v262, Graiguecullen, Co. Carlow",550, Co. Carlow,1 ,550.00
+14. ,"Browneshill, Carlow Town, Co. Carlow",900, Co. Carlow,2 ,450.00
+15. ,"Gilbertstown Rathoe, Rathoe, Co. Carlow",320, Co. Carlow,3 ,106.67
+16. ,"Brotherton, Graiguecullen, Co. Carlow",1100, Co. Carlow,3 ,366.67
+17. ,"20 Mount Clare Court, Graiguecullen, Co. Carlow",1100, Co. Carlow,3 ,366.67
+18. ,"140 ROCHFORT MANOR, Carlow Town, Co. Carlow",1100, Co. Carlow,4 ,275.00
+19. ,"Coolkenno, Tullow, Co. Carlow",800, Co. Carlow,8,100.00
+20. ,"22 Grange Court, Pollerton, Carlow, Carlow Town, Co. Carlow",900, Co. Carlow,3 ,300.00
+21. ,"Longwood, Bennekerry, Carlow Town, Co. Carlow",1500, Co. Carlow,4 ,375.00
+1. ,"No.5 New Drumbannon, Bailieboro, Bailieborough, Co. Cavan",650, Co. Cavan,3,216.67
+2. ,"Amberwood, Ballyconnell, Co. Cavan",700, Co. Cavan,3 ,233.33
+3. ,"19 Bruce Hill Manor, Arva, Co. Cavan",650, Co. Cavan,3 ,216.67
+4. ,"Ard na laoi, Cavan, Co. Cavan",900, Co. Cavan,4 ,225.00
+5. ,"45 Blackwood Ave, The Gallops, Latt, Cavan, Co. Cavan",700, Co. Cavan,3 ,233.33
+6. ,"Drumgill, Kingscourt, Co. Cavan",900, Co. Cavan,3 ,300.00
+7. ,"10 Ard na Laoi, Cavan, Co. Cavan",800, Co. Cavan,4 ,200.00
+8. ,"Barora Park, Bailieborough, Co. Cavan",850, Co. Cavan,4 ,212.50
+9. ,"New Street No 14, Virginia, Co. Cavan",750, Co. Cavan,3,250.00
+10. ,"Deerpark, Virginia, Co. Cavan",700, Co. Cavan,2,350.00
+11. ,"woodview, Bailieborough, Co. Cavan",675, Co. Cavan,3,225.00
+12. ,"Clanmahon Place, Ballinagh, Co. Cavan",550, Co. Cavan,3 ,183.33
+13. ,"25 Henry Street, Bailieborough, Co. Cavan",600, Co. Cavan,2 ,300.00
+14. ,"26 Henry St. Bailieborough, Co. Cavan, Bailieborough, Co. Cavan",600, Co. Cavan,2 ,300.00
+15. ,"Maple Drive 32, Cavan, Co. Cavan",800, Co. Cavan,3 ,266.67
+16. ,"Rampart View, Virginia, Co. Cavan",900, Co. Cavan,4 ,225.00
+17. ,"Stranadarragh, Ballinamore, Bawnboy, Co. Cavan",500, Co. Cavan,3,166.67
+18. ,"Kingscourt, Kingscourt, Co. Cavan",1200, Co. Cavan,6 ,200.00
+19. ,"Bramble Rise, Cavan, Co. Cavan",850, Co. Cavan,4 ,212.50
+20. ,"Ballyhugh, Ballyconnell, Co. Cavan",500, Co. Cavan,2,250.00
+1. ,"21 Marine Village, Ballina, Killaloe, Co. Clare",1400, Co. Clare,3 ,466.67
+2. ,"5 Árd Aoibhinn, Limerick Road, Ennis, Co. Clare",1500, Co. Clare,4 ,375.00
+3. ,"Garville Court, Woodstock, Ennis, Co. Clare",850, Co. Clare,3 ,283.33
+4. ,"Bramble Lane, Limerick Road, Ennis, Co. Clare",950, Co. Clare,4 ,237.50
+5. ,"Dun Na Mara Doonbeg, Doonbeg, Co. Clare",900, Co. Clare,4 ,225.00
+6. ,"The Hawthrorns, Limerick Road, Ennis, Co. Clare",850, Co. Clare,3 ,283.33
+7. ,"Castlerock, Ennis, Co. Clare",850, Co. Clare,4 ,212.50
+8. ,"Kilmaley, Kilmaley, Co. Clare",450, Co. Clare,4,112.50
+9. ,"Ivy Cottage, Parteen, Co. Clare",1000, Co. Clare,4 ,250.00
+10. ,"Lakes Village, Killaloe, Co. Clare",825, Co. Clare,2,412.50
+11. ,"Carrowmeer House, Carrowmeer, Newmarket on Fergus, Co. Clare",1000, Co. Clare,5 ,200.00
+12. ,"1 Ballinacragga, Newmarket on Fergus, Co. Clare",1200, Co. Clare,5 ,240.00
+13. ,"22 Lios Rua, Shannon, Co. Clare",1000, Co. Clare,3 ,333.33
+14. ,"The Park, Ennis, Co. Clare",1350, Co. Clare,4 ,337.50
+15. ,"5 Shanacloon, Shanballa, Ennis, Co. Clare",925, Co. Clare,3 ,308.33
+16. ,"Wood Road, Cratloe, Co. Clare",1100, Co. Clare,3,366.67
+17. ,"Moymore, Lahinch, Co. Clare",1000, Co. Clare,3 ,333.33
+18. ,"28 Ard Caoin, Gort Road, Ennis, Co. Clare",895, Co. Clare,3 ,298.33
+19. ,"91 Dromiard, Drumcliffe Road, Ennis, Co. Clare",1250, Co. Clare,4 ,312.50
+20. ,"14 Ard na Mainistreach, Quin, Ennis, Co. Clare",900, Co. Clare,3 ,300.00
+21. ,"1 Miltown Road, Kilkee, Co. Clare",3200, Co. Clare,4 ,800.00
+22. ,"knockraderry, Liscannor, Co. Clare",950, Co. Clare,3 ,316.67
+23. ,"86 The Hawthorns, Limerick Road, Ennis, Co. Clare",1000, Co. Clare,5 ,200.00
+24. ,"5 Killeen, Corofin, Co. Clare",600, Co. Clare,3,200.00
+25. ,"2 Riverview Terrace, Ennistymon, Co. Clare",675, Co. Clare,2,337.50
+26. ,"Dun Meadbhe, Lahinch, Co. Clare",700, Co. Clare,4,175.00
+27. ,"18 French Court, Clonroad, Ennis, Co. Clare",850, Co. Clare,3 ,283.33
+28. ,"Ennis Road, Miltown Malbay, Co. Clare",750, Co. Clare,5 ,150.00
+29. ,"59c Ballysallagh West, Newmarket on Fergus, Co. Clare",1000, Co. Clare,3 ,333.33
+30. ,"22 Glenoir, Ennis, Co. Clare",900, Co. Clare,3,300.00
+31. ,"35 Shanacloon, Shanballa, Ennis, Co. Clare",800, Co. Clare,2 ,400.00
+32. ,"Corofin, Corofin, Co. Clare",700, Co. Clare,3 ,233.33
+33. ,"Ballysallagh West, Newmarket on Fergus, Co. Clare",1000, Co. Clare,3 ,333.33
+34. ,"Lisroe, Kilmaley, Co. Clare",950, Co. Clare,6 ,158.33
+35. ,"9 The Crescent, Miltown Malbay, Co. Clare",650, Co. Clare,3 ,216.67
+36. ,"Lacknashannagh, Kildysart, Co. Clare",695, Co. Clare,2 ,347.50
+37. ,"Garrihys Cross House, Doolin, Co. Clare",800, Co. Clare,3 ,266.67
+38. ,"5 Carnelly Woods, Clarecastle, Co. Clare, Ennis, Co. Clare",3000, Co. Clare,5 ,600.00
+1. ,"Millers Court, Old Quarter, Ballincollig, Co. Cork",1800, Co. Cork,3 ,600.00
+2. ,"Emmet Street, Mallow, Co. Cork",850, Co. Cork,3,283.33
+3. ,"Worlds End, Kinsale, Co. Cork",1800, Co. Cork,3 ,600.00
+4. ,"Ballyvorisheen West, Carrignavar, Co. Cork",1465, Co. Cork,3 ,488.33
+5. ,"19 Bendemeer Park, Glasheen, Co. Cork",1690, Co. Cork,3,563.33
+6. ,"Kealties, Durrus, Co. Cork",900, Co. Cork,3,300.00
+7. ,"Loughane, Ladysbridge, Co. Cork",900, Co. Cork,3,300.00
+8. ,"Carrigdarrery, Lissarda, Co. Cork",1100, Co. Cork,2 ,550.00
+9. ,"Main Street, Midleton, Co. Cork",775, Co. Cork,1,775.00
+10. ,"Butlerstown, Courtmacsherry, Co. Cork",850, Co. Cork,4 ,212.50
+11. ,"6 Kiltha Park, Castlemartyr, Co. Cork",1200, Co. Cork,3,400.00
+12. ,"Greenmount, Cork City, Co. Cork",1500, Co. Cork,3,500.00
+13. ,"Ballinguilly, Ballincollig, Co. Cork",1800, Co. Cork,4 ,450.00
+14. ,"Main Street, Carrigtwohill, Co. Cork",2200, Co. Cork,4 ,550.00
+15. ,"Walshestown, Churchtown, Mallow, Churchtown, Co. Cork",1000, Co. Cork,3 ,333.33
+16. ,"Maple Woods, Ballinacurra, Midleton, Co. Cork",1395, Co. Cork,3 ,465.00
+17. ,"Friars walk, Cork City, Co. Cork",1900, Co. Cork,5 ,380.00
+18. ,"The Maples, Glanmire, Co. Cork",1500, Co. Cork,3 ,500.00
+19. ,"Main St, Watergrasshill, Co. Cork",1500, Co. Cork,3 ,500.00
+20. ,"Curragh Woods, Cork City, Co. Cork",1600, Co. Cork,3 ,533.33
+21. ,"Curragh Woods, Cork City, Co. Cork",1600, Co. Cork,3 ,533.33
+22. ,"Friars walk, Cork City, Co. Cork",1900, Co. Cork,5 ,380.00
+23. ,"Main St, Watergrasshill, Co. Cork",1500, Co. Cork,3 ,500.00
+24. ,"Model Village, Tower, Co. Cork",1800, Co. Cork,5 ,360.00
+25. ,"Lee Road, Cork City, Co. Cork",1250, Co. Cork,3 ,416.67
+26. ,"Coolmaine Mews, Kinsale Manor, Kinsale, Co. Cork",1800, Co. Cork,3 ,600.00
+27. ,"Brookfield Villas, College Road, Cork., Cork City, Co. Cork",3000, Co. Cork,5 ,600.00
+28. ,"Pearse Terrace, Mallow, Co. Cork",1050, Co. Cork,3 ,350.00
+29. ,"Hazeldene, Hazelwood, Mallow, Co. Cork",825, Co. Cork,2,412.50
+30. ,"Ballyclough Village, Mallow, Co. Cork",900, Co. Cork,2,450.00
+31. ,"Main Street, Ballyclough, Mallow, Co. Cork",900, Co. Cork,3,300.00
+32. ,"Brookyn House, 2 Glensprings, Lower Kileens, Black, Killeens, Co. Cork",550, Co. Cork,3 ,183.33
+33. ,"Maryville, Old Youghal Road, Youghal, Co. Cork",1030, Co. Cork,2,515.00
+34. ,"The Avenue, Rockfield, Church Road, Blackrock, Co. Cork",2050, Co. Cork,4 ,512.50
+35. ,"Carrigrohane, Carrigrohane, Co. Cork",2500, Co. Cork,5 ,500.00
+36. ,"Ballady House, Ballady, Belgooly, Co. Cork",2750, Co. Cork,5 ,550.00
+37. ,"Sherwood Blackrock Road, Blackrock, Co. Cork",4000, Co. Cork,4 ,1000.00
+38. ,"Riverhouse, Tisaxon Beg, Kinsale, Co. Cork",2000, Co. Cork,4,500.00
+39. ,"Lisheen Fields, Ballincollig, Co. Cork",1750, Co. Cork,5 ,350.00
+40. ,"The Courtyard Lodge, Longueville House, Ballycloug, Mallow, Co. Cork",3300, Co. Cork,5 ,660.00
+1. ,"Lough Eske, Donegal Town, Co. Donegal",550, Co. Donegal,3,183.33
+2. ,"12 College Park Letterkenny, Letterkenny, Co. Donegal",800, Co. Donegal,6 ,133.33
+3. ,"65 The Green, Ballymacool, Letterkenny, Co. Donegal",700, Co. Donegal,3 ,233.33
+4. ,"56 Glentain Manor, Letterkenny, Co. Donegal",750, Co. Donegal,3 ,250.00
+5. ,"81 Cara Bay, Culdaff, Co. Donegal",560, Co. Donegal,2 ,280.00
+6. ,"30 Clearwaters, Rathmullan, Co. Donegal",600, Co. Donegal,3 ,200.00
+7. ,"89 The Green, Thornberry, Letterkenny, Co. Donegal",850, Co. Donegal,3 ,283.33
+8. ,"Fort Royal House, Rathmullan, Co. Donegal",1400, Co. Donegal,4 ,350.00
+9. ,"Porthall, Lifford, Co. Donegal",550, Co. Donegal,2,275.00
+10. ,"14 St Johns Park, Gransha Road, Buncrana, Co. Donegal",750, Co. Donegal,4 ,187.50
+11. ,"42 Millbrea, Meadows, Ballyloskey, Carndonagh, Co. Donegal",600, Co. Donegal,3 ,200.00
+12. ,"21 Churchlands, Manorcunningham, Co. Donegal",650, Co. Donegal,4 ,162.50
+13. ,"39 Glenoughty Close, Glencar, Letterkenny, Co. Donegal",750, Co. Donegal,3,250.00
+14. ,"1 Killylastin Heights, Letterkenny, Co. Donegal",700, Co. Donegal,3 ,233.33
+15. ,"21 Brookfield Heights, Letterkenny, Co. Donegal",800, Co. Donegal,3,266.67
+16. ,"23 Ceanann View, Letterkenny, Co. Donegal",750, Co. Donegal,3 ,250.00
+17. ,"39 Cill Greine, Lismonaghan, Letterkenny, Co. Donegal",900, Co. Donegal,4 ,225.00
+18. ,"110 Ard O Donnell, Letterkenny, Co. Donegal",650, Co. Donegal,2,325.00
+19. ,"Drumacanoo, Churchill, Letterkenny, Co. Donegal",600, Co. Donegal,3,200.00
+20. ,"9 The Grange, Letterkenny, Co. Donegal",950, Co. Donegal,4 ,237.50
+21. ,"19 Orchard Grove, Ramelton Rd, Letterkenny, Co. Donegal",900, Co. Donegal,5 ,180.00
+22. ,"Cottage Rahan, Letterkenny, Co. Donegal",480, Co. Donegal,1,480.00
+23. ,"Carnamuggagh, Mountain Top, Letterkenny, Co. Donegal",700, Co. Donegal,4 ,175.00
+24. ,"9 Fairgreen Park, Letterkenny, Co. Donegal",650, Co. Donegal,4 ,162.50
+25. ,"32 Greenfields, Convoy, Co. Donegal",650, Co. Donegal,4 ,162.50
+26. ,"73 Rowan Park, Lismonaghan, Letterkenny, Co. Donegal",850, Co. Donegal,4 ,212.50
+27. ,"38 The Rectory, Fahan, Co. Donegal",780, Co. Donegal,3 ,260.00
+28. ,"Golf Course Road, Loughnagin, Letterkenny, Co. Donegal",800, Co. Donegal,3,266.67
+29. ,"43 Forest Park, Killygordon, Co. Donegal",435, Co. Donegal,2 ,217.50
+30. ,"No 2 The Mill Cottage, Stranorlar, Co. Donegal",560, Co. Donegal,3 ,186.67
+31. ,"36 Cuirt Aishling, Ballybofey, Co. Donegal",650, Co. Donegal,3 ,216.67
+32. ,"No 14 Glenview Park, Ballybofey, Co. Donegal",565, Co. Donegal,4,141.25
+33. ,"No 3 Williams Street, Raphoe, Co. Donegal",500, Co. Donegal,3,166.67
+34. ,"Ten Foot Road, Drung, Quigley's Point, Co. Donegal",1000, Co. Donegal,4 ,250.00
+35. ,"14 Gerards Way, Carndonagh, Co. Donegal",440, Co. Donegal,3,146.67
+36. ,"Thornberry, Letterkenny, Co. Donegal",800, Co. Donegal,4 ,200.00
+37. ,"28 Lennon View, Kilmacrenan, Co. Donegal",650, Co. Donegal,3 ,216.67
+38. ,"Lisnenan Court, Letterkenny, Co. Donegal",900, Co. Donegal,4 ,225.00
+39. ,"Coolvoy, Doochary, Co. Donegal",500, Co. Donegal,3,166.67
+40. ,"10 Woodlands, Ballyshannon, Co. Donegal",500, Co. Donegal,2,250.00
+1. ,"54 Raglan Lane, Ballsbridge, Dublin 4",6500, Dublin 4,3 ,2166.67
+2. ,"Belarmine Park, Stepaside, Dublin 18",3800, Dublin 18,4 ,950.00
+3. ,"8 The Avenue, Marianella, Rathgar, Dublin 6",5500, Dublin 6,5 ,1100.00
+4. ,"3 Mariners Lane, Dun Laoghaire, Co. Dublin",2600, Co. Dublin,3 ,866.67
+5. ,"Woodside Drive, Rathfarnham, Dublin 14",4750, Dublin 14,6 ,791.67
+6. ,"Geraldine Street, Dublin 7",2700, Dublin 7,3,900.00
+7. ,"Clogher Road, Crumlin, Dublin 12",1900, Dublin 12,2,950.00
+8. ,"Seafield Downs, Clontarf, Dublin 3",2500, Dublin 3,2 ,1250.00
+9. ,"99 Inchicore Rd., Kilmainham, Dublin 8",2600, Dublin 8,3,866.67
+10. ,"Old Estuary Mill, Malahide, Co. Dublin",3600, Co. Dublin,4 ,900.00
+11. ,"13 Milltown Avenue, Mount St Annes, Milltown, Dublin 6",2750, Dublin 6,3 ,916.67
+12. ,"20 Millbrook Village, Milltown, Dublin 6",2200, Dublin 6,2,1100.00
+13. ,"Victoria Road, Clontarf, Dublin 3",2200, Dublin 3,2,1100.00
+14. ,"Brookvale Downs, Rathfarnham, Dublin 14",2250, Dublin 14,3 ,750.00
+15. ,"Heathfield Monkstown Road, Monkstown, Co. Dublin",2150, Co. Dublin,2,1075.00
+16. ,"Dunbar, Off Eglington Road, Donnybrook, Donnybrook, Dublin 4",2980, Dublin 4,3 ,993.33
+17. ,"41 St. Johns Road, Sandymount, Dublin 4",3490, Dublin 4,3 ,1163.33
+18. ,"Joy Streets, Dublin 4",2500, Dublin 4,2,1250.00
+19. ,"Cairnfort, Enniskerry Road, Stepaside, Dublin 18",3650, Dublin 18,4 ,912.50
+20. ,"Foxrock Mount, Foxrock Park, Dublin 18, Foxrock, Dublin 18",3000, Dublin 18,4 ,750.00
+21. ,"Abbotts Grove Avenue, Knocklyon, Dublin 16",2300, Dublin 16,3 ,766.67
+22. ,"12 Wilfrid Terrace, Harold's Cross, Dublin 6w",2600, Dublin 6w,3 ,866.67
+23. ,"Farmleigh Close, Castleknock, Dublin 15",2600, Dublin 15,5 ,520.00
+24. ,"Ardoyne House, Pembroke Park, Ballsbridge, Dublin 4",4000, Dublin 4,4 ,1000.00
+25. ,"Bullock Harbour, Dalkey, Co. Dublin",3250, Co. Dublin,4 ,812.50
+26. ,"Torquay Road, Foxrock, Dublin 18",5250, Dublin 18,4 ,1312.50
+27. ,"Waterloo Place, Ballsbridge, Dublin 4",3500, Dublin 4,2 ,1750.00
+28. ,"Monaloe Avenue, Blackrock, Co. Dublin",2750, Co. Dublin,4,687.50
+29. ,"Kingstown Mews, Park Lane, Sandycove, Co. Dublin",3750, Co. Dublin,4 ,937.50
+30. ,"Bushy Park House, Terenure, Dublin 6w",5500, Dublin 6w,5 ,1100.00
+31. ,"Grace Park View Grace Park Road, Dublin 9, Whitehall, Dublin 9",5500, Dublin 9,5 ,1100.00
+32. ,"Nephin Road, Navan Road (D7), Dublin 7",2300, Dublin 7,3,766.67
+33. ,"All Hallows Square, Drumcondra, Dublin 9",2500, Dublin 9,3 ,833.33
+34. ,"2 Oldbridge Grove Griffeen Avenue Lucan Dublin, Lucan, Co. Dublin",2000, Co. Dublin,3 ,666.67
+35. ,"Wellington Road, Ballsbridge, Dublin 4",7500, Dublin 4,4 ,1875.00
+36. ,"Brewery Road, Stillorgan, Co. Dublin",2950, Co. Dublin,4 ,737.50
+37. ,"Kilmore Avenue, Killiney, Co. Dublin",7950, Co. Dublin,5 ,1590.00
+38. ,"Drummartin Terrace, Dundrum, Dublin 14",2400, Dublin 14,2 ,1200.00
+39. ,"Inglenook Wood, Glenamuck Road, Carrickmines, Dublin 18",3500, Dublin 18,4 ,875.00
+40. ,"Terenure Road West, Terenure, Dublin 6",4000, Dublin 6,4 ,1000.00
+1. ,"3 Melvin Cottages, Garrison, Co. Fermanagh, BT93 4ER",420480, BT93 4ER,2,210240.00
+1. ,"Seannareeough, Furbo, Co. Galway",1200, Co. Galway,4 ,300.00
+2. ,"An Reilean, Roscam, Co. Galway",2000, Co. Galway,4 ,500.00
+3. ,"Sunnybank Castlegar, Castlegar, Co. Galway",1200, Co. Galway,4,300.00
+4. ,"Doire Uachtair, Furbo, Co. Galway",1750, Co. Galway,5 ,350.00
+5. ,"Cahergal, Craughwell, Co. Galway",1400, Co. Galway,4 ,350.00
+6. ,"9 Upper Newcastle Road, Newcastle, Co. Galway",1200, Co. Galway,4 ,300.00
+7. ,"Bunasilla, Caherlistrane, Caherlistrane, Co. Galway",950, Co. Galway,4 ,237.50
+8. ,"Shanbally, Craughwell, Co. Galway",1750, Co. Galway,3 ,583.33
+9. ,"Gardenfield, Tuam, Co. Galway",1100, Co. Galway,5 ,220.00
+10. ,"42b Woodfield Knocknacarra, Knocknacarra, Co. Galway",1800, Co. Galway,3 ,600.00
+11. ,"Gentian Hill, Salthill, Co. Galway",4200, Co. Galway,6 ,700.00
+12. ,"No 6 St Annes, Newcastle Road, Dangan, Co. Galway",1795, Co. Galway,2 ,897.50
+13. ,"The Haven, Clybaun, Knocknacarra, near Salthill, Clybaun, Co. Galway",1600, Co. Galway,3 ,533.33
+14. ,"Coill tire, Doughiska, Co. Galway",1400, Co. Galway,3 ,466.67
+15. ,"Tiernea, Lettermore, Co. Galway",700, Co. Galway,4 ,175.00
+16. ,"Moyola Park, Newcastle, Co. Galway",2720, Co. Galway,5,544.00
+17. ,"13 Cottage Hill, Athenry Road, Loughrea, Loughrea, Co. Galway",1125, Co. Galway,4 ,281.25
+18. ,"37 Cottage Hill 35 'RADHARC NA SLEIBHTE',Athenry, Loughrea, Co. Galway",1125, Co. Galway,4 ,281.25
+19. ,"Grange, Cregmore, Co. Galway",799, Co. Galway,4,199.75
+20. ,"Grange, Turloughmore, Co. Galway",799, Co. Galway,4,199.75
+21. ,"Ashbrook, Oranmore, Co. Galway",1700, Co. Galway,4 ,425.00
+22. ,"95A Renville Village, Oranmore, Co. Galway",950, Co. Galway,2 ,475.00
+23. ,"Murrough Drive, Renmore, Co. Galway",1600, Co. Galway,5 ,320.00
+24. ,"Cregmore, Cregcarragh, Claregalway, Co. Galway",1250, Co. Galway,4 ,312.50
+25. ,"Ballybane Road, Ballybane, Co. Galway",320, Co. Galway,3 ,106.67
+26. ,"Cappagh, Dunmore, Co. Galway",700, Co. Galway,3,233.33
+27. ,"Newbridge, Mountbellew, Co. Galway",700, Co. Galway,4,175.00
+28. ,"""Willow Cottage"", Cloonmore, Tuam, Co. Galway",850, Co. Galway,3,283.33
+29. ,"Lisheenkyle East, Oranmore, Co. Galway",1700, Co. Galway,5 ,340.00
+30. ,"Ballybrit Heights, Ballybrit, Co. Galway",520, Co. Galway,4 ,130.00
+31. ,"Teal Cottage, Lough Cultra Castle, Gort, Co. Galway",900, Co. Galway,3 ,300.00
+32. ,"Rinville Village, Oranmore, Rinville, Co. Galway",1100, Co. Galway,2 ,550.00
+33. ,"37 Cottage Hill Athenry Road, Loughrea, Co. Galway",1125, Co. Galway,4 ,281.25
+34. ,"13 Cottage Hill Athenry Road, Loughrea, Co. Galway",1125, Co. Galway,4 ,281.25
+35. ,"Moycullen, Co. Galway",1000, Co. Galway,2,500.00
+36. ,"Lemonfield Oughterard, Oughterard, Co. Galway",725, Co. Galway,1,725.00
+37. ,"Oughterard, Co. Galway",675, Co. Galway,1,675.00
+38. ,"Oughterard, Co. Galway",900, Co. Galway,4,225.00
+39. ,"Oughterard, Co. Galway",675, Co. Galway,2,337.50
+40. ,"11 Ashbrook close, Mountbellew, Co. Galway",850, Co. Galway,5 ,170.00
+1. ,"Ballyvelly, Tralee, Co. Kerry",650, Co. Kerry,2,325.00
+2. ,"Finihy Woods, Tullakeel, Co. Kerry",1050, Co. Kerry,3 ,350.00
+3. ,"Taulaght, Tralee, Fenit, Co. Kerry",1400, Co. Kerry,6 ,233.33
+4. ,"Beenoskee, Ballyard, Tralee, Co. Kerry",1200, Co. Kerry,4 ,300.00
+5. ,"Main Street, Causeway, Co. Kerry",550, Co. Kerry,2,275.00
+6. ,"Hillside, Poulawaddra, Tralee, Co. Kerry",750, Co. Kerry,3 ,250.00
+7. ,"Churchill, The Spa, Fenit, Co. Kerry",1000, Co. Kerry,4 ,250.00
+8. ,"Sli Na Speire, Clieveragh, Listowel, Co. Kerry",600, Co. Kerry,3 ,200.00
+9. ,"The Sands, Ballybunion, Co. Kerry",850, Co. Kerry,4 ,212.50
+10. ,"East End, Ballybunion, Co. Kerry",750, Co. Kerry,3,250.00
+11. ,"Ardea, Tuosist, Kenmare, Co. Kerry",900, Co. Kerry,3 ,300.00
+12. ,"Ardoughter Ballyduff, Ballyduff, Co. Kerry",800, Co. Kerry,4 ,200.00
+13. ,"Brackhill, Castlemaine, Co. Kerry",650, Co. Kerry,4,162.50
+14. ,"Ref 792 - No. 6 Cois Tra, Ballinskelligs, Co. Kerry",850, Co. Kerry,3 ,283.33
+15. ,"Ref 788 - Cottage, Old Post Office Street, Cahersiveen, Co. Kerry",650, Co. Kerry,2,325.00
+16. ,"Ref 790 - No. 5 Cois Tra, Ballinskelligs, Co. Kerry",750, Co. Kerry,3 ,250.00
+17. ,"Opulent Secluded Rental, Killarney, Co. Kerry",2350, Co. Kerry,4 ,587.50
+18. ,"Mountway, Ballyheigue, Co. Kerry",700, Co. Kerry,3 ,233.33
+19. ,"Fossa, Killarney, Co. Kerry",1190, Co. Kerry,4 ,297.50
+20. ,"Fountain court Tralee, Tralee, Co. Kerry",700, Co. Kerry,2,350.00
+21. ,"Templenoe, Kenmare, Co. Kerry",975, Co. Kerry,3 ,325.00
+22. ,"Knocklyne Valley, Sunhill, Killorglin, Co. Kerry",1000, Co. Kerry,4 ,250.00
+23. ,"Ardmullen, Kenmare, Co. Kerry",1050, Co. Kerry,3 ,350.00
+24. ,"5 ardmullen kenmare, Kenmare, Co. Kerry",1250, Co. Kerry,8 ,156.25
+25. ,"SEAVIEW HOUSE, CURRAHEEN, Tralee, Co. Kerry",750, Co. Kerry,3 ,250.00
+26. ,"Kealduv, Glenbeigh, Co. Kerry",750, Co. Kerry,3 ,250.00
+27. ,"The Stables Cottage, Killorglin, Co. Kerry",625, Co. Kerry,1,625.00
+28. ,"Shandrum, Kilgarvan, Co. Kerry",800, Co. Kerry,4 ,200.00
+29. ,"Termons Upper, Waterville, Co. Kerry",975, Co. Kerry,3 ,325.00
+30. ,"Tiernaboul, Killarney, Co. Kerry",1000, Co. Kerry,4 ,250.00
+31. ,"Sunhill, Killorglin, Co. Kerry",900, Co. Kerry,4 ,225.00
+32. ,"Ardcanaught House, Castlemaine, Co. Kerry",625, Co. Kerry,4 ,156.25
+33. ,"No. 48 Knocklyne Valley, Sunhill, Killorglin, Co. Kerry",800, Co. Kerry,3 ,266.67
+34. ,"Droum, Glenbeigh, Co. Kerry",750, Co. Kerry,4 ,187.50
+35. ,"Baile An Tooreen, Killorglin, Co. Kerry",800, Co. Kerry,3 ,266.67
+36. ,"The Crescent Greenfileds Firies Killarney, Killarney, Co. Kerry",900, Co. Kerry,3 ,300.00
+37. ,"29 Clarin Wood, Rathmore, Co. Kerry",1000, Co. Kerry,5 ,200.00
+38. ,"Laune View, Killorglin, Co. Kerry",400, Co. Kerry,1,400.00
+39. ,"Teachers Lodge Ownagarry, Killorglin, Co. Kerry",900, Co. Kerry,4 ,225.00
+40. ,"Ballinvosherig West, Tralee, Co. Kerry",900, Co. Kerry,4 ,225.00
+1. ,"Riverside, Portarlington, Co. Laois",1000, Co. Laois,3 ,333.33
+2. ,"8 powerscourt Portlaoise, Portlaoise, Co. Laois",1100, Co. Laois,3 ,366.67
+3. ,"Glenkeen Park, Fairgreen, Portlaoise, Co. Laois",950, Co. Laois,3 ,316.67
+4. ,"Rossdarragh Glen, Rathevan, Portlaoise, Co. Laois",975, Co. Laois,3 ,325.00
+5. ,"Clondarrig Court, Bellingham, Portlaoise, Co. Laois",1050, Co. Laois,3 ,350.00
+6. ,"Rathevan Close, Portlaoise, Co. Laois",900, Co. Laois,2 ,450.00
+7. ,"Ivy House, The Heritage Golf & Country Club, Killenard, Co. Laois",4800, Co. Laois,5 ,960.00
+8. ,"88 The Glen, Kilnacourt Woods, Portarlington, Portarlington, Co. Laois",1000, Co. Laois,3,333.33
+9. ,"The Grange, Portlaoise, Co. Laois",1050, Co. Laois,3,350.00
+10. ,"Rathevan Heights, Portlaoise, Co. Laois",1200, Co. Laois,4 ,300.00
+11. ,"4 Ossory Court, Borris-in-Ossory, Co. Laois",900, Co. Laois,5 ,180.00
+12. ,"Rossvale, Mountmellick Road, Portlaoise, Co. Laois",1150, Co. Laois,4,287.50
+13. ,"Castlegate, Portarlington, Co. Laois",1200, Co. Laois,4 ,300.00
+14. ,"Doire og,derry, Rosenallis, Co. Laois",900, Co. Laois,3 ,300.00
+15. ,"The green,Main Street, Stradbally, Co. Laois",800, Co. Laois,2,400.00
+16. ,"Boughlone Way, Bellingham, Portlaoise, Co. Laois",1200, Co. Laois,3 ,400.00
+17. ,"Higgins Park, Fairgreen, Portlaoise, Co. Laois",900, Co. Laois,2 ,450.00
+18. ,"Woodgrove, Ballyfin Rd, Portlaoise, Co. Laois",975, Co. Laois,3 ,325.00
+19. ,"Dublin Road, Rathbrennan, Portlaoise, Co. Laois",1250, Co. Laois,5 ,250.00
+20. ,"No.34 Ashley Gardens, Portlaoise, Co. Laois",1200, Co. Laois,3 ,400.00
+21. ,"No.18 Bluebell Way, Portlaoise, Co. Laois",1100, Co. Laois,3 ,366.67
+22. ,"Lake Court, Kilminchy, Portlaoise, Co. Laois",1250, Co. Laois,5 ,250.00
+23. ,"14 Clarney Hall, Rathdowney, Co. Laois",850, Co. Laois,3 ,283.33
+24. ,"woodbrook mountrath, Mountrath, Co. Laois",900, Co. Laois,4 ,225.00
+25. ,"Pine Villa, Portarlington, Co. Laois",950, Co. Laois,3 ,316.67
+26. ,"2 Grattan place, Portlaoise, Co. Laois",1000, Co. Laois,3 ,333.33
+27. ,"New Inn, Emo, Co. Laois",2500, Co. Laois,5 ,500.00
+28. ,"Lake Grove, Kilminchy, Portlaoise, Co. Laois",1100, Co. Laois,4 ,275.00
+29. ,"Sweetview, Abbeyleix, Co. Laois",850, Co. Laois,3,283.33
+30. ,"the strand road, Ballickmoyler, Co. Laois",600, Co. Laois,1,600.00
+31. ,"The Sycamores, Kilnacourt Woods, Portarlington, Co. Laois",1100, Co. Laois,3 ,366.67
+32. ,"2 lake grove, Kilminchy, Portlaoise, Co. Laois",1000, Co. Laois,2 ,500.00
+33. ,"No.24 Erkindale Drive, Durrow, Co. Laois",1000, Co. Laois,3,333.33
+34. ,"44, lake drive, Kilminchy, Portlaoise, Co. Laoise, Portlaoise, Co. Laois",1000, Co. Laois,3 ,333.33
+35. ,"Radharc Na Sleibhte, Shannon Road, Mountrath, Co. Laois",900, Co. Laois,3 ,300.00
+36. ,"63 Rinuccini, Portlaoise, Co. Laois",1250, Co. Laois,3 ,416.67
+1. ,"38 Carbery Coast, Tullaghan, Co. Leitrim",750, Co. Leitrim,4 ,187.50
+2. ,"Ardrum, Ballinamore, Co. Leitrim",500, Co. Leitrim,3,166.67
+3. ,"2 Cluain Alainn, Carrigallen, Co. Leitrim",650, Co. Leitrim,4 ,162.50
+4. ,"21 Anville Court, Ballinamore, Co. Leitrim",550, Co. Leitrim,3 ,183.33
+5. ,"Jacob's Well, Druminalass, Ballinagleragh, Co. Leitrim",600, Co. Leitrim,6 ,100.00
+6. ,"15 Hillcrest, Stonebridge, Dromahair, Co. Leitrim",650, Co. Leitrim,3 ,216.67
+7. ,"Lisconor, Kilclare, Carrick on Shannon, Drumshanbo, Co. Leitrim",400, Co. Leitrim,3,133.33
+8. ,"10 MacRaghnaill Court,Lough Rynn, Mohill, Co. Leitrim",550, Co. Leitrim,3 ,183.33
+9. ,"acorn woods, Leitrim, Co. Leitrim",800, Co. Leitrim,4 ,200.00
+10. ,"Clement's Court, Lough Rynn, Mohill, Co. Leitrim",500, Co. Leitrim,3 ,166.67
+11. ,"1 Clooneen Park, Manorhamilton, Co. Leitrim",650, Co. Leitrim,3 ,216.67
+12. ,"9 Beechcourt, Newtowngore, Co. Leitrim",500, Co. Leitrim,3 ,166.67
+13. ,"Hyde St, Mohill, Co. Leitrim",500, Co. Leitrim,3 ,166.67
+14. ,"Earls Court, Lough Rynn Estate, Mohill, Co. Leitrim",580, Co. Leitrim,3 ,193.33
+15. ,"Lord Leitrim Court , Rynn Castle Estate, Mohill, Co. Leitrim",590, Co. Leitrim,3 ,196.67
+16. ,"The Waterfront, Dromod, Co. Leitrim",700, Co. Leitrim,3,233.33
+17. ,"cortober, Carrick-on-Shannon, Co. Leitrim",750, Co. Leitrim,3 ,250.00
+18. ,"Rossfriar, Kinlough, Co. Leitrim",590, Co. Leitrim,3,196.67
+19. ,"Conray Glencar, Manorhamilton, Co. Leitrim",850, Co. Leitrim,3 ,283.33
+20. ,"Glenfarne Road, Kiltyclogher, Co. Leitrim",485, Co. Leitrim,3,161.67
+21. ,"Mullagh, Dromahair, Co. Leitrim",550, Co. Leitrim,1,550.00
+22. ,"Parke, Kinlough, Co. Leitrim",600, Co. Leitrim,3,200.00
+23. ,"Main Street, Carrigallen, Co. Leitrim",550, Co. Leitrim,3 ,183.33
+1. ,"Galtee View House, Ballylanders, Co. Limerick",1650, Co. Limerick,4 ,412.50
+2. ,"Richmond Park, Corbally, Co. Limerick",1400, Co. Limerick,4 ,350.00
+3. ,"The Meadows, Lower Park, Corbally, Co. Limerick",1600, Co. Limerick,4 ,400.00
+4. ,"Evanwood, Golf Links Road, Castletroy, Castletroy, Co. Limerick",1600, Co. Limerick,3 ,533.33
+5. ,"Knocknaboula, Foynes, Co. Limerick",800, Co. Limerick,4,200.00
+6. ,"Grianan, Westbury, Limerick City, Co. Limerick",1150, Co. Limerick,3 ,383.33
+7. ,"The Paddocks, Briarfield, Castletroy, Co. Limerick",1250, Co. Limerick,3,416.67
+8. ,"Lissanalta Close, Dooradoyle, Co. Limerick",1400, Co. Limerick,4 ,350.00
+9. ,"Vernon Crescent, Corbally, Co. Limerick",1000, Co. Limerick,3,333.33
+10. ,"Cul Crannagh, Dooradoyle, Co. Limerick",1700, Co. Limerick,4 ,425.00
+11. ,"Jackson Turret, Clancy Strand, Limerick City, Co. Limerick",2200, Co. Limerick,3 ,733.33
+12. ,"Larch Close, Bloomfield, Castletroy, Co. Limerick",1800, Co. Limerick,4 ,450.00
+13. ,"Dromroe, Rhebogue, Co. Limerick",1200, Co. Limerick,3 ,400.00
+14. ,"Bloomfield, Annacotty, Co. Limerick",1400, Co. Limerick,3 ,466.67
+15. ,"Annagh, Lisnagry, Co. Limerick",850, Co. Limerick,2,425.00
+16. ,"Oakfield, Raheen, Co. Limerick",1400, Co. Limerick,3 ,466.67
+17. ,"Golf links road, Castletroy, Co. Limerick",1480, Co. Limerick,4 ,370.00
+18. ,"4 Avignon, Milford Grange, Castletroy, Co. Limerick",464, Co. Limerick,1,464.00
+19. ,"Templeville, Punches Close, Ballinacurra, Co. Limerick",2000, Co. Limerick,5 ,400.00
+20. ,"Caherline, Caherconlish, Co. Limerick",850, Co. Limerick,3,283.33
+21. ,"Dromroe Avenue, Woodhaven, Castletroy, Co. Limerick",1300, Co. Limerick,3 ,433.33
+22. ,"Willow Crescent, Annacotty, Co. Limerick",1500, Co. Limerick,4 ,375.00
+23. ,"11 St. Joseph Villas, St. Joseph Street, Limerick, Limerick City, Co. Limerick",2000, Co. Limerick,3 ,666.67
+24. ,"Kilderry, Crecora, Co. Limerick",1200, Co. Limerick,4 ,300.00
+25. ,"Ashbrook, Ennis Road, Limerick City, Co. Limerick",1500, Co. Limerick,4 ,375.00
+26. ,"39 Elm Road, Annacotty, Co. Limerick",1500, Co. Limerick,4 ,375.00
+27. ,"Ballyaglish, Ballysteen, Co. Limerick",750, Co. Limerick,3,250.00
+28. ,"55 Elm Road Riverbank Anacotty, Annacotty, Co. Limerick",1300, Co. Limerick,4 ,325.00
+29. ,"Fitzhaven Square, South Circular Road, Co. Limerick",480, Co. Limerick,4 ,120.00
+30. ,"Avignon, Milford Grange, Castletroy, Co. Limerick",400, Co. Limerick,6 ,66.67
+31. ,"Knockbrack, Abbeyfeale, Co. Limerick",550, Co. Limerick,2,275.00
+32. ,"Mount Green, Castletroy, Co. Limerick",1250, Co. Limerick,4 ,312.50
+33. ,"Rower More, Adare, Co. Limerick",1000, Co. Limerick,3,333.33
+34. ,"No 127 Ard na Gruadan, Castletroy, Co. Limerick",335, Co. Limerick,6 ,55.83
+35. ,"Avondale Drive, Greystones, Ennis Road, Co. Limerick",1100, Co. Limerick,3,366.67
+36. ,"Heron Court, North Circular Road, Co. Limerick",1400, Co. Limerick,4 ,350.00
+37. ,"Main Street, Ballylanders, Co. Limerick",750, Co. Limerick,3 ,250.00
+38. ,"Cluain Arra, Newcastle West, Co. Limerick",800, Co. Limerick,3 ,266.67
+39. ,"Castle Court, Clancy Strand, Limerick City, Co. Limerick",1200, Co. Limerick,2 ,600.00
+40. ,"Mortgage, Meanus, Co. Limerick",1150, Co. Limerick,2 ,575.00
+1. ,"Harbour Road Tarmon Harbour Tarmonbarry Village, Tarmonbarry, Co. Longford",900, Co. Longford,4 ,225.00
+2. ,"Ballintampan,Curry, Longford Town, Co. Longford",650, Co. Longford,2,325.00
+3. ,"Auburn Park, Edgeworthstown, Co. Longford",600, Co. Longford,3 ,200.00
+4. ,"Cluain Caonach, Keenagh, Co. Longford",750, Co. Longford,4 ,187.50
+5. ,"Newcastle Court, CLUAIN RI, Ballymahon, Co. Longford",850, Co. Longford,4 ,212.50
+6. ,"Ballywillan, Granard, Co. Longford",650, Co. Longford,4,162.50
+7. ,"The Green, Lanesborough, Lanesborough, Co. Longford",675, Co. Longford,4 ,168.75
+8. ,"90 Shannon Park, Edgeworthstown, Co. Longford",1000, Co. Longford,4 ,250.00
+9. ,"Clonbalt Woods, Longford Town, Co. Longford",850, Co. Longford,4 ,212.50
+10. ,"Rathcline, Lanesborough, Co. Longford",650, Co. Longford,3,216.67
+11. ,"Tullyvrane, Lanesborough, Co. Longford",600, Co. Longford,3 ,200.00
+12. ,"Barnacor, Lanesborough, Co. Longford",750, Co. Longford,4,187.50
+13. ,"42,Clough Dillon, Keenagh, Co. Longford",750, Co. Longford,4 ,187.50
+14. ,"14, Harbor view, Tarmonbarry, Co. Longford",800, Co. Longford,4 ,200.00
+15. ,"Aughadegnan, Longford Town, Co. Longford",900, Co. Longford,3,300.00
+16. ,"26 Silver Birches , Stonepark, Danesfort, Co. Longford",700, Co. Longford,3 ,233.33
+17. ,"14 Cluain Dara, Lanesborough, Co. Longford",700, Co. Longford,3 ,233.33
+18. ,"Sycamore Close, Clonbalt Woods, Longford Town, Co. Longford",900, Co. Longford,4 ,225.00
+19. ,"Forthill, Aughnacliffe, Co. Longford",750, Co. Longford,3 ,250.00
+20. ,"Cornageelagh, Newtowncashel, Co. Longford",600, Co. Longford,3,200.00
+21. ,"Cnoc Na Gaoithe, Lanesborough, Co. Longford",3000, Co. Longford,3 ,1000.00
+22. ,"Cahannagh, Longford Town, Co. Longford",750, Co. Longford,4,187.50
+23. ,"Forgney Ballymahon, Ballymahon, Co. Longford",1200, Co. Longford,4,300.00
+24. ,"Shantobar, Ballinalee, Co. Longford",650, Co. Longford,3 ,216.67
+25. ,"1 Esker Glen, Drumlish, Co. Longford",775, Co. Longford,4 ,193.75
+26. ,"Water's Edge, Lanesborough, Co. Longford",850, Co. Longford,2 ,425.00
+1. ,"106 Bryanstown Manor, Bryanstown, Drogheda, Co. Louth",1500, Co. Louth,3 ,500.00
+2. ,"tallanstown manor, Tallanstown, Co. Louth",1200, Co. Louth,4 ,300.00
+3. ,"Bachelors Walk, Dundalk, Co. Louth",1050, Co. Louth,2,525.00
+4. ,"36 Colpe View, Deepforde, Dublin Road, Drogheda, Co. Louth",1600, Co. Louth,3 ,533.33
+5. ,"Togher, Drogheda, Co. Louth",1200, Co. Louth,3,400.00
+6. ,"Duddestown, Togher, Co. Louth",1200, Co. Louth,3,400.00
+7. ,"6 Cuchilainn Terrace, Dundalk, Co. Louth",900, Co. Louth,3 ,300.00
+8. ,"28 Riverside Drive, Dundalk, Co. Louth",1200, Co. Louth,3 ,400.00
+9. ,"Broughton Street, Dundalk, Co. Louth",1000, Co. Louth,3,333.33
+10. ,"Gosling Terrace, Dundalk, Co. Louth",850, Co. Louth,2,425.00
+11. ,"Oyster Bay, Carlingford, Co. Louth",950, Co. Louth,3 ,316.67
+12. ,"Annaverna, Ravensdale, Co. Louth",1100, Co. Louth,5 ,220.00
+13. ,"5 Priory Villas, Dundalk, Co. Louth",1700, Co. Louth,2 ,850.00
+14. ,"Lisheen Pk, Knockbridge, Co. Louth",1100, Co. Louth,3,366.67
+15. ,"Charlestown, Ardee, Co. Louth",780, Co. Louth,2,390.00
+16. ,"Mellifont Court, Collon, Co. Louth",1250, Co. Louth,3 ,416.67
+17. ,"The cottage, Blackrock, Co. Louth",900, Co. Louth,3,300.00
+18. ,"Wyanstown, Togher, Co. Louth",1250, Co. Louth,4 ,312.50
+19. ,"Oldbridge, Mell, Drogheda, Co. Louth",1600, Co. Louth,4 ,400.00
+20. ,"Culhane Street, Dundalk, Co. Louth",1200, Co. Louth,4,300.00
+21. ,"Sea View, Annagassan, Co. Louth",1000, Co. Louth,3,333.33
+22. ,"Silk Park, Drogheda, Co. Louth",1500, Co. Louth,3 ,500.00
+23. ,"Canonstown, Termonfeckin, Co. Louth",1500, Co. Louth,3,500.00
+24. ,"Clogher Cove, Clogherhead, Co. Louth",1500, Co. Louth,5 ,300.00
+25. ,"Blackhall, Sunhill, Termonfeckin, Co. Louth",1250, Co. Louth,4 ,312.50
+26. ,"Langfield, Dublin Road, Dundalk, Co. Louth",1300, Co. Louth,3 ,433.33
+27. ,"Kingswood, Rock Road, Dundalk, Co. Louth",1500, Co. Louth,5 ,300.00
+28. ,"The Garden House, Barmeath Castle, Dunleer, Co. Louth",1500, Co. Louth,6 ,250.00
+29. ,"20 Clos Aodhan, Saltown, Dundalk, Co. Louth",1200, Co. Louth,3 ,400.00
+30. ,"38 Seatown, Dundalk, Co. Louth",1200, Co. Louth,4 ,300.00

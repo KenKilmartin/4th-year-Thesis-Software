@@ -1,0 +1,403 @@
+House,Price,County,Room,Approx price per room
+"1. Apartment 12-09, The Arc, 2K Queens Road, Belfast, Belfast City Centre, Belfast, Co. Antrim",850970, Co. Antrim,2,425485.00
+"1. Glynn, St. Mullins, Co. Carlow",700, Co. Carlow,4,175.00
+"2. Ferry Bank, Graiguecullen, Co. Carlow",850, Co. Carlow,2,425.00
+"3. Dublin Street, Carlow Town, Co. Carlow",850, Co. Carlow,3,283.33
+"4. Riverdell, Haymarket, Carlow Town, Co. Carlow",825, Co. Carlow,2,412.50
+"5. Centaur House, Carlow Town, Co. Carlow",950, Co. Carlow,2,475.00
+"6. phelim crescent, Tullow, Co. Carlow",800, Co. Carlow,3,266.67
+"7. Barrow Mews, Carlow Town, Co. Carlow",750, Co. Carlow,1,750.00
+"1. No. 10 Eaglewood, Belturbet, Co. Cavan",550, Co. Cavan,2,275.00
+"2. Apt. 31 Railway Lough, Belturbet, Co. Cavan",450, Co. Cavan,1,450.00
+"3. 13 Headford Grove, Virginia, Co. Cavan",800, Co. Cavan,3,266.67
+"4. Lakelands, Virginia, Co. Cavan",750, Co. Cavan,2,375.00
+"5. Rivercrescent, Virginia, Co. Cavan",550, Co. Cavan,1,550.00
+"6. Main Street, Cavan, Co. Cavan",550, Co. Cavan,1,550.00
+"7. Stramatt, Lisduff, Virginia, Co. Cavan",900, Co. Cavan,3,300.00
+"8. Deerpark, Virginia, Co. Cavan",700, Co. Cavan,3,233.33
+"9. Russell Quay, Ballyconnell, Co. Cavan, Ballyconnell, Co. Cavan",685, Co. Cavan,2,342.50
+"10. blacklion, Blacklion, Co. Cavan",450, Co. Cavan,2,225.00
+"11. Apt 7 Woodford View, Ballyconnell, Co. Cavan",550, Co. Cavan,2,275.00
+"12. 2 Annalee Drive, Ballyhaise Cavan, Ballyhaise, Co. Cavan",600, Co. Cavan,2,300.00
+"13. Poles, Cavan, Co. Cavan",950, Co. Cavan,1,950.00
+"1. Cuirt Na HEaglaise, Newmarket on Fergus, Co. Clare",800, Co. Clare,2,400.00
+"2. Woodbrook, Newmarket on Fergus, Co. Clare",650, Co. Clare,1,650.00
+"3. Boheraroan, Newmarket on Fergus, Co. Clare",800, Co. Clare,2,400.00
+"4. 135 Bru na Sionna, Shannon, Co. Clare",825, Co. Clare,2,412.50
+"5. 10 Ros na Greine, Shannon, Co. Clare",1200, Co. Clare,5,240.00
+"6. Merchants Quay, Kilrush, Co. Clare",700, Co. Clare,2,350.00
+"7. Riverwood Retirement village, Kilrush, Co. Clare",650, Co. Clare,1,650.00
+"8. Bruagh Na Habhann, Quinn road, Ennis, Co. Clare",825, Co. Clare,2,412.50
+"9. 1 Maple house Drumgeely, Shannon, Co. Clare",700, Co. Clare,2,350.00
+"10. Lahinch Road, Ennistymon, Ennistymon, Co. Clare",600, Co. Clare,2,300.00
+"11. Salthouse Lane, Ennis, Co. Clare",800, Co. Clare,2,400.00
+"12. Boheroan, Newmarket on Fergus, Co. Clare",800, Co. Clare,2,400.00
+"13. Moore Street, Kilrush, Co. Clare",400, Co. Clare,1,400.00
+"14. Apartment 1, Garna House Retail Centre, Sixmilebridge, Co. Clare",800, Co. Clare,3,266.67
+"15. 3 Merchant's Quay, Kilrush, Co. Clare",360, Co. Clare,1,360.00
+"1. South Douglas Road, Cork City, Co. Cork",1440, Co. Cork,2,720.00
+"2. Orchard Court, Victoria Cross, Victoria Cross, Co. Cork",1373, Co. Cork,2,686.50
+"3. 24 Ronayns Court, Rochestown Road, Douglas, Co. Cork",1500, Co. Cork,2,750.00
+"4. Douglas House, Douglas, Co. Cork",1400, Co. Cork,2,700.00
+"5. 24 Rivergold, Lavitts Quay, Cork City, Co. Cork",1350, Co. Cork,1,1350.00
+"6. Camden Court , Carolls Quay , Cork ., Cork City, Co. Cork",1600, Co. Cork,2,800.00
+"7. Eagle Valley, Wilton, Co. Cork",1500, Co. Cork,4,375.00
+"8. River Towers, Lee Road, Cork City, Co. Cork",2550, Co. Cork,1,2550.00
+"9. South Terrace, Cork City, Co. Cork",1250, Co. Cork,1,1250.00
+"10. 11 Blackrock Grove, Eden, Blackrock, Co. Cork",1400, Co. Cork,2,700.00
+"11. 48 Mill House, Mill Road, Midleton, Co. Cork",1150, Co. Cork,2,575.00
+"12. Cloghroe House, Ballincollig, Co. Cork",825, Co. Cork,1,825.00
+"13. Corrin Court, Cork Road, Fermoy, Co. Cork",795, Co. Cork,2,397.50
+"14. Blarney Street, Cork City, Co. Cork",1260, Co. Cork,2,630.00
+"15. Kingsbridge, South Douglas Road, Douglas, Co. Cork",1440, Co. Cork,2,720.00
+"16. Granary Hall, Mount Oval, Rochestown, Co. Cork",1350, Co. Cork,2,675.00
+"17. Tivoli Woods, Tivoli, Co. Cork",1050, Co. Cork,2,525.00
+"18. Maryborough Ridge, Douglas, Co. Cork",1620, Co. Cork,3,540.00
+"19. The Crescent, Cork City, Co. Cork",1305, Co. Cork,2,652.50
+"20. Main St, Watergrasshill, Co. Cork",2500, Co. Cork,4,625.00
+"1. 2 Railway Court, Pearse Road, Letterkenny, Co. Donegal",650, Co. Donegal,2,325.00
+"2. Apt 4, Main St, St. Johnston, Co. Donegal",390, Co. Donegal,1,390.00
+"3. 21 Quayside Apartments, Ramelton, Co. Donegal",850, Co. Donegal,3,283.33
+"4. 18 The Fort, Greencastle, Co. Donegal",750, Co. Donegal,3,250.00
+"5. 49 Grand Central Apartments, Letterkenny, Co. Donegal",650, Co. Donegal,2,325.00
+"6. Trentaboy, Drumkeen, Co. Donegal",600, Co. Donegal,1,600.00
+"7. Apt 1 86 Upper Main street, Letterkenny, Co. Donegal",600, Co. Donegal,2,300.00
+"8. 14 Glenveagh Court, Letterkenny, Co. Donegal",800, Co. Donegal,3,266.67
+"9. The Maples, Lismonaghan, Letterkenny, Co. Donegal",565, Co. Donegal,1,565.00
+"10. Apt 7 The Gallery, Navenny Street, Ballybofey, Co. Donegal",520, Co. Donegal,2,260.00
+"11. 31 Cill Greine, Letterkenny, Co. Donegal",600, Co. Donegal,2,300.00
+"12. Aras Patrick Kavanagh, Letterkenny, Co. Donegal",845, Co. Donegal,1,845.00
+"13. 6 Church Lane Apt, Letterkenny, Co. Donegal",650, Co. Donegal,2,325.00
+"14. riverside, Letterkenny, Co. Donegal",520, Co. Donegal,2,260.00
+"15. St Annes Court, Letterkenny, Co. Donegal",550, Co. Donegal,2,275.00
+"16. Ardmore Court, Upper Main Street, Ballyshannon, Co. Donegal",550, Co. Donegal,2,275.00
+"17. 1 Bakers Court, Ballyshannon, Co. Donegal",550, Co. Donegal,2,275.00
+"18. Apt 2 William Street, Raphoe, Co. Donegal",320, Co. Donegal,1,320.00
+"19. Riverside View, Letterkenny, Co. Donegal",440, Co. Donegal,2,220.00
+"20. The Barn, Killylastin, Letterkenny, Co. Donegal",500, Co. Donegal,1,500.00
+"1. 7 Carlinn's Cove, Rostrevor, Co. Down",700799, Co. Down,3,233599.67
+"1. 20 Belfield Park, Stillorgan, Co. Dublin",2100, Co. Dublin,2,1050.00
+"2. Shelbourne Road Apartments, Ballsbridge, Dublin 4",3600, Dublin 4,2,1800.00
+"3. The Grange, Brewery Road, Stillorgan, Co. Dublin",1950, Co. Dublin,2,975.00
+"4. Inglenook Wood, Glenamuck Road, Carrickmines, Carrickmines, Dublin 18",2100, Dublin 18,2,1050.00
+"5. Cathedral Court, Dublin 2",2800, Dublin 2,2,1400.00
+"6. Cathedral Court, Dublin 2",2250, Dublin 2,1,2250.00
+"7. Capital Dock, Sir John Rogerson's Quay, Grand Canal Dock, Dublin 2",3300, Dublin 2,2,1650.00
+"8. Vico Terrace, Vico Road, Dalkey, Co. Dublin",7000, Co. Dublin,3,2333.33
+"9. Bushy Park House, Terenure, Dublin 6w",1792, Dublin 6w,1,1792.00
+"10. Adelaide Square, Dublin 2",3400, Dublin 2,2,1700.00
+"11. Sweepstakes, Ballsbridge, Dublin 4",3000, Dublin 4,3,1000.00
+"12. 30 The Marker residence, Grand Canal Dock, Dublin 2",3535, Dublin 2,2,1767.50
+"13. Herbert Park Lane, Ballsbridge, Dublin 4",4000, Dublin 4,2,2000.00
+"14. The Marker Residence, Grand Canal Dock, Dublin 2",3000, Dublin 2,2,1500.00
+"15. 532 The Maple,Beacon South Quarter, Sandyford, Dublin 18",2300, Dublin 18,2,1150.00
+"16. Levmoss Hall, the Gallops, Leopardstown, Dublin 18",2250, Dublin 18,2,1125.00
+"17. The Grange, Brewery Road, Stillorgan, Co. Dublin",2400, Co. Dublin,2,1200.00
+"18. Clancy Quay by Kennedy Wilson, Dublin 8",1700, Dublin 8,1,1700.00
+"19. Vantage by Kennedy Wilson, Central Park, Leopardstown, Dublin 18",2939, Dublin 18,3,979.67
+"20. Vantage by Kennedy Wilson, Central Park, Leopardst, Leopardstown, Dublin 18",2300, Dublin 18,2,1150.00
+"1. Apartment 2, Garrison, Co. Fermanagh, BT93 4AE",400456, BT93 4AE,2,200228.00
+"1. Sliabh Ard, Bothar Stiofan, Knocknacarra, Co. Galway",968, Co. Galway,2,484.00
+"2. Edward Square Apartments, Barrack Lane, Galway City, Co. Galway",988, Co. Galway,3,329.33
+"3. Garran Ard, Doughiska, Co. Galway",1300, Co. Galway,3,433.33
+"4. Gleann Na Ri, Murrough, Renmore, Renmore, Co. Galway",1065, Co. Galway,2,532.50
+"5. Lios Ealtain, Nile Lodge, Galway City, Co. Galway",1500, Co. Galway,3,500.00
+"6. Abbey Court, Mary Street, Galway City, Co. Galway",1250, Co. Galway,2,625.00
+"7. Castle Street, Galway City, Co. Galway",1300, Co. Galway,2,650.00
+"8. 6A Rocklands Ave, Ballybane, Co. Galway",550, Co. Galway,1,550.00
+"9. No. 81 Coill Tire, Doughiska, Co. Galway",1800, Co. Galway,2,900.00
+"10. 108 Bluebell Woods, Oranmore, Co Galway, Oranmore, Co. Galway",1100, Co. Galway,2,550.00
+"11. No. 12 An Creagan, Barna, Co. Galway",1400, Co. Galway,2,700.00
+"12. Annaghill, Lackagh, Co. Galway",600, Co. Galway,1,600.00
+"13. Ce Na Mara, The Docks, Galway City, Co. Galway",1500, Co. Galway,2,750.00
+"14. Serviced Apartment, Lough Atalia, Galway City, Co. Galway",2600, Co. Galway,2,1300.00
+"15. Sheerwater House, Galway City, Co. Galway",2000, Co. Galway,2,1000.00
+"16. Ocean Towers, Blackrock, Salthill, Co. Galway",1600, Co. Galway,2,800.00
+"17. An Creagan, Barna, Co. Galway",1350, Co. Galway,2,675.00
+"18. LIOS EALTÁN, LOWER SALTHILL, Salthill, Co. Galway",1250, Co. Galway,2,625.00
+"19. Cuirt Na hHabhann, Liosban, Galway City, Co. Galway",1350, Co. Galway,2,675.00
+"20. Shannon Oaks St Joesphs Road, Portumna, Co. Galway",700, Co. Galway,2,350.00
+"1. Tralee Marina, Tralee, Co. Kerry",825, Co. Kerry,2,412.50
+"2. Tralee Marina, Tralee, Co. Kerry",800, Co. Kerry,2,400.00
+"3. The Anchorage, Tralee, Co. Kerry",800, Co. Kerry,2,400.00
+"4. An Sean Mhuileann, Tralee, Co. Kerry",795, Co. Kerry,2,397.50
+"5. William Street, Listowel, Co. Kerry",480, Co. Kerry,2,240.00
+"6. Market Passage, The Mall, Tralee, Co. Kerry",650, Co. Kerry,2,325.00
+"7. Park Road, Killarney, Co. Kerry",980, Co. Kerry,2,490.00
+"8. Cuirt Cleady, Glanerought, Kenmare, Co. Kerry",700, Co. Kerry,2,350.00
+"9. 12 Grosvenor Court, High Street, Killarney, Co. Kerry",850, Co. Kerry,2,425.00
+"10. Ref 777 - Apartment, New Street, Cahersiveen, Co. Kerry",600, Co. Kerry,2,300.00
+"11. Park Road, Killarney, Co. Kerry",1050, Co. Kerry,2,525.00
+"12. Killarney Road, Castleisland, Co. Kerry",520, Co. Kerry,2,260.00
+"13. Killorglin Town Centre, Killorglin, Co. Kerry",700, Co. Kerry,2,350.00
+"14. Main Street, Killorglin, Co. Kerry",600, Co. Kerry,2,300.00
+"15. Apt 1 Scrahan Place, Ross road, Killarney, Co. Kerry",900, Co. Kerry,2,450.00
+"16. Main St., Castleisland, Co. Kerry",500, Co. Kerry,2,250.00
+"17. Apartment 4 Town Centre, Killorglin, Co. Kerry",600, Co. Kerry,1,600.00
+"18. Kilbrean, Killarney, Co. Kerry",800, Co. Kerry,2,400.00
+"19. New Market Lane, Killarney, Co. Kerry",700, Co. Kerry,2,350.00
+"20. Lissivigeen area, Killarney, Co. Kerry",700, Co. Kerry,1,700.00
+"1. Stradbrook Luxury Appartment, Portlaoise, Co. Laois",875, Co. Laois,2,437.50
+"2. De Vesci Court, Fairgreen, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+"3. The Mews, Mountrath Road, Portlaoise, Co. Laois",750, Co. Laois,1,750.00
+"4. Church Street, Portlaoise, Co. Laois",850, Co. Laois,2,425.00
+"5. Heather Lane, Esker Hills, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+"6. Lalor Way Fairgreen Portlaoise, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+"7. College View, Mountmellick, Co. Laois",850, Co. Laois,2,425.00
+"8. The Maples, Forest Park, Portlaoise, Co. Laois",850, Co. Laois,2,425.00
+"9. Lalor Way, Fairgreen, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+"10. De Vesci Court, Portlaoise, Co. Laois",800, Co. Laois,1,800.00
+"11. 95, Riverside, Portarlington, Co. Laois",800, Co. Laois,2,400.00
+"12. Kilnacourt Woods, Portarlington, Co. Laois",650, Co. Laois,1,650.00
+"1. Leitrim Village, Leitrim, Co. Leitrim",700, Co. Leitrim,3,233.33
+"2. Bridge Street, Carrick-on-Shannon, Co. Leitrim",480, Co. Leitrim,1,480.00
+"3. The Pavillion, Carrick-on-Shannon, Co. Leitrim",650, Co. Leitrim,3,216.67
+"4. Riverview, Carrick-on-Shannon, Co. Leitrim",600, Co. Leitrim,2,300.00
+"5. Bridge Street, Carrick-on-Shannon, Co. Leitrim",450, Co. Leitrim,1,450.00
+"6. No 9, Carbry Coast, Tullaghan, Co, Tullaghan, Co. Leitrim",450, Co. Leitrim,2,225.00
+"7. Quay Road, Carrick-on-Shannon, Co. Leitrim",550, Co. Leitrim,2,275.00
+"8. Key Street, Carrick-on-Shannon, Co. Leitrim",475, Co. Leitrim,1,475.00
+"9. The Waterfront, Leitrim, Co. Leitrim",700, Co. Leitrim,3,233.33
+"10. 4 Library Corner, Manorhamilton, Co. Leitrim",500, Co. Leitrim,2,250.00
+"11. Ayrefield Manor, Carrick-on-Shannon, Co. Leitrim",550, Co. Leitrim,2,275.00
+"12. Priest Lane, Carrick-on-Shannon, Co. Leitrim",600, Co. Leitrim,2,300.00
+"1. Newtown Mews, Annacotty, Co. Limerick",1400, Co. Limerick,3,466.67
+"2. Kildimo, Kildimo, Co. Limerick",1150, Co. Limerick,2,575.00
+"3. Apartment 1, Block A, Ballycummin Village, Raheen, Co. Limerick",1100, Co. Limerick,2,550.00
+"4. Banantyne place, Steamboat quay, Dock road, Limerick City, Co. Limerick",1400, Co. Limerick,3,466.67
+"5. Drominbeg, Rhebogue, Co. Limerick",1300, Co. Limerick,3,433.33
+"6. Riverpoint, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+"7. Harveys Quay, Limerick City, Co. Limerick",1300, Co. Limerick,2,650.00
+"8. Penthouse Apartment, Charlotte Quay, Limerick, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+"9. Newcastle Court, Castletroy, Co. Limerick",1200, Co. Limerick,2,600.00
+"10. The Strand, O'Callaghan Strand, Limerick City, Co. Limerick",1250, Co. Limerick,1,1250.00
+"11. Riverpoint, Bishops Quay, Limerick City, Co. Limerick",1400, Co. Limerick,2,700.00
+"12. Main Street, Adare, Co. Limerick",1250, Co. Limerick,2,625.00
+"13. The Strand, O'Callaghans Strand, Limerick City, Co. Limerick",1575, Co. Limerick,3,525.00
+"14. The Strand, O' Callaghan Strand, Limerick City, Co. Limerick",1500, Co. Limerick,2,750.00
+"15. Main Street, Adare, Co. Limerick",1100, Co. Limerick,2,550.00
+"16. An Dun, Church road, Raheen, Co. Limerick",1100, Co. Limerick,2,550.00
+"17. Oakdale Court, Ennis Road, Co. Limerick",850, Co. Limerick,1,850.00
+"18. Bridgewater Court, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+"19. Coolbane, Castleconnell, Co. Limerick",950, Co. Limerick,3,316.67
+"20. Palmerstown Court, Limerick City, Co. Limerick",1200, Co. Limerick,3,400.00
+"1. Main Street, Granard, Co. Longford",400, Co. Longford,1,400.00
+"2. Sandy Lane, Richmond Street Longford, Longford Town, Co. Longford",575, Co. Longford,1,575.00
+"3. Sli Na Mona, Ballymahon, Co. Longford",520, Co. Longford,1,520.00
+"4. Cornmill House, Great Water Street, Longford Town, Co. Longford",450, Co. Longford,1,450.00
+"5. The Granary, Ballymahon, Co. Longford",650, Co. Longford,2,325.00
+"6. Creevaghbawn, Creevaghbeg, Mullingar Road, Ballymahon, Co. Longford",520, Co. Longford,1,520.00
+"7. The Mill, Clondra, Clondra, Co. Longford",650, Co. Longford,3,216.67
+"8. Drumlish Road. Longford Town, Longford Town, Co. Longford",600, Co. Longford,1,600.00
+"9. French Hall,Prospect Wood, Longford Town, Co. Longford",600, Co. Longford,2,300.00
+"10. APT 2, Main street, Ballymahon, Co. Longford",650, Co. Longford,2,325.00
+"11. 10 Edgeworth Hall,Prospect Wood, Longford Town, Co. Longford",600, Co. Longford,2,300.00
+"12. 14,The Mill, Clondra, Co. Longford",600, Co. Longford,3,200.00
+"13. Main Street, Granard, Co. Longford",400, Co. Longford,1,400.00
+"14. Main Street, Granard, Co. Longford",400, Co. Longford,1,400.00
+"15. Prucklish, Newtownforbes, Co. Longford",500, Co. Longford,1,500.00
+"16. Main St., Ballymahon, Co. Longford",600, Co. Longford,2,300.00
+"17. Edgeworth Hall, Longford Town, Co. Longford",550, Co. Longford,2,275.00
+"18. 13 Harbour Point, Longford Town, Co. Longford",650, Co. Longford,2,325.00
+"1. Drogheda, Drogheda, Co. Louth",1150, Co. Louth,1,1150.00
+"2. Carroll Village, Dundalk, Co. Louth",1000, Co. Louth,2,500.00
+"3. Main Street Blackrock, Blackrock, Co. Louth",1200, Co. Louth,2,600.00
+"4. St Nicholas Gardens, Dundalk, Co. Louth",950, Co. Louth,2,475.00
+"5. The Granary, Drogheda, Co. Louth",850, Co. Louth,1,850.00
+"6. Brent Way Aston Village, Drogheda, Co. Louth",1150, Co. Louth,2,575.00
+"7. Fair Street House, Drogheda, Co. Louth",1083, Co. Louth,3,361.00
+"8. Clanbrassil Street, Dundalk, Co. Louth",800, Co. Louth,2,400.00
+"9. Earl Street, Dundalk, Co. Louth",650, Co. Louth,2,325.00
+"10. ramparts road, Dundalk, Co. Louth",1200, Co. Louth,2,600.00
+"11. Jocelyn Street, Dundalk, Co. Louth",950, Co. Louth,1,950.00
+"12. 3 The Malthouse, Drogheda, Dromiskin, Co. Louth",1050, Co. Louth,2,525.00
+"13. Greenhills, Drogheda, Co. Louth",800, Co. Louth,1,800.00
+"14. Shop Street, Drogheda, Co. Louth",1000, Co. Louth,1,1000.00
+"15. Shop Street, Drogheda, Co. Louth",1200, Co. Louth,2,600.00
+"16. Martello Dublin Road, Drogheda, Co. Louth",1250, Co. Louth,2,625.00
+"17. Bridge Street, Dundalk, Co. Louth",800, Co. Louth,2,400.00
+"18. Bryanstown Manor, Drogheda, Co. Louth",1200, Co. Louth,2,600.00
+"19. Knockdinnin, Dromin, Co. Louth",850, Co. Louth,2,425.00
+"20. Main Street, Greenore, Carlingford, Co. Louth",695, Co. Louth,1,695.00
+"1. Craobh Ban, Newport, Co Mayo, Newport, Co. Mayo",650, Co. Mayo,2,325.00
+"2. American Street, Belmullet, Co. Mayo",450, Co. Mayo,2,225.00
+"3. Craobh Ban, Newport, Co. Mayo",650, Co. Mayo,2,325.00
+"4. Newline, Castlebar, Co. Mayo",800, Co. Mayo,2,400.00
+"5. Esker Meadows, Knock, Co. Mayo",480, Co. Mayo,2,240.00
+"6. B2 Rosebury Court, Knock, Co. Mayo",500, Co. Mayo,2,250.00
+"7. 22 Silverbridge, Claremorris, Co. Mayo",750, Co. Mayo,2,375.00
+"8. Mount Street, Claremorris, Co. Mayo",750, Co. Mayo,2,375.00
+"9. James Connolly St, Ballina, Co. Mayo",480, Co. Mayo,1,480.00
+"10. Pearse Terrace, Westport, Co. Mayo",640, Co. Mayo,2,320.00
+"11. Main Street, Balla, Co Mayo, Balla, Co. Mayo",600, Co. Mayo,2,300.00
+"12. Breaffy Woods, Castlebar, Co. Mayo",650, Co. Mayo,2,325.00
+"13. Cushlough, Saleen, Castlebar, Co. Mayo",850, Co. Mayo,2,425.00
+"14. Newline, Castlebar, Co.Mayo, Castlebar, Co. Mayo",800, Co. Mayo,2,400.00
+"15. Main Street, Castlebar, Co.Mayo, Castlebar, Co. Mayo",600, Co. Mayo,2,300.00
+"16. Nephin Halls, Hopkins road, Castlebar, Co. Mayo",600, Co. Mayo,2,300.00
+"17. Westport Harbour, Westport, Co. Mayo",800, Co. Mayo,2,400.00
+"18. Morrison Mews, Station Road, Ballina, Co. Mayo",695, Co. Mayo,2,347.50
+"19. Chapel st., Castlebar, Co. Mayo",620, Co. Mayo,2,310.00
+"20. moneen road, Castlebar, Co. Mayo",500, Co. Mayo,1,500.00
+"1. killegland house, Ashbourne, Co. Meath",1475, Co. Meath,2,737.50
+"2. Garden Apartment, Cullenore, Kilcloon, Co. Meath",1250, Co. Meath,2,625.00
+"3. Norbury Hall, Trim, Co. Meath",1250, Co. Meath,2,625.00
+"4. 6 Turry Close, Athboy, Co. Meath",950, Co. Meath,2,475.00
+"5. Bective Square, Kells, Co. Meath",750, Co. Meath,1,750.00
+"6. Grange End, Dunshaughlin, Co. Meath",1400, Co. Meath,2,700.00
+"7. Hampton Rise Mill Lane, Navan, Co. Meath",1100, Co. Meath,2,550.00
+"8. moyvalley Hotel And Golf Resort, Enfield, Co. Meath",1200, Co. Meath,3,400.00
+"9. Moyvalley Hotel and Golf Resort, Enfield, Co. Meath",1400, Co. Meath,3,466.67
+"10. Killegland Hall, Ashbourne, Co. Meath",1450, Co. Meath,2,725.00
+"11. Corballis Demesne, Ratoath, Co. Meath",1250, Co. Meath,1,1250.00
+"12. Cavan Street, Oldcastle, Co. Meath",600, Co. Meath,1,600.00
+"13. The Commons, Duleek, Co. Meath",1150, Co. Meath,2,575.00
+"14. Northlands, Bettystown, Co. Meath",1300, Co. Meath,2,650.00
+"15. Main Street Enfield, Enfield, Co. Meath",950, Co. Meath,1,950.00
+"16. Clonardran, Garlow Cross, Navan, Navan, Co. Meath",850, Co. Meath,1,850.00
+"17. The Courtyard, Dunshaughlin, Co. Meath",1300, Co. Meath,2,650.00
+"18. Patrick Street, Trim, Co. Meath",1300, Co. Meath,3,433.33
+"19. Trim, Trim, Co. Meath",1150, Co. Meath,2,575.00
+"20. Flowerville House, Navan, Co. Meath",1200, Co. Meath,1,1200.00
+"1. Ardee Road, Carrickmacross, Co. Monaghan",750, Co. Monaghan,2,375.00
+"2. Hill Street, Monaghan, Co. Monaghan",585, Co. Monaghan,1,585.00
+"3. Farney Street, Carrickmacross, Co. Monaghan",750, Co. Monaghan,3,250.00
+"1. Main Street, Banagher, Co. Offaly",380, Co. Offaly,1,380.00
+"2. Library Hall, Tullamore, Co. Offaly",775, Co. Offaly,2,387.50
+"3. Bridge Lane, Tullamore, Co. Offaly",650, Co. Offaly,1,650.00
+"4. Kilbride Street, Tullamore, Co. Offaly",700, Co. Offaly,1,700.00
+"5. Castle Mall, Birr, Co. Offaly",550, Co. Offaly,1,550.00
+"6. Kingston fortal, Birr, Co. Offaly",900, Co. Offaly,4,225.00
+"7. Sharavogue Birr, Sharavogue, Co. Offaly",480, Co. Offaly,1,480.00
+"8. Clonmullen Hall, Edenderry, Co. Offaly",900, Co. Offaly,2,450.00
+"9. 20 Colliers Brook, Clonminch Road, Tullamore, Co. Offaly",750, Co. Offaly,1,750.00
+"10. R401, Edenderry, Co. Offaly",900, Co. Offaly,2,450.00
+"11. foxboro, Moneygall, Moneygall, Co. Offaly",550, Co. Offaly,2,275.00
+"12. Market Square, Tullamore, Co. Offaly",850, Co. Offaly,2,425.00
+"1. Apartment No 1, Marian Court, Dublin Rd, Ballaghaderreen, Co. Roscommon",475, Co. Roscommon,2,237.50
+"2. Riverside, Military road, Boyle, Co. Roscommon",450, Co. Roscommon,2,225.00
+"3. APT 7 Abbey Crest, Boyle, Co. Roscommon",450, Co. Roscommon,2,225.00
+"4. 12 Ardsallagh Woods, Roscommon Town, Co. Roscommon",600, Co. Roscommon,1,600.00
+"5. Bofin House, Tarmonbarry, Co. Roscommon",675, Co. Roscommon,2,337.50
+"6. Hodson Bay, Athlone, Co. Roscommon",1500, Co. Roscommon,3,500.00
+"7. Church Street, Strokestown, Co. Roscommon",650, Co. Roscommon,1,650.00
+"8. Inver Geal, Carrick-on-Shannon, Co. Roscommon",650, Co. Roscommon,3,216.67
+"9. riverwalk, Castlerea, Co. Roscommon",550, Co. Roscommon,2,275.00
+"1. High Street, Sligo, Co. Sligo",650, Co. Sligo,1,650.00
+"2. Quayside North Court, Wine Street, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+"3. Milbrook Apartments, Riverside, Sligo, Co. Sligo",850, Co. Sligo,3,283.33
+"4. Humbert St, Tubbercurry, Co. Sligo",540, Co. Sligo,1,540.00
+"5. 12 Charles St, Sligo, Co. Sligo",750, Co. Sligo,2,375.00
+"6. Sea Front, Rosses Point, Co. Sligo",750, Co. Sligo,3,250.00
+"7. Block B, City Gate, Mail Coach Rd, Sligo, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+"8. Pearse Road, Sligo, Co. Sligo",750, Co. Sligo,2,375.00
+"9. Abbeykiln House, Abbey Street, Sligo, Co. Sligo",650, Co. Sligo,1,650.00
+"10. 7/8 Market street, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+"11. 16 lower abbey street sligo, Sligo, Co. Sligo",730, Co. Sligo,2,365.00
+"12. Collooney, Collooney, Co. Sligo",450, Co. Sligo,1,450.00
+"13. Coach Yard, Kevinsfort, Strandhill Road, Sligo, Co. Sligo",900, Co. Sligo,2,450.00
+"14. Fairways, Tubbercurry, Co. Sligo",550, Co. Sligo,2,275.00
+"15. Millbrook Apts, JFK Parade, Riverside, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+"16. R292, Ransboro, Co. Sligo",560, Co. Sligo,1,560.00
+"17. Edenmount Hall,Brooklawns, First Sea Road, Sligo, Co. Sligo",715, Co. Sligo,2,357.50
+"18. Church Street, Sligo, Co. Sligo",600, Co. Sligo,2,300.00
+"19. Ballincourt, Ballintogher, Co. Sligo",450, Co. Sligo,1,450.00
+"20. Silver Falls, Knockmuldowney Ballisodare, Ballisodare, Co. Sligo",895, Co. Sligo,2,447.50
+"1. An Cuirt, Monard, Co. Tipperary",630, Co. Tipperary,1,630.00
+"2. Abbey Street clonmel, Clonmel, Co. Tipperary",550, Co. Tipperary,1,550.00
+"3. Apartment, Woodlawn, Cashel, Co. Tipperary",500, Co. Tipperary,1,500.00
+"4. Marlfield House, Clonmel, Co. Tipperary",300, Co. Tipperary,3,100.00
+"5. Apartment 2, Main Street, Carrick-on-Suir, Co. Tipperary",650, Co. Tipperary,2,325.00
+"6. 34 Ballina Quay, Ballina, Co. Tipperary",900, Co. Tipperary,2,450.00
+"7. Bank Street, Templemore, Co. Tipperary",450, Co. Tipperary,1,450.00
+"8. Pearse st, Nenagh, Co. Tipperary",480, Co. Tipperary,1,480.00
+"9. 11 Bank place, Cashel, Co. Tipperary",700, Co. Tipperary,1,700.00
+"10. Westcourt, The Quays, Clonmel, Co. Tipperary",800, Co. Tipperary,2,400.00
+"11. Slievenamon Mews, Davis Road, Clonmel, Co. Tipperary",900, Co. Tipperary,2,450.00
+"12. Riverside Shopping Centre, Borrisokane, Co. Tipperary",850, Co. Tipperary,3,283.33
+"13. Riverside Shopping Centre, Borrisokane, Co. Tipperary",700, Co. Tipperary,2,350.00
+"14. Quarry Mews Mitchel Street, Thurles, Co. Tipperary",500, Co. Tipperary,1,500.00
+"15. 1A Silver Street, Slver Mews, Nenagh, Co. Tipperary",600, Co. Tipperary,2,300.00
+"16. half mile from templemore, Templemore, Co. Tipperary",600, Co. Tipperary,1,600.00
+"17. Dominics Court, Cashel, Co. Tipperary",750, Co. Tipperary,2,375.00
+"18. Carrig Rua, Gortandroe, Nenagh, Co. Tipperary",700, Co. Tipperary,2,350.00
+"1. Glencove, Dunmore Road, Waterford., Waterford City, Co. Waterford",1200, Co. Waterford,2,600.00
+"2. Castle Place Railway Square, Waterford City, Co. Waterford",900, Co. Waterford,2,450.00
+"3. Watersgate, Billberry, Waterford, Waterford City, Co. Waterford",1100, Co. Waterford,2,550.00
+"4. Adelphi Quay, Waterford, Waterford City, Co. Waterford",975, Co. Waterford,2,487.50
+"5. Railway Square, Castle Place, Waterford City, Co. Waterford",1100, Co. Waterford,3,366.67
+"6. Ardkeen Woods, Dunmore Road, Waterford City, Co. Waterford",1150, Co. Waterford,3,383.33
+"7. De Bruin Court, Waterford City, Co. Waterford",365, Co. Waterford,1,365.00
+"8. Glencove, Dunmore Road, Waterford City, Co. Waterford",1200, Co. Waterford,2,600.00
+"9. O'Connell Court, Penrose Lane, Waterford City, Co. Waterford",700, Co. Waterford,1,700.00
+"10. Apt. Maypark Mews, Maypark, Waterford City, Co. Waterford",950, Co. Waterford,2,475.00
+"11. Circular Road, Dunmore East, Co. Waterford",650, Co. Waterford,2,325.00
+"12. Harbour View, Scotch Quay, Waterford City, Co. Waterford",850, Co. Waterford,2,425.00
+"13. O'Gradys Yard, Johnstown, Waterford City, Co. Waterford",750, Co. Waterford,1,750.00
+"14. Aylesbury Manor, Waterford City, Co. Waterford",350, Co. Waterford,1,350.00
+"15. The Old Infirmary, Johns Hill, Waterford City, Co. Waterford",850, Co. Waterford,2,425.00
+"16. Harbour View, Canada Street, Waterford City, Co. Waterford",800, Co. Waterford,2,400.00
+"17. Apt. Waters Gate, Bilberry, Waterford City, Co. Waterford",950, Co. Waterford,2,475.00
+"18. Apartment 3 21/22 Broad Street, Waterford City, Co. Waterford",2000, Co. Waterford,2,1000.00
+"19. Apartment 1 21/22 Broad Street, Waterford City, Co. Waterford",2000, Co. Waterford,2,1000.00
+"20. James Gate, Waterford City, Co. Waterford",750, Co. Waterford,1,750.00
+"1. Esker Glenn, Bonavalley, Dublin Rd., Athlone, Co. Westmeath",1100, Co. Westmeath,3,366.67
+"2. Bastion Quay, Athlone, Co. Westmeath",1400, Co. Westmeath,3,466.67
+"3. Goldsmith Close, Athlone, Co. Westmeath",900, Co. Westmeath,2,450.00
+"4. Trax, Retreat Road, Athlone, Co. Westmeath",925, Co. Westmeath,2,462.50
+"5. Apt 3 Mildstone House, Golden Island, Athlone, Co. Westmeath",950, Co. Westmeath,2,475.00
+"6. 22 Fry Court, Athlone, Co. Westmeath",950, Co. Westmeath,2,475.00
+"7. Gortmore, Tang, Co. Westmeath",650, Co. Westmeath,2,325.00
+"8. 39 Church View, Bastion Court, Connaught Street, Athlone, Co. Westmeath",835, Co. Westmeath,1,835.00
+"9. 10 Whitcroft Court, Moate, Co. Westmeath",800, Co. Westmeath,2,400.00
+"10. Belleview, Mullingar, Co. Westmeath",950, Co. Westmeath,2,475.00
+"11. Apt 25, The Jolly Mariner Marina Village, Coosan, Athlone, Co. Westmeath",1100, Co. Westmeath,2,550.00
+"12. 19 Radharc An Chuain, Mullingar, Co. Westmeath",950, Co. Westmeath,2,475.00
+"13. Northgate street, Athlone, Co. Westmeath",1000, Co. Westmeath,2,500.00
+"14. 29 Bastion Court, Athlone, Co. Westmeath",1000, Co. Westmeath,2,500.00
+"15. 3 Galey House, Ard Ri, Athlone, Co. Westmeath",880, Co. Westmeath,2,440.00
+"16. Rockbrook, Athlone, Co. Westmeath",800, Co. Westmeath,2,400.00
+"17. 4 Marlinstown, Mullingar, Co. Westmeath",1000, Co. Westmeath,2,500.00
+"18. 8 Teach na Greine Lynn Mullingar, Mullingar, Co. Westmeath",850, Co. Westmeath,2,425.00
+"19. 29 Marlinstown Park, Mullingar, Co. Westmeath",800, Co. Westmeath,1,800.00
+"20. Bastion Court, Connaught Street, Athlone, Co. Westmeath",850, Co. Westmeath,1,850.00
+"1. Pearse street, Gorey, Co. Wexford",850, Co. Wexford,2,425.00
+"2. Barrow Hall Mountgarrett New Ross, New Ross, Co. Wexford",900, Co. Wexford,2,450.00
+"3. Station Court, The Avenue, Gorey, Co. Wexford",1000, Co. Wexford,2,500.00
+"4. Keywest, The Quay, Wexford Town, Co. Wexford",850, Co. Wexford,2,425.00
+"5. Rosslare Harbour, Rosslare Harbour, Co. Wexford",700, Co. Wexford,2,350.00
+"6. Melrose Court, Georges Street, Wexford Town, Co. Wexford",720, Co. Wexford,1,720.00
+"7. The Faythe, Wexford Town, Co. Wexford",1350, Co. Wexford,4,337.50
+"8. Pinewood, Wexford Town, Co. Wexford",650, Co. Wexford,1,650.00
+"9. Lr. Bride St, Wexford Town, Co. Wexford",650, Co. Wexford,1,650.00
+"10. Millers Rest, Castlebridge, Co. Wexford",552, Co. Wexford,2,276.00
+"11. The Green, Clonard Village, Wexford Town, Co. Wexford",825, Co. Wexford,3,275.00
+"12. R741, Ballyedmond, Co. Wexford",540, Co. Wexford,1,540.00
+"13. 54 Rosbercon Court, New Ross, Co. Wexford",650, Co. Wexford,2,325.00
+"14. 12 Waterloo road Wexford, Wexford Town, Co. Wexford",600, Co. Wexford,1,600.00
+"15. Lower Rosbercon, New Ross, Co. Wexford",650, Co. Wexford,3,216.67
+"16. Rosbercon Court, New Ross, Co. Wexford",650, Co. Wexford,2,325.00
+"17. Hilltown, Killinick, Co. Wexford",750, Co. Wexford,2,375.00
+"18. Dunbrody Wharf, New Ross, Co. Wexford",675, Co. Wexford,2,337.50
+"19. Apt. No. 6, The Pillar, King Street, Wexford Town, Co. Wexford",780, Co. Wexford,2,390.00
+"20. Glebe, Meelnagh, Castletalbot, Blackwater, Co. Wexford",600, Co. Wexford,1,600.00
+"1. 61 Church Drive, Eden Gate, Delgany, Co. Wicklow",1425, Co. Wicklow,2,712.50
+"2. Silverdale, King Edward Road, Bray, Co. Wicklow",1800, Co. Wicklow,2,900.00
+"3. Clearwater Court, Church Road, Greystones, Co. Wicklow",2000, Co. Wicklow,2,1000.00
+"4. Wentworth Place, Wicklow Town, Co. Wicklow",1150, Co. Wicklow,1,1150.00
+"5. Kilmurray South, Kilmacanogue, Co. Wicklow",1400, Co. Wicklow,1,1400.00
+"6. 45A Kilgarron Park, Enniskerry, Co. Wicklow",1600, Co. Wicklow,3,533.33
+"7. Roundwood Village, Roundwood, Co. Wicklow",1100, Co. Wicklow,2,550.00
+"8. Ash Mews, Sidmonton Road, Bray, Co. Wicklow",1400, Co. Wicklow,1,1400.00
+"9. Blacklion manor, Greystones, Co. Wicklow",2050, Co. Wicklow,3,683.33
+"10. Church Road, Newtownmountkennedy, Co. Wicklow",1000, Co. Wicklow,1,1000.00
+"11. Charlesland Park, Greystones, Co. Wicklow",1820, Co. Wicklow,3,606.67
+"12. Knocknamuck, Grange Con, Co. Wicklow",700, Co. Wicklow,2,350.00
+"13. Charlesland Court, Greystones, Co. Wicklow",1650, Co. Wicklow,3,550.00
+"14. Burnaby Mews, Greystones, Co. Wicklow",1600, Co. Wicklow,2,800.00
+"15. Slaney Park, Baltinglass, Co. Wicklow",1000, Co. Wicklow,2,500.00
+"16. 1 The Green, Quldara B, Main Street, Blessington, Co. Wicklow",1450, Co. Wicklow,2,725.00
+"17. 27 The Mill, Baltinglass, Co. Wicklow",900, Co. Wicklow,2,450.00
+"18. Rockview Park, Arklow, Co. Wicklow",1100, Co. Wicklow,2,550.00
+"19. main street, Carnew, Co. Wicklow",700, Co. Wicklow,1,700.00
+"20. “The Mews”, Roseair, Eden road, Greystones, Co. Wi, Greystones, Co. Wicklow",1750, Co. Wicklow,2,875.00

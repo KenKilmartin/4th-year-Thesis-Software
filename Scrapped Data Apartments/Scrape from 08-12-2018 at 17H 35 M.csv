@@ -1,0 +1,1563 @@
+Apartment Index,Address,Price,County,Room,Approx price per room
+1,"Apartment 12-09, The Arc, 2K Queens Road, Belfast, Belfast City Centre, Belfast, Co. Antrim",850970, Co. Antrim,2,425485.00
+1,"11 Rivercourt, Bagenalstown, Co. Carlow",800, Co. Carlow,3,266.67
+2,"Glynn, St. Mullins, Co. Carlow",700, Co. Carlow,4,175.00
+3,"Ferry Bank, Graiguecullen, Co. Carlow",850, Co. Carlow,2,425.00
+4,"Dublin Street, Carlow Town, Co. Carlow",850, Co. Carlow,3,283.33
+5,"Riverdell, Haymarket, Carlow Town, Co. Carlow",825, Co. Carlow,2,412.50
+6,"Centaur House, Carlow Town, Co. Carlow",950, Co. Carlow,2,475.00
+7,"phelim crescent, Tullow, Co. Carlow",800, Co. Carlow,3,266.67
+1,"13 Headford Grove, Virginia, Co. Cavan",800, Co. Cavan,3,266.67
+2,"Lakelands, Virginia, Co. Cavan",750, Co. Cavan,2,375.00
+3,"Rivercrescent, Virginia, Co. Cavan",550, Co. Cavan,1,550.00
+4,"No. 10 Eaglewood, Belturbet, Co. Cavan",550, Co. Cavan,2,275.00
+5,"Apt. 31 Railway Lough, Belturbet, Co. Cavan",450, Co. Cavan,1,450.00
+6,"Main Street, Cavan, Co. Cavan",550, Co. Cavan,1,550.00
+7,"Stramatt, Lisduff, Virginia, Co. Cavan",900, Co. Cavan,3,300.00
+8,"Deerpark, Virginia, Co. Cavan",700, Co. Cavan,3,233.33
+9,"Russell Quay, Ballyconnell, Co. Cavan, Ballyconnell, Co. Cavan",685, Co. Cavan,2,342.50
+10,"blacklion, Blacklion, Co. Cavan",450, Co. Cavan,2,225.00
+11,"Apt 7 Woodford View, Ballyconnell, Co. Cavan",550, Co. Cavan,2,275.00
+12,"2 Annalee Drive, Ballyhaise Cavan, Ballyhaise, Co. Cavan",600, Co. Cavan,2,300.00
+13,"Poles, Cavan, Co. Cavan",950, Co. Cavan,1,950.00
+1,"Cuirt Na HEaglaise, Newmarket on Fergus, Co. Clare",800, Co. Clare,2,400.00
+2,"Woodbrook, Newmarket on Fergus, Co. Clare",650, Co. Clare,1,650.00
+3,"Boheraroan, Newmarket on Fergus, Co. Clare",800, Co. Clare,2,400.00
+4,"135 Bru na Sionna, Shannon, Co. Clare",825, Co. Clare,2,412.50
+5,"10 Ros na Greine, Shannon, Co. Clare",1200, Co. Clare,5,240.00
+6,"Merchants Quay, Kilrush, Co. Clare",700, Co. Clare,2,350.00
+7,"Riverwood Retirement village, Kilrush, Co. Clare",650, Co. Clare,1,650.00
+8,"Bruagh Na Habhann, Quinn road, Ennis, Co. Clare",825, Co. Clare,2,412.50
+9,"1 Maple house Drumgeely, Shannon, Co. Clare",700, Co. Clare,2,350.00
+10,"Salthouse Lane, Ennis, Co. Clare",800, Co. Clare,2,400.00
+11,"Boheroan, Newmarket on Fergus, Co. Clare",800, Co. Clare,2,400.00
+12,"Moore Street, Kilrush, Co. Clare",400, Co. Clare,1,400.00
+13,"Apartment 1, Garna House Retail Centre, Sixmilebridge, Co. Clare",800, Co. Clare,3,266.67
+14,"3 Merchant's Quay, Kilrush, Co. Clare",360, Co. Clare,1,360.00
+1,"South Douglas Road, Cork City, Co. Cork",1440, Co. Cork,2,720.00
+2,"24 Ronayns Court, Rochestown Road, Douglas, Co. Cork",1500, Co. Cork,2,750.00
+3,"Orchard Court, Victoria Cross, Victoria Cross, Co. Cork",1373, Co. Cork,2,686.50
+4,"Douglas House, Douglas, Co. Cork",1400, Co. Cork,2,700.00
+5,"Camden Court , Carolls Quay , Cork ., Cork City, Co. Cork",1600, Co. Cork,2,800.00
+6,"Eagle Valley, Wilton, Co. Cork",1500, Co. Cork,4,375.00
+7,"River Towers, Lee Road, Cork City, Co. Cork",2550, Co. Cork,1,2550.00
+8,"Ivy court, Broomfield Village, Midleton, Co. Cork",1200, Co. Cork,2,600.00
+9,"Riverside Hall, Watergate Street, Bandon, Bandon, Co. Cork",950, Co. Cork,2,475.00
+10,"Tullyland, Bandon, Co. Cork",750, Co. Cork,1,750.00
+11,"13 Ownahincha Apartments, Ownahincha, Co. Cork",650, Co. Cork,2,325.00
+12,"., Ballinascarty, Co. Cork",750, Co. Cork,2,375.00
+13,"Corrin Court, Cork Road, Fermoy, Co. Cork",795, Co. Cork,2,397.50
+14,"Blarney Street, Cork City, Co. Cork",1260, Co. Cork,2,630.00
+15,"South Terrace, Cork City, Co. Cork",1200, Co. Cork,1,1200.00
+16,"Maryborough Mews, Maryborough Hill, Douglas, Co. Cork",1500, Co. Cork,2,750.00
+17,"Blackrock Mews, Eden, Convent Road, Blackrock, Blackrock, Co. Cork",1600, Co. Cork,2,800.00
+18,"Upton Mews, Innishannon, Co. Cork",1000, Co. Cork,2,500.00
+19,"Upton Mews, Bandon, Co. Cork",1000, Co. Cork,2,500.00
+20,"The Oaks, Wentworth Gardens, Bishopstown, Co. Cork",1252, Co. Cork,2,626.00
+21,"Liosbourne, Carrigaline, Co. Cork",775, Co. Cork,1,775.00
+22,"The Vicarage, Temple Grove (PENTHOUSE), Douglas, Co. Cork",1344, Co. Cork,2,672.00
+23,"Upton Mews, Crossbarry, Co. Cork",1000, Co. Cork,2,500.00
+24,"Upton Mews, Bandon, Co. Cork",1000, Co. Cork,2,500.00
+25,"The Crescent, Old Fort Road, Ballincollig, Ballincollig, Co. Cork",1400, Co. Cork,2,700.00
+26,"37 Downview, Faranlea Road, Cork City, Victoria Cross, Co. Cork",2600, Co. Cork,3,866.67
+27,"North Quay Place, Popes Quay, Cork City, Co. Cork",2500, Co. Cork,4,625.00
+28,"Glanmire Village, Glanmire, Co. Cork",1200, Co. Cork,2,600.00
+29,"Rutland Place, South Terrace, Cork City, Co. Cork",1400, Co. Cork,1,1400.00
+30,"River Wharf, Mill Road, Midleton, Co. Cork",1250, Co. Cork,2,625.00
+31,"54 Knapps Square Appartments, Mulgrave Road, Cork City, Co. Cork",1500, Co. Cork,2,750.00
+32,"Park Road, Charleville, Co. Cork",750, Co. Cork,2,375.00
+33,"Rockboro Road, Cork City, Co. Cork",1695, Co. Cork,1,1695.00
+34,"Coolroe, Ballincollig, Co. Cork",1250, Co. Cork,2,625.00
+35,"Orchard Gardens Dennehys Cross, Cork City, Co. Cork",1450, Co. Cork,2,725.00
+36,"Roxboro Close, Midleton, Co. Cork",1100, Co. Cork,2,550.00
+37,"48 Mill House, Mill Road, Midleton, Co. Cork",1150, Co. Cork,2,575.00
+38,"Main Street, Doneraile, Co. Cork",690, Co. Cork,2,345.00
+39,"Watergold, Douglas, Co. Cork",1750, Co. Cork,3,583.33
+40,"The Coach House, Belvidere Farm, ballycurreen, Farmers Cross, Co. Cork",1200, Co. Cork,2,600.00
+41,"The Penthouse, 551 The Heron, The Sanctuary, Jacob, Blackrock, Co. Cork",2200, Co. Cork,2,1100.00
+42,"Kingsbridge, South Douglas Road, Douglas, Co. Cork",1440, Co. Cork,2,720.00
+43,"Granary Hall, Mount Oval, Rochestown, Co. Cork",1350, Co. Cork,2,675.00
+44,"Maryborough Ridge, Douglas, Co. Cork",1620, Co. Cork,3,540.00
+45,"The Crescent, Cork City, Co. Cork",1305, Co. Cork,2,652.50
+46,"Main St, Watergrasshill, Co. Cork",2500, Co. Cork,4,625.00
+47,"The Cloisters, Douglas, Co. Cork",1500, Co. Cork,3,500.00
+48,"Victoria Cross, Victoria Cross, Co. Cork",2600, Co. Cork,3,866.67
+49,"Cork City Centre, Cork City, Co. Cork",1903, Co. Cork,3,634.33
+50,"Apartment 10, Waterfront, Cobh, Co. Cork",875, Co. Cork,1,875.00
+51,"Church Place, Main Street, Rathcormac, Co. Cork",850, Co. Cork,2,425.00
+52,"1 The Bridewell, Macroom, Co. Cork",750, Co. Cork,1,750.00
+53,"2 Heron Court, Skibbereen, Co. Cork",750, Co. Cork,2,375.00
+54,"No. 3 Egmont Court, Earl Street, Kanturk, Co. Cork, Kanturk, Co. Cork",700, Co. Cork,2,350.00
+55,"22 Granary Hall, Mount Oval Village, Rochestown, Co. Cork",1300, Co. Cork,2,650.00
+56,"The Elysian, Eglinton Street, Cork City, Co. Cork",3170, Co. Cork,3,1056.67
+57,"Old Quarry, Ballincollig, Co. Cork",1200, Co. Cork,2,600.00
+58,"The Grand, Crosshaven, Co. Cork",1450, Co. Cork,2,725.00
+59,"Ronayns Court, Rochestown Road, Rochestown, Co. Cork",1120, Co. Cork,2,560.00
+60,"Barrack Street Ballyclough, Mallow, Co. Cork",650, Co. Cork,1,650.00
+61,"41 Granary Hall, Mount Oval Village, Rochestown, Co. Cork",1100, Co. Cork,2,550.00
+62,"56 Camden Court, Carrol's Quay, Cork City, Co. Cork",1600, Co. Cork,2,800.00
+63,"6 Ard Cuan, Ardbrack Heights, Kinsale, Co. Cork",1400, Co. Cork,2,700.00
+64,"Cloghroe House, Ballincollig, Co. Cork",825, Co. Cork,1,825.00
+65,"Leslie's Arch, Old Quarter, Ballincollig, Co. Cork",1300, Co. Cork,2,650.00
+66,"Apt. 8, Waterside, Fermoy, Co. Cork",825, Co. Cork,1,825.00
+67,"2 The Belfry, John O'Connell Street, Cobh, Co. Co, Cobh, Co. Cork",1150, Co. Cork,2,575.00
+68,"Black Quay, Hollyhill, Kinsale, Co. Cork",1165, Co. Cork,2,582.50
+69,"The Avenue, Garrane Darra, Sarsfields Road, Wilton, Co. Cork",1800, Co. Cork,3,600.00
+70,"Cappyaughna, Glengarriff, Co. Cork",600, Co. Cork,2,300.00
+71,"Apt, 7, West Beach, Cobh, Co. Cork",775, Co. Cork,1,775.00
+72,"Ardnavaha House, Clonakilty, Co. Cork",550, Co. Cork,1,550.00
+73,"Conna Co Cork, Conna, Co. Cork",700, Co. Cork,1,700.00
+74,"Baldwin Street, Mitchelstown, Co. Cork",775, Co. Cork,1,775.00
+75,"Windmere, Cross Douglas road, Douglas, Co. Cork",1950, Co. Cork,3,650.00
+76,"Desmond Court, Cork Street, Kinsale, Co. Cork",850, Co. Cork,1,850.00
+77,"Pat Barrys Bar, Donoughmore Cross, Donoughmore, Co. Cork",560, Co. Cork,1,560.00
+78,"Wentworth Gardens, Wilton, Co. Cork",1000, Co. Cork,1,1000.00
+79,"No.98 Old Youghal Road, Dillons Cross, Co. Cork",1300, Co. Cork,2,650.00
+80,"Harbour row, Cobh, Co. Cork",895, Co. Cork,1,895.00
+81,"great william o brien st, Blackpool, Co. Cork",1000, Co. Cork,2,500.00
+82,"Old Chapel, Bandon, Co. Cork",800, Co. Cork,1,800.00
+83,"Lower Road, Crosshaven, Co. Cork",900, Co. Cork,2,450.00
+84,"11 Bellvue Court, Military Hill, St. Lukes, Co. Cork",1300, Co. Cork,2,650.00
+85,"Garraha, Kinsale, Co. Cork",1200, Co. Cork,2,600.00
+86,"Ballyvorisheen West, Carrignavar, Co. Cork",900, Co. Cork,1,900.00
+87,"Church St Dromcollogher, Charleville, Co. Cork",240, Co. Cork,1,240.00
+88,"Ballyleary Rd, Newtown, Cobh, Co. Cork",900, Co. Cork,1,900.00
+89,"Station Zone, Station RD, Carrigtohill, Carrigtwohill, Co. Cork",580, Co. Cork,1,580.00
+90,"Ballineen, Ballineen, Co. Cork",800, Co. Cork,3,266.67
+91,"35 Woodfield Hall, Station Road, Blarney, Co. Cork",1350, Co. Cork,2,675.00
+92,"Main Street, Ballycotton, Midleton, Co. Cork",650, Co. Cork,1,650.00
+93,"main street ballineen, Ballineen, Co. Cork",540, Co. Cork,1,540.00
+94,"3A college court Clonakilty, Clonakilty, Co. Cork",600, Co. Cork,2,300.00
+95,"67A Main St, Kinsale, Co. Cork",1900, Co. Cork,5,380.00
+96,"3 Manhattan Apartments Lower O Connell St, Kinsale, Co. Cork",1200, Co. Cork,2,600.00
+97,"Apartment 612, The Kingfisher, Jacobs Island, Ballinure, Co. Cork",1248, Co. Cork,2,624.00
+98,"First Floor Apt., 1 Reenascreena Cross, Rosscarbery, Co. Cork",700, Co. Cork,2,350.00
+99,"caheragh, Caheragh, , Co. Cork",650, Co. Cork,3,216.67
+100,"Quay, Main st, Skibbereen, Co. Cork",775, Co. Cork,2,387.50
+101,"North St, Skibbereen, Co. Cork",650, Co. Cork,1,650.00
+102,"6 Mill Race, McSwiney Quay, Bandon, Co. Cork",750, Co. Cork,1,750.00
+103,"Crawford View, Emmet Place, Cork City, Co. Cork",1800, Co. Cork,2,900.00
+104,"Harbour Row 7, Cobh, Co. Cork",700, Co. Cork,1,700.00
+105,"The Promenade, Fermoy, Co. Cork",1040, Co. Cork,2,520.00
+106,"Norwood Close, Rochestown, Co. Cork",1200, Co. Cork,2,600.00
+107,"210 Pier Head. Allins Quay . Youghal. Co . Cork, Youghal, Co. Cork",750, Co. Cork,2,375.00
+108,"Flat, spy hill, Cobh, Co. Cork",1100, Co. Cork,2,550.00
+109,"North St., Skibbereen, Co. Cork",700, Co. Cork,2,350.00
+1,"Aras Patrick Kavanagh, Letterkenny, Co. Donegal",845, Co. Donegal,1,845.00
+2,"2 Railway Court, Pearse Road, Letterkenny, Co. Donegal",650, Co. Donegal,2,325.00
+3,"Apt 4, Main St, St. Johnston, Co. Donegal",390, Co. Donegal,1,390.00
+4,"21 Quayside Apartments, Ramelton, Co. Donegal",850, Co. Donegal,3,283.33
+5,"18 The Fort, Greencastle, Co. Donegal",750, Co. Donegal,3,250.00
+6,"49 Grand Central Apartments, Letterkenny, Co. Donegal",650, Co. Donegal,2,325.00
+7,"14 Glenveagh Court, Letterkenny, Co. Donegal",800, Co. Donegal,3,266.67
+8,"Apt 1 86 Upper Main street, Letterkenny, Co. Donegal",600, Co. Donegal,2,300.00
+9,"31 Cill Greine, Letterkenny, Co. Donegal",600, Co. Donegal,2,300.00
+10,"8 Grand central Apartments, Canal Road, Letterkenny, Co. Donegal",700, Co. Donegal,2,350.00
+11,"Knocknamona Crescent Flat, Letterkenny, Co. Donegal",600, Co. Donegal,2,300.00
+12,"Apt 7 The Gallery, Navenny Street, Ballybofey, Co. Donegal",520, Co. Donegal,2,260.00
+13,"6 Church Lane Apt, Letterkenny, Co. Donegal",650, Co. Donegal,2,325.00
+14,"The Maples, Lismonaghan, Letterkenny, Co. Donegal",565, Co. Donegal,1,565.00
+15,"St Annes Court, Letterkenny, Co. Donegal",550, Co. Donegal,2,275.00
+16,"Ardmore Court, Upper Main Street, Ballyshannon, Co. Donegal",550, Co. Donegal,2,275.00
+17,"1 Bakers Court, Ballyshannon, Co. Donegal",550, Co. Donegal,2,275.00
+18,"Apt 2 William Street, Raphoe, Co. Donegal",320, Co. Donegal,1,320.00
+19,"Riverside View, Letterkenny, Co. Donegal",440, Co. Donegal,2,220.00
+20,"The Barn, Killylastin, Letterkenny, Co. Donegal",500, Co. Donegal,1,500.00
+21,"Loughnagin Ramelton Road, Letterkenny, Co. Donegal",600, Co. Donegal,1,600.00
+22,"Lifford Court Apartments, Lifford, Co. Donegal",440, Co. Donegal,2,220.00
+23,"Coolboy, Letterkenny, Co. Donegal",600, Co. Donegal,2,300.00
+24,"Magheraclogher, Bunbeg, Co. Donegal",460, Co. Donegal,2,230.00
+25,"MAIN STREET, Ballyshannon, Co. Donegal",420, Co. Donegal,2,210.00
+26,"Apt 1, Slieve League View, Carrick, Co. Donegal",450, Co. Donegal,2,225.00
+27,"Riverfront House, Letterkenny, Co. Donegal",620, Co. Donegal,2,310.00
+28,"Main Street, Ballyshannon, Co. Donegal",520, Co. Donegal,2,260.00
+1,"7 Carlinn's Cove, Rostrevor, Co. Down",700799, Co. Down,3,233599.67
+1,"Vico Terrace, Vico Road, Dalkey, Co. Dublin",7000, Co. Dublin,3,2333.33
+2,"Number 1 Ballsbridge Shelbourne Road, Ballsbridge, Dublin 4",6000, Dublin 4,3,2000.00
+3,"Number 1 Ballsbridge Shelbourne Road, Ballsbridge, Dublin 4",5500, Dublin 4,3,1833.33
+4,"Number 1 Ballsbridge Shelbourne Road, Ballsbridge, Dublin 4",5000, Dublin 4,2,2500.00
+5,"Number 1 Ballsbridge Shelbourne Road, Ballsbridge, Dublin 4",19000, Dublin 4,4,4750.00
+6,"Number 1 Ballsbridge Shelbourne Road, Ballsbridge, Dublin 4",3850, Dublin 4,2,1925.00
+7,"Gateway Student Villagew, Ballymun, Dublin 9",2200, Dublin 9,3,733.33
+8,"Longford House Spencer Dock, Dublin 1",2600, Dublin 1,2,1300.00
+9,"Inglenook Wood, Glenamuck Road, Carrickmines, Carrickmines, Dublin 18",2100, Dublin 18,2,1050.00
+10,"20 Belfield Park, Stillorgan, Co. Dublin",2100, Co. Dublin,2,1050.00
+11,"The paddocks riding centre Woodside road Sandyfor, Sandyford, Dublin 18",1100, Dublin 18,1,1100.00
+12,"The Grange, Brewery Road, Stillorgan, Co. Dublin",2400, Co. Dublin,2,1200.00
+13,"Capital Dock, Sir John Rogerson's Quay, Grand Canal Dock, Dublin 2",3300, Dublin 2,2,1650.00
+14,"Clancy Quay by Kennedy Wilson, Dublin 8",1700, Dublin 8,1,1700.00
+15,"Vantage by Kennedy Wilson, Central Park, Leopardstown, Dublin 18",2939, Dublin 18,3,979.67
+16,"The Grange, Brewery Road, Stillorgan, Co. Dublin",2950, Co. Dublin,3,983.33
+17,"Vantage by Kennedy Wilson, Central Park, Leopardst, Leopardstown, Dublin 18",2300, Dublin 18,2,1150.00
+18,"Bushy Park House, Terenure, Dublin 6w",1792, Dublin 6w,1,1792.00
+19,"Herbert Park Lane, Ballsbridge, Dublin 4",4000, Dublin 4,2,2000.00
+20,"Cathedral Court, Dublin 2",2800, Dublin 2,2,1400.00
+21,"Cathedral Court, Dublin 2",2250, Dublin 2,1,2250.00
+22,"Shelbourne Road Apartments, Ballsbridge, Dublin 4",3600, Dublin 4,2,1800.00
+23,"Adelaide Square, Dublin 2",3400, Dublin 2,2,1700.00
+24,"30 The Marker residence, Grand Canal Dock, Dublin 2",3535, Dublin 2,2,1767.50
+25,"The Marker Residence, Grand Canal Dock, Dublin 2",3000, Dublin 2,2,1500.00
+26,"532 The Maple,Beacon South Quarter, Sandyford, Dublin 18",2300, Dublin 18,2,1150.00
+27,"Levmoss Hall, the Gallops, Leopardstown, Dublin 18",2250, Dublin 18,2,1125.00
+28,"145 147 Waterfall Court, Apt 15, Waterfall Avenue, Drumcondra, Dublin 3",1911, Dublin 3,2,955.50
+29,"Rockview, Blackglen Road, Sandyford, Dublin 18",2200, Dublin 18,3,733.33
+30,"De Vesci Court, Monkstown, Co. Dublin",2600, Co. Dublin,2,1300.00
+31,"83 St Mary's Lane, Ballsbridge, Dublin 4",2600, Dublin 4,2,1300.00
+32,"156, Ballinclea Heights, Killiney., Killiney, Co. Dublin",1100, Co. Dublin,1,1100.00
+33,"The Alders, Dunstaffnage Hall, Stillorgan, Co. Dublin",2600, Co. Dublin,3,866.67
+34,"Shelbourne Plaza, Ringsend Road, Dublin 4",7000, Dublin 4,3,2333.33
+35,"Nth Georges St, Dublin 1",925, Dublin 1,1,925.00
+36,"North Circular Road, Phibsborough, Dublin 7",1700, Dublin 7,1,1700.00
+37,"The Penthouses at Custom House Square, Docklands, Dublin 1",3900, Dublin 1,3,1300.00
+38,"Coolamber Park, Knocklyon, Dublin 16",1080, Dublin 16,1,1080.00
+39,"Windmilll Lane, Dublin 2",2200, Dublin 2,2,1100.00
+40,"The William Bligh, The Gasworks, Barrow Street, Ringsend, Dublin 4",2800, Dublin 4,2,1400.00
+41,"Windmill Lane Apartments, Off City Quay, Dublin 2, Dublin 2",1700, Dublin 2,1,1700.00
+42,"Ailesbury Road, Merrion, Dublin 4",9800, Dublin 4,3,3266.67
+43,"Sussex Road 2, Ballsbridge, Dublin 4",1950, Dublin 4,1,1950.00
+44,"Patrick Street, Dublin 8",2400, Dublin 8,2,1200.00
+45,"The Stockyard, The Steelworks, Foley Street, Dublin 1",2800, Dublin 1,2,1400.00
+46,"Greenlea Place, Terenure, Dublin 6w",1900, Dublin 6w,2,950.00
+47,"St James Court, Mount Brown, St James Street, Kilmainham, Dublin 8",1400, Dublin 8,1,1400.00
+48,"Hollybrook, Foxrock, Dublin 18",3500, Dublin 18,2,1750.00
+49,"Quartiere Bloom, Lower Ormond Quay, Dublin 1",2400, Dublin 1,2,1200.00
+50,"North Great George Street, Dublin 1",3000, Dublin 1,2,1500.00
+51,"Castlepark Road Dalkey, Co. Dublin, Dalkey, Co. Dublin",5250, Co. Dublin,3,1750.00
+52,"Aungier St, Dublin 2",1920, Dublin 2,1,1920.00
+53,"St. Andrews Street, Dublin 2",3500, Dublin 2,2,1750.00
+54,"Patrick Street Street, Christchurch, Dublin 8",1500, Dublin 8,2,750.00
+55,"Howth Lodge, Claremont Road, Howth, Dublin 13",3224, Dublin 13,2,1612.00
+56,"Carrickmines, Carrickmines, Dublin 18",1850, Dublin 18,2,925.00
+57,"Herbert Park Lane, Ballsbridge, Dublin 4",2500, Dublin 4,2,1250.00
+58,"Southgate Cork st, The Coombe, Dublin 8",2400, Dublin 8,2,1200.00
+59,"Newtownsmith, Sandycove, Co. Dublin",2600, Co. Dublin,2,1300.00
+60,"Bachelors Walk, Dublin 1",2600, Dublin 1,2,1300.00
+61,"Warrington Place, Dublin 2",3950, Dublin 2,1,3950.00
+62,"The Courtyard, Beechpark, Clonsilla, Dublin 15",1650, Dublin 15,2,825.00
+63,"The Meadow, Robswall, Malahide, Co. Dublin",2750, Co. Dublin,2,1375.00
+64,"Greenville Court, Stradbrook Road, Blackrock, Co. Dublin",1850, Co. Dublin,2,925.00
+65,"75 Dorset Street Upper, Dublin 1",1500, Dublin 1,1,1500.00
+66,"Milltown Hall, Mount Saint Annes, Milltown Road, Milltown, Dublin 6",2600, Dublin 6,2,1300.00
+67,"Castlegate way, Lucan, Co. Dublin",2080, Co. Dublin,3,693.33
+68,"Bloomfield Park Apartments, Morehampton Road, Donn, Donnybrook, Dublin 4",2300, Dublin 4,2,1150.00
+69,"30 boyd house myrtle avenue baldoyle, Baldoyle, Dublin 13",2250, Dublin 13,3,750.00
+70,"Northbank Apartments, Castleforbes Road, Dublin 1",2350, Dublin 1,2,1175.00
+71,"Clancy Quay by Kennedy Wilson, Islandbridge, Dublin 8",2800, Dublin 8,3,933.33
+72,"Sandford Lodge by Kennedy Wilson, Ranelagh, Dublin 6",2700, Dublin 6,2,1350.00
+73,"Corn Exchange, Poolbeg Street, Dublin 2",2000, Dublin 2,1,2000.00
+74,"Millrace Court, Phoenix Park Racecourse, Castleknock, Dublin 15",1768, Dublin 15,2,884.00
+75,"Apartment 134 Seamount, Blackrock, Co. Dublin",1950, Co. Dublin,2,975.00
+76,"104 Cubes 3, Beacon South Quarter, Sandyford, Dublin 18",2350, Dublin 18,2,1175.00
+77,"82 Lower Beechwood Avenue, Ranelagh, Dublin 6",2000, Dublin 6,1,2000.00
+78,"Beechwood Avenue Lower, Ranelagh, Dublin 6",2500, Dublin 6,2,1250.00
+79,"3 Mounttown Villas, Lower Mounttown Road, Dunlaoi, Dun Laoghaire, Co. Dublin",1800, Co. Dublin,2,900.00
+80,"Apt 162 winter garden, Dublin 2",2350, Dublin 2,2,1175.00
+81,"Herbert Park Lane, Ballsbridge, Dublin 4",2700, Dublin 4,2,1350.00
+82,"Apartment 4, 88 Sandymount road, Sandymount, Dublin 4",3000, Dublin 4,2,1500.00
+83,"Booterstown Wood, Booterstown Avenue, Booterstown, Co. Dublin",2541, Co. Dublin,2,1270.50
+84,"Jervis Park Apartments, Jervis Street, Dublin 1",2150, Dublin 1,2,1075.00
+85,"Premier Square, Finglas Road, Finglas, Dublin 11",1400, Dublin 11,1,1400.00
+86,"West Court Yard, Cabinteely, Dublin 18",2100, Dublin 18,3,700.00
+87,"82 Trimbleston, Goatstown Rd, Dublin 14, Goatstown, Dublin 14",2200, Dublin 14,2,1100.00
+88,"Jervis Place Apartments, Dublin 1",2400, Dublin 1,1,2400.00
+89,"Effra Road, Ranelagh, Dublin 6",3000, Dublin 6,2,1500.00
+90,"Apt 22 Belarmine Square, Stepaside, Dublin 18",1800, Dublin 18,2,900.00
+91,"Leona Honeypark, Dun Laoghaire, Co. Dublin",2025, Co. Dublin,2,1012.50
+92,"Fishermans Green, Malahide, Co. Dublin",1985, Co. Dublin,2,992.50
+93,"Swords Road, Malahide, Co Dublin, Malahide, Co. Dublin",1800, Co. Dublin,2,900.00
+94,"Adelaide Square, Dublin 2",2400, Dublin 2,1,2400.00
+95,"Alexandra Walk, Dublin 2",2600, Dublin 2,1,2600.00
+96,"Alexandra Walk, Dublin 2",3200, Dublin 2,2,1600.00
+97,"Alexandra Walk, Dublin 2",3200, Dublin 2,1,3200.00
+98,"Grand Canal Square, Dublin 2",3200, Dublin 2,1,3200.00
+99,"Hanover Quay, Dublin 2",3400, Dublin 2,2,1700.00
+100,"Millrace Court, Vergemount Road, Clonskeagh, Ranelagh, Dublin 6",3600, Dublin 6,3,1200.00
+101,"403 The Edges 1, Beacon South Quarter, Sandyford, Sandyford, Co. Dublin",2200, Co. Dublin,2,1100.00
+102,"Castleforbes Square, IFSC, Dublin 1",3600, Dublin 1,3,1200.00
+103,"Waterville Terrace, Blanchardstown, Dublin 15",1650, Dublin 15,2,825.00
+104,"Bowbridge Place, Kilmainham, Dublin 8",2400, Dublin 8,3,800.00
+105,"Westend Village, Blanchardstown, Dublin 15",1650, Dublin 15,2,825.00
+106,"Gleann Na Ri, Druids Valley, Cabinteely, Dublin 18",1800, Dublin 18,2,900.00
+107,"24 Milltown Hall, Mt St Annes, Milltown, Dublin 6",2500, Dublin 6,2,1250.00
+108,"Shrewsbury Square Penthouse, Ballsbridge, Dublin 4",4950, Dublin 4,3,1650.00
+109,"The Richmond, Smithfield, Dublin 7",2150, Dublin 7,2,1075.00
+110,"Apartment, Donnybrook Castle, Donnybrook, Dublin 4",2900, Dublin 4,2,1450.00
+111,"170 Beechwood Court, Stillorgan, Co. Dublin",3500, Co. Dublin,3,1166.67
+112,"124 Capel st, Dublin 1",2500, Dublin 1,2,1250.00
+113,"The Cubes 3, Beacon South Quarter, Sandyford, Dublin 18",2200, Dublin 18,2,1100.00
+114,"St Raphaela's Road, Off Upper Kilmacud Road, Stillorgan, Co. Dublin",2100, Co. Dublin,2,1050.00
+115,"Upper Rathmines Rd, Rathmines, Dublin 6",1700, Dublin 6,1,1700.00
+116,"Howth Road, Killester, Dublin 3",1500, Dublin 3,1,1500.00
+117,"75 Ballisk Court, Donabate, Co. Dublin",1350, Co. Dublin,2,675.00
+118,"Richmond Hall, Mount St Annes, Milltown, Dublin 6",2500, Dublin 6,2,1250.00
+119,"28 Leinster Square, Rathmines, Dublin 6",1800, Dublin 6,1,1800.00
+120,"Greeg Court Parnell Street, Dublin 1",3000, Dublin 1,2,1500.00
+121,"Charlotte Apartments, Dun Laoghaire, Co. Dublin",2700, Co. Dublin,3,900.00
+122,"Olcovar, Shankill, Dublin 18",1500, Dublin 18,1,1500.00
+123,"Cairnbrook, Glenamuck Road, Sandyford, Dublin 18",2400, Dublin 18,2,1200.00
+124,"Cairnbrook Avenue, Carrickmines, Dublin 18",2200, Dublin 18,2,1100.00
+125,"Bolton street, Dublin 1",1350, Dublin 1,1,1350.00
+126,"Elton Park, Sandycove, Co. Dublin",1900, Co. Dublin,2,950.00
+127,"7 the slade coldwater lakes saggart, Saggart, Co. Dublin",1000, Co. Dublin,1,1000.00
+128,"Fforster, Lucan, Co. Dublin",1875, Co. Dublin,2,937.50
+129,"Linden Court, Grove Avenue, Blackrock, Co. Dublin",1350, Co. Dublin,1,1350.00
+130,"Greenbank House, Upper Glengeary Road, Dun Laoghaire, Co. Dublin",1750, Co. Dublin,1,1750.00
+131,"Clarion Quay, Mayor Street, IFSC, IFSC, Dublin 1",2400, Dublin 1,1,2400.00
+132,"Thomas St, Kilmainham, Dublin 8",1040, Dublin 8,1,1040.00
+133,"Cubes 6, Beacon South Quarter, Sandyford, Dublin 18",2000, Dublin 18,2,1000.00
+134,"Killiney Court Apartments, Killiney, Co. Dublin",3500, Co. Dublin,2,1750.00
+135,"Cubes 5, Beacon South Quarter, Sandyford, Dublin 18",2000, Dublin 18,2,1000.00
+136,"Killiney Court Apartments, Station Road, Killiney, Co. Dublin",3500, Co. Dublin,3,1166.67
+137,"One Beacon, Beacon Hotel, Sandyford, Dublin 18",2500, Dublin 18,2,1250.00
+138,"Killiney Court, Killiney Bay, Killiney, Co. Dublin",3500, Co. Dublin,2,1750.00
+139,"Batchelors Walk Apartments, Dublin 2",2500, Dublin 2,1,2500.00
+140,"One Beacon, Beacon Hotel, Sandyford, Dublin 18",2500, Dublin 18,2,1250.00
+141,"Killiney Court Apartments, Station Road, Killiney, Co. Dublin",3500, Co. Dublin,3,1166.67
+142,"Cairnbrook Manor, Carrickmines, Dublin 18",2500, Dublin 18,2,1250.00
+143,"Killiney Court, Killiney Bay, Killiney, Co. Dublin",3500, Co. Dublin,2,1750.00
+144,"Merrion court ,Ailesbury Road Ballsbridge, Ballsbridge, Dublin 4",2350, Dublin 4,2,1175.00
+145,"Fairview, Fairview, Dublin 3",1950, Dublin 3,2,975.00
+146,"Grande Central, Sandyford, Dublin 18",3220, Dublin 18,2,1610.00
+147,"Baggot Rath Penthouse Apartment, Newbridge Avenue, Ballsbridge, Dublin 4",4508, Dublin 4,2,2254.00
+148,"Baggot Rath 2BS4, Newbridge Avenue, Dublin 4",4200, Dublin 4,2,2100.00
+149,"The Forum, Sandyford, Dublin 18",3220, Dublin 18,2,1610.00
+150,"Baggot Rath 3BS5, Newbridge Avenue, Ballsbridge, Dublin 4",4620, Dublin 4,3,1540.00
+151,"Ferncourt, Stepaside, Dublin 18",3360, Dublin 18,3,1120.00
+152,"Galloping Green Stillorgan Co Dublin, Stillorgan, Co. Dublin",5600, Co. Dublin,3,1866.67
+153,"Adelphi House, Dun Laoghaire, Co. Dublin",3600, Co. Dublin,2,1800.00
+154,"The Cubes 3 Floor 4 Beacon South Quarter, Sandyford, Dublin 18",3920, Dublin 18,2,1960.00
+155,"The Amber The Grange Brewery Road, Blackrock, Co. Dublin",3780, Co. Dublin,2,1890.00
+156,"Ridge Hall Ballybrack, Glenageary, Co. Dublin",5600, Co. Dublin,3,1866.67
+157,"Aikens Village, Sandyford, Dublin 18",2800, Dublin 18,2,1400.00
+158,"Waterville Terrace, Blanchardstown, Dublin 15",2200, Dublin 15,3,733.33
+159,"adj Terenure Royston Village, Kimmage, Dublin 12",1750, Dublin 12,2,875.00
+160,"Royston Village Kimmage, Kimmage, Dublin 12",2375, Dublin 12,3,791.67
+161,"Wexford Street, Dublin 2",2014, Dublin 2,3,671.33
+162,"Chelmsford Lane, Ranelagh, Dublin 6",2200, Dublin 6,3,733.33
+163,"Spencer House, IFSC, Dublin 1",2200, Dublin 1,2,1100.00
+164,"Linden, 31-33 Merrion Road, Ballsbridge, Dublin 4",2794, Dublin 4,2,1397.00
+165,"Wellington, Riverpark, Islandbridge, Dublin 8",1900, Dublin 8,2,950.00
+166,"Phoenix Apartments, Riverpark, Islandbridge, Dublin 8",1710, Dublin 8,2,855.00
+167,"Crosbie House, Northbrook Avenue, Ranelagh, Dublin 6",1650, Dublin 6,1,1650.00
+168,"Merton Hall, Mount Saint Annes, Milltown, Dublin 6",2200, Dublin 6,2,1100.00
+169,"Kirkwood, Sandymount, Dublin 4",1700, Dublin 4,2,850.00
+170,"Castledawson, Sion Hill, Rock Road, Blackrock, Co. Dublin",1700, Co. Dublin,2,850.00
+171,"Castleforbes Street, Dublin 1",1390, Dublin 1,1,1390.00
+172,"15 The Dale, Woodpark Heights, Ballinteer, Dublin 16",1800, Dublin 16,2,900.00
+173,"Clontarf Road, Clontarf, Dublin 3",4600, Dublin 3,3,1533.33
+174,"Gateway Student Village, Ballymun Road, Dublin 9, Glasnevin, Dublin 9",700, Dublin 9,1,700.00
+175,"Gateway Student Village, Ballymun Road, Dublin 9, Glasnevin, Dublin 9",700, Dublin 9,1,700.00
+176,"Gateway Student Village, Ballymun Road, Dublin 9, Glasnevin, Dublin 9",1400, Dublin 9,2,700.00
+177,"Ballymun Road, Santry, Dublin 9",700, Dublin 9,3,233.33
+178,"3rd Floor Apartment, No 6 Ushers Quay, Dublin 8, Dublin 8",1800, Dublin 8,1,1800.00
+179,"15 Cornmill Apartment, Distillery Road, Clonliffe, Drumcondra, Dublin 3",2250, Dublin 3,2,1125.00
+180,"Sorrento Court, Dalkey, Co. Dublin",1920, Co. Dublin,2,960.00
+181,"Waterside Drive, Malahide, Co. Dublin",1800, Co. Dublin,3,600.00
+182,"Spencer Dock, North Wall Quay, Dublin 1, IFSC, Dublin 1",2500, Dublin 1,1,2500.00
+183,"Killiney Towers, Killiney, Co. Dublin",2000, Co. Dublin,2,1000.00
+184,"The View, Carrickmines Manor, Carrickmines, Dublin 18",2000, Dublin 18,2,1000.00
+185,"Adelaide Road, Dublin 2",2800, Dublin 2,2,1400.00
+186,"Rathgar Road, Rathmines, Dublin 6",1500, Dublin 6,1,1500.00
+187,"Adelaide Road, Dublin 2",2200, Dublin 2,1,2200.00
+188,"Marino Cresent, Clontarf, Dublin 3",1500, Dublin 3,1,1500.00
+189,"Grosvenor Square, Rathmines, Dublin 6",1400, Dublin 6,1,1400.00
+190,"Annesley Bridge Road, North Strand, Dublin 3",1300, Dublin 3,1,1300.00
+191,"Marino Cresent, Clontarf, Dublin 3",1750, Dublin 3,2,875.00
+192,"The Penthouses at Custom House Square, Dublin 1",4200, Dublin 1,3,1400.00
+193,"Fortfield Court, Fortfield Road, Terenure, Dublin 6w",1430, Dublin 6w,1,1430.00
+194,"Hawthorn . Bird Ave, Clonskeagh, Dublin 14",2750, Dublin 14,3,916.67
+195,"Stanford, Harlech Grove, Clonskeagh, Dublin 14",2700, Dublin 14,3,900.00
+196,"Orwell Hall, Marianella, Rathgar, Dublin 6",2295, Dublin 6,1,2295.00
+197,"Bremore Pastures Way., Balbriggan, Co. Dublin",1400, Co. Dublin,2,700.00
+198,"Sorrento Road Dalkey, Dalkey, Co. Dublin",1595, Co. Dublin,1,1595.00
+199,"Pearse Street 107, Hanover Quay, Dublin 2",2000, Dublin 2,1,2000.00
+200,"The Pines, Herbert Park Lane, Ballsbridge, Dublin 4",2700, Dublin 4,2,1350.00
+201,"The Pines, Herbert Park Lane, Ballsbridge, Dublin 4",3500, Dublin 4,2,1750.00
+202,"Eastmoreland Court, Ballsbridge, Dublin 4",2500, Dublin 4,2,1250.00
+203,"The Pines, Herbert Park Lane, Ballsbridge, Dublin 4",4000, Dublin 4,2,2000.00
+204,"Charles Street Great, North Circular Road, Dublin 1",1500, Dublin 1,1,1500.00
+205,"32 Charles Street Great, North Circular Road, Dublin 1",1550, Dublin 1,1,1550.00
+206,"Gardiner Street Upper, North Circular Road, Dublin 1",1550, Dublin 1,1,1550.00
+207,"cork street, spences terrace, The Coombe, Dublin 8",1550, Dublin 8,1,1550.00
+208,"27 Cedarhurst Road, Phoenix Park Racecourse, Castleknock, Dublin 15",1800, Dublin 15,2,900.00
+209,"Baileys court, Baileys Row, Dublin 1",2000, Dublin 1,2,1000.00
+210,"116 Baggot Court, Dublin 2",2400, Dublin 2,2,1200.00
+211,"The Weir, 59 Orwell Park, Rathgar, Dublin 6",2950, Dublin 6,2,1475.00
+212,"The Tramyard, Spa Road, Dublin 8",1500, Dublin 8,1,1500.00
+213,"Rathgar, Rathgar, Dublin 6",1650, Dublin 6,1,1650.00
+214,"Larchill, Santry, Dublin 9",1600, Dublin 9,2,800.00
+215,"Courtney House Appian Way, Dublin 4",1700, Dublin 4,1,1700.00
+216,"Mountbrook, Booterstown, Co. Dublin",2200, Co. Dublin,2,1100.00
+217,"Sandyford View, Sandyford, Dublin 18",1600, Dublin 18,2,800.00
+218,"ST Johns Well Way Kilmainham Road, Kilmainham, Dublin 8",2200, Dublin 8,2,1100.00
+219,"30 The Oaks, Rockfield, Dundrum, Dublin 14",1800, Dublin 14,2,900.00
+220,"28 The Ramparts, Cabinteely, Dublin 18",3250, Dublin 18,3,1083.33
+221,"Dominick street, Dublin 1",1900, Dublin 1,1,1900.00
+222,"IFSC, The Steelworks, Foley Street, Dublin 1",2300, Dublin 1,2,1150.00
+223,"Liffey View, Dublin 2",2800, Dublin 2,2,1400.00
+224,"Rathgar Court, 18-20 Rathgar Road, Rathgar, Dublin 6",2200, Dublin 6,2,1100.00
+225,"Orwell Place, Marianella, Rathgar, Dublin 6",2400, Dublin 6,1,2400.00
+226,"New Bancroft Hall, Tallaght, Dublin 24",1900, Dublin 24,2,950.00
+227,"Mount Argus Square, Harold's Cross, Dublin 6w",1800, Dublin 6w,2,900.00
+228,"Prussia Street, Stoneybatter, Dublin 7",1500, Dublin 7,1,1500.00
+229,"Christchurch, Christchurch, Dublin 8",1900, Dublin 8,1,1900.00
+230,"Christchurch Place, Christchurch, Dublin 8",1700, Dublin 8,1,1700.00
+231,Dublin 8,1800,Dublin 8,1,1800.00
+232,"The Lansdowne Block, Pembroke Square, Grand Canal Dock, Dublin 4",2000, Dublin 4,1,2000.00
+233,"EarlsCourt, The Coombe, Dublin 8",1850, Dublin 8,2,925.00
+234,"The Elms, Abberley, Shanganagh Road, Killiney, Co. Dublin",2000, Co. Dublin,2,1000.00
+235,"The Rectory, Stepaside, Dublin 18",1850, Dublin 18,2,925.00
+236,"33 Cumberland Street, Dublin 1",2300, Dublin 1,2,1150.00
+237,"Robin Hill Sandyford Road, Sandyford, Dublin 18",2200, Dublin 18,2,1100.00
+238,"Robin Hill Sandyford Road, Sandyford, Dublin 18",2200, Dublin 18,2,1100.00
+239,"Rowan Hall, Miltown Court, Milltown, Dublin 6",2400, Dublin 6,2,1200.00
+240,"Robin Hill Sandyford Road, Sandyford, Dublin 18",2800, Dublin 18,3,933.33
+241,"125 Francis St, Dublin 8",1700, Dublin 8,1,1700.00
+242,"Dundrum Gate, Ballinteer Road, Dundrum, Dublin 14",2100, Dublin 14,2,1050.00
+243,"Ranelagh Road, Ranelagh, Dublin 6",1181, Dublin 6,1,1181.00
+244,"93 lighthouse apartments, East Wall, Dublin 3",2200, Dublin 3,2,1100.00
+245,"Ardilea Crescent, Heidelberg, Clonskeagh, Dublin 14",2200, Dublin 14,2,1100.00
+246,"Forbes Quay, Lazer Lane, Grand Canal Dock, Dublin 2",3000, Dublin 2,1,3000.00
+247,"Gallery Quay, Block 3, Grand Canal Dock, Dublin 2",3800, Dublin 2,1,3800.00
+248,"Gallery Quay, Block 2, Grand Canal Dock, Dublin 2",3600, Dublin 2,1,3600.00
+249,"Temple Bar Square, Dublin 2",2650, Dublin 2,2,1325.00
+250,"Millennium Tower, Grand Canal Dock, Dublin 4",8000, Dublin 4,3,2666.67
+251,"The Waterfront, Grand Canal Dock, Dublin 2",4400, Dublin 2,2,2200.00
+252,"Hanover Dock, Grand Canal Dock, Dublin 2",2750, Dublin 2,2,1375.00
+253,"18-21 Mount Street, Lower Mount St., Dublin 2",4500, Dublin 2,2,2250.00
+254,"Hanover Riverside, Grand Canal Dock, Dublin 2",2460, Dublin 2,2,1230.00
+255,"Montgomery Court Foley Street, Dublin 1",2500, Dublin 1,2,1250.00
+256,"18 Hanover Riverside, Grand Canal Dock, Dublin 2",2542, Dublin 2,2,1271.00
+257,"Ardoyne House, Off Pembroke Park, Ballsbridge, Dublin 4",2500, Dublin 4,2,1250.00
+258,"Gallery Quay, Block 8, Grand Canal Dock, Dublin 2",3000, Dublin 2,1,3000.00
+259,"Clarion Quay Penthouse, IFSC, Dublin 1",4500, Dublin 1,2,2250.00
+260,"Park House, Benson Street, Grand Canal Dock, Dublin 2",3800, Dublin 2,3,1266.67
+261,"Montgomery Court Foley Street, Dublin 1",2500, Dublin 1,2,1250.00
+262,"South Dock Road, Grand Canal Dock, Dublin 2",2950, Dublin 2,1,2950.00
+263,"Shaw Street, Dublin 2",2200, Dublin 2,2,1100.00
+264,"Vico Rock, Sorrento Road, Dalkey, Co. Dublin",3500, Co. Dublin,2,1750.00
+265,"The Pines, Herbert Park Lane Apartments, Ballsbridge, Dublin 4",2600, Dublin 4,2,1300.00
+266,"Penthouse The Pines, Herbert Park Lane, Ballsbridge, Dublin 4",3500, Dublin 4,2,1750.00
+267,"Shrewsbury Park, Ballsbridge, Dublin 4",4100, Dublin 4,2,2050.00
+268,"Penthouse The Pines, Herbert Park Lane, Ballsbridge, Dublin 4",3900, Dublin 4,2,1950.00
+269,"Eyre Court, Ballyemunduff, Stepaside, Dublin 18",1500, Dublin 18,2,750.00
+270,"Clon Brugh, The Wood, Aikens Village, Stepaside, Dublin 18",1800, Dublin 18,2,900.00
+271,"Carrigmore crescent, Citywest, Co. Dublin",1500, Co. Dublin,2,750.00
+272,"Gandon Close, Harold's Cross, Dublin 6",1385, Dublin 6,1,1385.00
+273,"Gracepark Manor, Drumcondra, Dublin 9",1800, Dublin 9,2,900.00
+274,"Applewood Avenue East, Swords, Co. Dublin",1700, Co. Dublin,2,850.00
+275,"The Westmoreland, Grand Canal Dock, Dublin 4",2350, Dublin 4,2,1175.00
+276,"Venetian Hall, Killester, Dublin 5",1600, Dublin 5,2,800.00
+277,"Temple Court, Northwood, Santry, Dublin 9",1800, Dublin 9,2,900.00
+278,"Burnell Court, Northern cross, Malahide road, Malahide, Co. Dublin",1364, Co. Dublin,2,682.00
+279,"Fernleigh Grange, Castleknock, Dublin 15",1400, Dublin 15,2,700.00
+280,"Penthouse at The Sacra, Tassagard, Saggart, Co. Dublin",2750, Co. Dublin,3,916.67
+281,"Stationcourt Park, Coolmine, Dublin 15",1800, Dublin 15,3,600.00
+282,"Boyne Court, Harold's Cross, Dublin 6",1800, Dublin 6,1,1800.00
+283,"The Ramparts, Cabinteely, Cabinteely, Dublin 18",1700, Dublin 18,2,850.00
+284,"3 Carmanhall Court, Sandyford, Dublin 18, Sandyford, Dublin 18",2000, Dublin 18,2,1000.00
+285,"Turnstone, Thornwood, Booterstown Avenue, Booterstown, Co. Dublin",2500, Co. Dublin,2,1250.00
+286,"Aikens Village, Sandyford, Dublin 18",1800, Dublin 18,2,900.00
+287,"Grand Canal, Dublin 2",1950, Dublin 2,1,1950.00
+288,"150 Wyckham Point, Dundrum, Dublin 14",2200, Dublin 14,2,1100.00
+289,"Bow Bridge Place, Kilmainham, Dublin 8",3500, Dublin 8,4,875.00
+290,"De Vesci Court, Monkstown, Co. Dublin",1744, Co. Dublin,2,872.00
+291,"Belville, Ailesbury Close, Donnybrook, Dublin 4",1850, Dublin 4,1,1850.00
+292,"69 Belgrove Park, Mt.Prospect Park, Clontarf, Dublin 3",1664, Dublin 3,2,832.00
+293,"83 The Oaks, Rockfield, Dundrum, Dublin 16",1950, Dublin 16,2,975.00
+294,"Elmwood Avenue, Ranelagh, Ranelagh, Dublin 6",4000, Dublin 6,5,800.00
+295,"Herbert Park, The Oaks, Ballsbridge, Dublin 4",1440, Dublin 4,1,1440.00
+296,"Rockview, Sandyford, Dublin 18",1650, Dublin 18,2,825.00
+297,"Corr Castle, Howth, Dublin 13",1800, Dublin 13,2,900.00
+298,"Radcliff, Sutton, Dublin 13",1700, Dublin 13,2,850.00
+299,"Shieling Square, Raheny, Dublin 5",2150, Dublin 5,2,1075.00
+300,"Laurel, Hazeldene, Ballsbridge, Dublin 4",2500, Dublin 4,2,1250.00
+301,"Ros Mor View, Knocklyon, Dublin 16",1800, Dublin 16,2,900.00
+302,"75 Duplex Shieling Square, Raheny, Dublin 5",2850, Dublin 5,2,1425.00
+303,"The Links, Elm Park, Merrion Road, Dublin 4",2250, Dublin 4,2,1125.00
+304,"Castleforbes Square, IFSC, Dublin 1",2200, Dublin 1,2,1100.00
+305,"Knocknagow, greenville road, Blackrock, Co. Dublin",1800, Co. Dublin,2,900.00
+306,"Highfield Road, Rathgar, Rathgar, Dublin 6",2000, Dublin 6,2,1000.00
+307,"Harold's Cross Road, Harold's Cross, Dublin 6w",1700, Dublin 6w,1,1700.00
+308,"1 The Pierre, Victoria Terrace, Dun Laoghaire, Co., Dun Laoghaire, Co. Dublin",1700, Co. Dublin,1,1700.00
+309,"46 The Crescent, Ongar, Dublin 15",1200, Dublin 15,1,1200.00
+310,"31 The Mills, Castleknock, Dublin 15",1500, Dublin 15,2,750.00
+311,"Apartment 14 Wingfield, Stepaside, Dublin 18",1750, Dublin 18,1,1750.00
+312,"Loreto Abbey, Grange Road, Rathfarnham, Dublin 14",1900, Dublin 14,2,950.00
+313,"Warrington Place, Dublin 2",4500, Dublin 2,2,2250.00
+314,"Iveagh Court, Dublin 2",4050, Dublin 2,2,2025.00
+315,"Leeson Court, Dublin 4",3600, Dublin 4,2,1800.00
+316,"Leeson Street, Dublin 2",4250, Dublin 2,2,2125.00
+317,"Grand Canal Square, Dublin 2",3450, Dublin 2,1,3450.00
+318,"The Gasworks, Dublin 4",4250, Dublin 4,2,2125.00
+319,"Iveagh Court, Dublin 2",4200, Dublin 2,2,2100.00
+320,"Leeson Street, Dublin 2",4500, Dublin 2,2,2250.00
+321,"Millennium Tower, Grand Canal Dock, Dublin 2",4000, Dublin 2,2,2000.00
+322,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+323,"Grand Canal Square, Dublin 2",4250, Dublin 2,2,2125.00
+324,"Leeson Street, Dublin 2",3900, Dublin 2,1,3900.00
+325,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+326,"Bridge Street, Grand Canal Dock, Dublin 4",3900, Dublin 4,1,3900.00
+327,"The Gasworks, Dublin 4",4250, Dublin 4,2,2125.00
+328,"Leeson Street, Dublin 2",4250, Dublin 2,2,2125.00
+329,"Gallery Quay, Grand Canal Dock, Dublin 2",3450, Dublin 2,1,3450.00
+330,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+331,"Hanover Quay, Grand Canal Dock, Dublin 2",4250, Dublin 2,2,2125.00
+332,"Leeson Street, Dublin 2",4500, Dublin 2,2,2250.00
+333,"Grand Canal Square, Dublin 2",4250, Dublin 2,2,2125.00
+334,"Leeson Street, Dublin 2",3750, Dublin 2,1,3750.00
+335,"Grand Canal Square, Dublin 2",3450, Dublin 2,1,3450.00
+336,"Grand Canal Square, Grand Canal Dock, Dublin 2",3450, Dublin 2,1,3450.00
+337,"Lad Lane, Baggot Street, Dublin 2",4200, Dublin 2,2,2100.00
+338,"18 Lower Baggot Street, Dublin 2",4200, Dublin 2,2,2100.00
+339,"Leeson Street, Dublin 4",3450, Dublin 4,1,3450.00
+340,"Pembroke Square, Grand Canal Dock, Dublin 4",4200, Dublin 4,2,2100.00
+341,"Grand Canal Square, Dublin 2",3450, Dublin 2,1,3450.00
+342,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+343,"Grand Canal Square, Dublin 2",4000, Dublin 2,2,2000.00
+344,"Hanover Quay, Grand Canal Dock, Dublin 2",4250, Dublin 2,2,2125.00
+345,"Leeson Street, Dublin 2",3750, Dublin 2,1,3750.00
+346,"Bridge Street, Grand Canal Dock, Dublin 4",3900, Dublin 4,1,3900.00
+347,"Grand Canal Square, Grand Canal Dock, Dublin 2",3400, Dublin 2,1,3400.00
+348,"Leeson Street, Dublin 2",4250, Dublin 2,2,2125.00
+349,"Gallery Quay, Grand Canal Dock, Dublin 2",3450, Dublin 2,1,3450.00
+350,"Grand Canal Square, Grand Canal Dock, Dublin 2",3450, Dublin 2,1,3450.00
+351,"Millennium Tower, Grand Canal Dock, Dublin 2",4000, Dublin 2,2,2000.00
+352,"Grand Canal Square, Grand Canal Dock, Dublin 2",4250, Dublin 2,2,2125.00
+353,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+354,"Grand Canal Dock, Dublin 2",3450, Dublin 2,1,3450.00
+355,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+356,"18 Lower Baggot Street, Dublin 2",4200, Dublin 2,2,2100.00
+357,"Grand Canal Square, Grand Canal Dock, Dublin 2",4250, Dublin 2,2,2125.00
+358,"Lad Lane, Dublin 2",4200, Dublin 2,2,2100.00
+359,"Lad Lane, Dublin 2",4200, Dublin 2,2,2100.00
+360,"Leeson Street, Dublin 2",3900, Dublin 2,1,3900.00
+361,"Leeson Street, Dublin 2",4500, Dublin 2,2,2250.00
+362,"Ballsbridge Woods, Shelbourne Road, Ballsbridge, Dublin 4",3900, Dublin 4,1,3900.00
+363,"Pembroke Square, Grand Canal Dock, Dublin 4",4200, Dublin 4,2,2100.00
+364,"Grand Canal Square, Grand Canal Dock, Dublin 2",4250, Dublin 2,2,2125.00
+365,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+366,"The Gasworks, Dublin 4",4250, Dublin 4,2,2125.00
+367,"Leeson Street, Dublin 2",4250, Dublin 2,2,2125.00
+368,"The Gasworks, Dublin 4",4250, Dublin 4,2,2125.00
+369,"Grand Canal Square, Dublin 2",4250, Dublin 2,2,2125.00
+370,"Grand Canal Square, Dublin 2",4250, Dublin 2,2,2125.00
+371,"Lad Lane, Baggot Street, Dublin 2",4200, Dublin 2,1,4200.00
+372,"Burton House, Custom House Square, Mayor St. Lower, IFSC, Dublin 1",3150, Dublin 1,1,3150.00
+373,"Leeson Street, Dublin 2",3450, Dublin 2,1,3450.00
+374,"Grand Canal Square, Dublin 2",4250, Dublin 2,2,2125.00
+375,"Fairview Ave Lwr, Fairview, Dublin 3",2000, Dublin 3,2,1000.00
+376,"Woodleigh Ash, Rathgar, Dublin 6",1850, Dublin 6,1,1850.00
+377,"Green Isle Court, Clondalkin, Dublin 22",1400, Dublin 22,2,700.00
+378,"Harold's Cross Road, Harold's Cross, Dublin 6w",2000, Dublin 6w,2,1000.00
+379,"Harold's Cross Road, Harold's Cross, Dublin 6w",1600, Dublin 6w,1,1600.00
+380,"Customs House Harbour, Dublin 1",2500, Dublin 1,2,1250.00
+381,"South Lotts Road, Dublin 4",2200, Dublin 4,2,1100.00
+382,"The Weir, Chapelizod, Dublin 20",1700, Dublin 20,2,850.00
+383,"Cedar Hall Milltown Road, Milltown, Dublin 6",2250, Dublin 6,2,1125.00
+384,"Apt. 28 Hanover Riverside, Sir John Rogerson's Qu, Dublin 2",3250, Dublin 2,2,1625.00
+385,"Merrion Street, Dublin 2",8850, Dublin 2,2,4425.00
+386,"37 St Anns, Ailesbury Road, Dublin 4",3600, Dublin 4,2,1800.00
+387,"12 Joyce Hall, Carrickmines Avenue, Carrickmines W, Foxrock, Dublin 18",3900, Dublin 18,3,1300.00
+388,"St Catherines Church, Bridgefoot Street, Dublin 8",1617, Dublin 8,1,1617.00
+389,"(1) Elmfield, Ballyogan Road, Leopardstown, Dublin 18",1742, Dublin 18,1,1742.00
+390,"HSQ, St. Johns Rd West, Kilmainham, Dublin 8",2173, Dublin 8,2,1086.50
+391,"Kirkpatrick House, Spencer Dock, IFSC, Dublin 1",4635, Dublin 1,3,1545.00
+392,"Serviced Apartments in Malahide, Malahide, Co. Dublin",3360, Co. Dublin,2,1680.00
+393,"(3) Elmfield, Ballyogan Road, Leopardstown, Dublin 18",2496, Dublin 18,3,832.00
+394,"Apt. 2, 191 Clonliffe Road, Drumcondra, Dublin 3",1490, Dublin 3,1,1490.00
+395,"Castle Lawns, Kilgobbin Wood, Sandyford, Dublin 18",2200, Dublin 18,3,733.33
+396,"8 Ramileh Close, Milltown, Dublin 6",1060, Dublin 6,1,1060.00
+397,"Kingram Place, Off Fitzwilliam Place, Dublin 2",1700, Dublin 2,2,850.00
+398,"Lansdowne Hall, Inchicore, Dublin 8",1750, Dublin 8,2,875.00
+399,"Donnybrook Castle, Donnybrook, Dublin 4",2074, Dublin 4,2,1037.00
+400,"Airfield Court, Donnybrook, Dublin 4",2150, Dublin 4,2,1075.00
+401,"Wyckham Place, Dundrum, Dublin 16",1800, Dublin 16,2,900.00
+402,"Ballsbridge Gardens, Ballsbridge, Dublin 4",2295, Dublin 4,2,1147.50
+403,"Smithfield Towers, Smithfield Market, Smithfield, Dublin 7",3900, Dublin 7,3,1300.00
+404,"Old bridge road, Templeogue, Dublin 6w",6000, Dublin 6w,6,1000.00
+405,"30 Dorset Street, Dublin 1",2200, Dublin 1,4,550.00
+406,"Custom House Square, Dublin 1, Dublin 1",1850, Dublin 1,1,1850.00
+407,"Emorville Avenue, Dublin 8",1350, Dublin 8,1,1350.00
+408,"Pavillion, Dun Laoghaire, Co. Dublin",4200, Co. Dublin,2,2100.00
+409,"Merton Hall, Mount Saint Annes, Milltown, Dublin 6",2000, Dublin 6,2,1000.00
+410,"Belfield Court, Stillorgan Road, Donnybrook, Dubli, Dublin 4",2000, Dublin 4,2,1000.00
+411,"1 Cruise Park Square, Tyrrelstown, Dublin 15",1500, Dublin 15,2,750.00
+412,"Rockview, Simonsridge, Sandyford, Dublin 18",1800, Dublin 18,2,900.00
+413,"Collegefort, Castleknock, Dublin 15",1700, Dublin 15,3,566.67
+414,"Willow Lodge, Castleknock, Dublin 15",2113, Dublin 15,2,1056.50
+415,"Mount Saint Annes, Milltown, Dublin 6",2600, Dublin 6,2,1300.00
+416,"Milltown Hall, Milltown, Dublin 6",2392, Dublin 6,2,1196.00
+417,"Joyce Hall, Carrickmines Wood, Foxrock, Dublin 18",2800, Dublin 18,2,1400.00
+418,"Mount Saint Annes, Milltown, Dublin 6",2600, Dublin 6,2,1300.00
+419,"Joyce Hall, Foxrock, Dublin 18",2800, Dublin 18,2,1400.00
+420,"Richmond Hall, Mount Saint Anne's, Milltown, Milltown, Dublin 6",1872, Dublin 6,1,1872.00
+421,"Mount Saint Annes, Milltown, Dublin 6",2600, Dublin 6,2,1300.00
+422,"Joyce Hall, Carrickmines Wood, Foxrock, Dublin 18",2800, Dublin 18,2,1400.00
+423,"Sandyford view - beside parade of local shops, Sandyford, Dublin 18",2000, Dublin 18,3,666.67
+424,"Greenfield Manor, beside RTE & UCD, Donnybrook, Dublin 4",2995, Dublin 4,3,998.33
+425,"31 Mount Andrew Rise, Lucan, Co. Dublin",1990, Co. Dublin,2,995.00
+426,"Alexandra Walk, Dublin 2",3000, Dublin 2,2,1500.00
+427,"Highfield Road, Rathgar, Dublin 6",1425, Dublin 6,1,1425.00
+428,"Bushy Park House, Terenure, Dublin 6w",2050, Dublin 6w,2,1025.00
+429,"Bushy Park House, Templeogue Road, Terenure, Dublin 6",2550, Dublin 6,3,850.00
+430,"Adelaide Square, Dublin 2",2000, Dublin 2,1,2000.00
+431,"Mountjoy Square, Dublin 1",1500, Dublin 1,1,1500.00
+432,"Adelaide Square, Dublin 2",2200, Dublin 2,1,2200.00
+433,"Wyckham Place, Dundrum, Dublin 14",2100, Dublin 14,2,1050.00
+434,"Windmill Lane, Dublin 2",2200, Dublin 2,2,1100.00
+435,"Adelaide Square, Dublin 2",2600, Dublin 2,1,2600.00
+436,"The Mills Apartment Block, Old Navan Road, Castleknock, Dublin 15",1320, Dublin 15,2,660.00
+437,"The Shrewsbury, Donnybrook Castle, Donnybrook, Dublin 4",2200, Dublin 4,2,1100.00
+438,"Winter Garden, Pearse Street, Dublin 2",1695, Dublin 2,1,1695.00
+439,"The Ash, Parkview, Stepaside, Dublin 18",1550, Dublin 18,1,1550.00
+440,"Arran Quay Apartments, Hammond Lane, Dublin 7",1352, Dublin 7,1,1352.00
+441,"Lanesborough Mews, Finglas, Dublin 11",1550, Dublin 11,2,775.00
+442,"Arran Quay Apartments, Hammond Lane, Dublin 7",1352, Dublin 7,1,1352.00
+443,"Corrig Avenue, Dun Laoghaire, Co. Dublin",1600, Co. Dublin,2,800.00
+444,"Highfield Manor, Highfield Road, Rathgar, Dublin 6",2200, Dublin 6,2,1100.00
+445,"Elgin House, Ballsbridge Court, Serpentine Avenue, Ballsbridge, Dublin 4",2000, Dublin 4,2,1000.00
+446,"Belgrave Square East, Ranelagh, Dublin 6",2500, Dublin 6,3,833.33
+447,"Donn Rua, Castleknock, Dublin 15",2250, Dublin 15,2,1125.00
+448,"Clarion Quay, Block 12, IFSC, Dublin 1",2526, Dublin 1,3,842.00
+449,"The Waterside, Charlotte Quay, Ringsend, Dublin 4",2180, Dublin 4,2,1090.00
+450,"Carrigmore Crescent, Citywest, Co. Dublin",1400, Co. Dublin,1,1400.00
+451,"Westend Gate, Tallaght, Dublin 24",1250, Dublin 24,1,1250.00
+452,"Apt 43 Manor Hall, Mount Brown, Kilmainham, Dublin 8",1750, Dublin 8,2,875.00
+453,"The Cedars, Monkstown Valley, Monkstown, Co. Dublin",1500, Co. Dublin,2,750.00
+454,"Apartment 51, Horizon Building, Magellan Crescent, Ashtown, Dublin 15",1400, Dublin 15,1,1400.00
+455,"Castle Street, Dublin 2",1950, Dublin 2,2,975.00
+456,"The Hardwicke, Smithfield, Dublin 7",1500, Dublin 7,1,1500.00
+457,"Rathborne Court, Ashtown, Dublin 15",2950, Dublin 15,4,737.50
+458,"Windmill Terrace, Clonsilla, Dublin 15",1400, Dublin 15,2,700.00
+459,"Hatch place, Dublin 2",1800, Dublin 2,1,1800.00
+460,"Stewart Hall, Parnell Street, Dublin 1",2000, Dublin 1,2,1000.00
+461,"Cedarbrook Avenue, Park West, Dublin 12",1875, Dublin 12,2,937.50
+462,"Whatley Hall, Archers Wood, Clonee, Dublin 15",1600, Dublin 15,2,800.00
+463,"Lanesborough Square, Finglas, Dublin 11",1800, Dublin 11,3,600.00
+464,"Windmill Terrace, Clonsilla, Dublin 15",1400, Dublin 15,2,700.00
+465,"Bantry Square, Waterville, Blanchardstown, Dublin 15",1700, Dublin 15,2,850.00
+466,"Kilmore house, Spencer Dock, Dublin 1",2600, Dublin 1,2,1300.00
+467,"Kilmore house, Spencer Dock, Dublin 1",2500, Dublin 1,2,1250.00
+468,"Hunters Run, Clonee, Dublin 15",1000, Dublin 15,1,1000.00
+469,"The Hardwicke, Smithfield, Dublin 7",1500, Dublin 7,1,1500.00
+470,"Meadow Copse, Blanchardstown, Dublin 15",950, Dublin 15,1,950.00
+471,"Stewart Hall, Parnell Street, Dublin 1",2000, Dublin 1,2,1000.00
+472,"Hansted, Lucan, Co. Dublin",1850, Co. Dublin,3,616.67
+473,"New Seskin Court, Tallaght, Dublin 24",1900, Dublin 24,2,950.00
+474,"Townsend Street, Dublin 2",2100, Dublin 2,2,1050.00
+475,"Cedarbrook Avenue, Cherry Orchard, Dublin 10",1650, Dublin 10,2,825.00
+476,"Lanesborough Square, Finglas, Dublin 11",1550, Dublin 11,2,775.00
+477,"The Chandler, Arran Quay, Dublin 7",1500, Dublin 7,1,1500.00
+478,"Rosebank Place, Clondalkin, Dublin 22",1400, Dublin 22,1,1400.00
+479,"Kings Court, Parnell Street, Dublin 1",1500, Dublin 1,1,1500.00
+480,"Bayview Avenue, North Strand, Dublin 3",1650, Dublin 3,1,1650.00
+481,"Gandon Hall, Gardiner Street, Dublin 1",1650, Dublin 1,1,1650.00
+482,"Saunders House, Spencer Dock, Dublin 1",3000, Dublin 1,2,1500.00
+483,"Rathborne Court, Ashtown, Dublin 15",2950, Dublin 15,4,737.50
+484,"Rathborne Court, Ashtown, Dublin 7",2750, Dublin 7,4,687.50
+485,"The Holly, Rockfield, Dundrum, Dublin 14",1840, Dublin 14,2,920.00
+486,"Custom Hall, Gardiner Street, Dublin 1",2000, Dublin 1,2,1000.00
+487,"Penthouse,Rivervale, Ashtown, Dublin 15",3100, Dublin 15,4,775.00
+488,"Jervis Street, Dublin 1",2300, Dublin 1,2,1150.00
+489,"Hatch place, Dublin 2",1800, Dublin 2,1,1800.00
+490,"College House, Taylors Hill, Rathfarnham, Dublin 16",1700, Dublin 16,2,850.00
+491,"23 Adelaide Street, Dun Laoghaire, Co. Dublin",1248, Co. Dublin,2,624.00
+492,"La Rochelle, Christchurch, Dublin 8",2600, Dublin 8,3,866.67
+493,"Carrig Court, Citywest, Co. Dublin",1700, Co. Dublin,2,850.00
+494,"8 esker meadow green, Lucan, Dublin 22",1200, Dublin 22,1,1200.00
+495,"Alexandra Walk, Off South Great George's Street, Dublin 2",2600, Dublin 2,1,2600.00
+496,"The Aston Building, Aston Quay, Dublin 2",3360, Dublin 2,1,3360.00
+497,"Alto Vetro, Grand Canal Square, Dublin 2",3560, Dublin 2,2,1780.00
+498,"Grand Canal Dock, Grand Canal Square, Dublin 2",3560, Dublin 2,2,1780.00
+499,"Beacon South Quarter, Sandyford, Dublin 18",3196, Dublin 18,2,1598.00
+500,"Beacon South Quarter, Sandyford, Dublin 18",2796, Dublin 18,1,2796.00
+501,"Hanover Dock, Hanover Quay, Dublin 2",3800, Dublin 2,1,3800.00
+502,"Hanover Dock, Hanover Quay, Dublin 2",4400, Dublin 2,2,2200.00
+503,"Grand Canal Dock, Grand Canal Square, Dublin 2",3560, Dublin 2,2,1780.00
+504,"Alto Vetro, Grand Canal Square, Dublin 2",3560, Dublin 2,2,1780.00
+505,"Alexandra Walk, Whitefriar Street, Dublin 8",2600, Dublin 8,1,2600.00
+506,"Hanover Dock, Grand Canal Square, Dublin 2",4400, Dublin 2,2,2200.00
+507,"Castleway, Golden Lane, Dublin 8",3360, Dublin 8,1,3360.00
+508,"Castleway, Golden Lane, Dublin 8",3680, Dublin 8,2,1840.00
+509,"Shelbourne Road, Ballsbridge, Dublin 4",3880, Dublin 4,1,3880.00
+510,"The Aston Building, Aston Quay, Dublin 2",3600, Dublin 2,2,1800.00
+511,"Hanover Dock, Grand Canal Square, Dublin 2",3800, Dublin 2,1,3800.00
+512,"Shelbourne Road, Ballsbridge, Dublin 4",4800, Dublin 4,2,2400.00
+513,"Castleway, Off South Great George's Street, Dublin 2",3360, Dublin 2,1,3360.00
+514,"Beacon South Quarter, Sandyford, Dublin 18",3196, Dublin 18,2,1598.00
+515,"Alexandra Walk, Off South Great Georges Street, Dublin 2",3360, Dublin 2,2,1680.00
+516,"Alexandra Walk, Whitefriar Street, Dublin 8",3360, Dublin 8,2,1680.00
+517,"Alto Vetro, Grand Canal Square, Dublin 2",3560, Dublin 2,2,1780.00
+518,"The Aston Building, Aston Quay, Dublin 2",3600, Dublin 2,2,1800.00
+519,"The Grange, Brewery Road, Stillorgan, Co. Dublin",1900, Co. Dublin,1,1900.00
+520,"Vantage by Kennedy Wilson, Central Park, Leopardst, Sandyford, Dublin 18",2100, Dublin 18,2,1050.00
+521,"The Grange, Brewery Road, Stillorgan, Co. Dublin",1900, Co. Dublin,1,1900.00
+522,"Vantage by Kennedy Wilson, Central Park, Leopardst, Sandyford, Dublin 18",2100, Dublin 18,2,1050.00
+523,"Clancy Quay by Kennedy Wilson, Dublin 8",1900, Dublin 8,2,950.00
+524,"Clancy Quay, Phase Two by Kennedy WIlson, Islandbridge, Dublin 8",2200, Dublin 8,2,1100.00
+525,"The Grange, Brewery Road, Stillorgan, Co. Dublin",2100, Co. Dublin,2,1050.00
+526,"Hanbury Mews, Hanbury Lane, Dublin 8",1500, Dublin 8,1,1500.00
+527,"2 Grove House, 36 Grove Road, Rathmines, Dublin 6",2200, Dublin 6,2,1100.00
+528,"Mobhi Court, Corporate Letting, Short term, Drumcondra, Dublin 9",2200, Dublin 9,1,2200.00
+529,"Apt 3, Woodlawn Avenue, Santry, Santry, Dublin 9",1400, Dublin 9,1,1400.00
+530,"Granitfield Manor, Rochestown Avenue, Dun Laoghaire, Co. Dublin",1800, Co. Dublin,2,900.00
+531,"Lanesborough Court, Finglas, Dublin 11",1280, Dublin 11,2,640.00
+532,"Northwood, Santry, Dublin 9",900, Dublin 9,4,225.00
+533,"Mobhi Court, Glasnevin, Dublin 9",2200, Dublin 9,1,2200.00
+534,"Merchamp, Seafield Road, Clontarf, Dublin 3",1427, Dublin 3,2,713.50
+535,"8 Dunlin House House, Red Court Oaks, Seafield Roa, Clontarf, Dublin 3",1850, Dublin 3,2,925.00
+536,"Lansdowne Wood, Ballsbridge, Dublin 4",3000, Dublin 4,2,1500.00
+537,"Hunters Hall , Hunterswood, Ballycullen, Dublin 24",1650, Dublin 24,2,825.00
+538,"Glenealy Downs, Clonsilla, Dublin 15",1300, Dublin 15,1,1300.00
+539,"Terenure Road, Dublin W6, Terenure, Dublin 6",1275, Dublin 6,1,1275.00
+540,"Gleneagle House, Ridgewood, Swords, Co. Dublin",1600, Co. Dublin,2,800.00
+541,"Elgin Road, Ballsbridge, Dublin 4",3200, Dublin 4,2,1600.00
+542,"Mount Seskin Court, Killinardan, Tallaght, Dublin 24",1600, Dublin 24,2,800.00
+543,"Grace Park Hall, 102 Grace Park Road, Drumcondra, Dublin 3",1456, Dublin 3,1,1456.00
+544,"Danesfort, Castle Avenue, Clontarf, Dublin 3",2000, Dublin 3,2,1000.00
+545,"Alexandra Place, East Road, East Wall, Dublin 3",2400, Dublin 3,3,800.00
+546,"Alexandra Place, East Road, Dublin 1",2400, Dublin 1,3,800.00
+547,"Alexandra Walk, Dublin 8",2350, Dublin 8,2,1175.00
+548,"Bachelors Walk, Dublin 2",1400, Dublin 2,1,1400.00
+549,"Garville Avenue, Rathgar, Dublin 6",2000, Dublin 6,2,1000.00
+550,"Ranelagh Village, Ranelagh, Dublin 6",3250, Dublin 6,2,1625.00
+551,"Newmarket Square, Dublin 8",1200, Dublin 8,1,1200.00
+552,"Wyckham Point, Dundrum, Dublin 14",1800, Dublin 14,1,1800.00
+553,"21 Grandecentral, Rockbrook, Sandyford, Dublin 18",1750, Dublin 18,1,1750.00
+554,"Premier Square, Finglas road, Glasnevin, Dublin 9",1800, Dublin 9,2,900.00
+555,"North Circular Road North Dublin City, North Circular Road, Dublin 1",900, Dublin 1,1,900.00
+556,"Elmfield Court, Ninth Lock Road, Clondalkin, Dublin 22",1950, Dublin 22,2,975.00
+557,"Herbert Park Lane, Ballsbridge, Dublin 4",2700, Dublin 4,2,1350.00
+558,"The Distillery, Distillery Road, Drumcondra, Dublin 3",1750, Dublin 3,1,1750.00
+559,"Barrow House, Custom House Square, IFSC, Dublin 1",1925, Dublin 1,1,1925.00
+560,"Riverbank Hall, Addison Park, Glasnevin, Dublin 11",1700, Dublin 11,1,1700.00
+561,"Kings Court, Parnell Street, Dublin 1",1950, Dublin 1,2,975.00
+562,"Landscape Court, Landscape Road, Churchtown, Dublin 14",1695, Dublin 14,2,847.50
+563,"2 Kilininny Court, Firhouse, Dublin 24",1650, Dublin 24,2,825.00
+564,"Corn Exchange, Burgh Quay, Dublin 2",3000, Dublin 2,1,3000.00
+565,"Castle Lawn, Kilgobbin Wood, Leopardstown, Dublin 18",2195, Dublin 18,3,731.67
+566,"Landscape Court, Landscape Road, Churchtown, Dublin 14",1750, Dublin 14,2,875.00
+567,"17 Castle Lawns Kilgobbin Wood, Sandyford, Dublin 18",2195, Dublin 18,3,731.67
+568,"Milltown Avenue, Mount St. Annes, Milltown, Dublin 6",2300, Dublin 6,2,1150.00
+569,"Brook House, Corrig Avenue, Dun Laoghaire, Co. Dublin",2700, Co. Dublin,2,1350.00
+570,"Skyview, Sorrento Road, Dalkey, Co. Dublin",2500, Co. Dublin,3,833.33
+571,"Linden Court, Grove Avenue, Blackrock, Co. Dublin",1650, Co. Dublin,1,1650.00
+572,"Mayor Street, Dublin 1",960, Dublin 1,1,960.00
+573,"Mayor Street, Dublin 1",1080, Dublin 1,1,1080.00
+574,"Richmond Avenue, Fairview, Dublin 3",1600, Dublin 3,2,800.00
+575,"Collins Square, Benburb Street, Dublin 7",2100, Dublin 7,2,1050.00
+576,"The Tramyard, Inchicore, Dublin 8",1775, Dublin 8,2,887.50
+577,"Ballsbridge court, serpentine Avenue, Ballsbridge, Dublin 4",1800, Dublin 4,1,1800.00
+578,"Apartment 155 Bachelors Walk, Dublin 1",2400, Dublin 1,2,1200.00
+579,"Seafield Court, Castle Ave, Clontarf, Dublin 3",1330, Dublin 3,1,1330.00
+580,"The Maltings, Bonham Street, Dublin 8",1350, Dublin 8,1,1350.00
+581,"The Maltings, Bonham Street, Dublin 8",1350, Dublin 8,1,1350.00
+582,"Bracken Hill, Blackglen Road, Sandyford, Dublin 18",1950, Dublin 18,2,975.00
+583,"Bloomfield Park, Bloomfield Avenue, Donnybrook, Dublin 4",2390, Dublin 4,2,1195.00
+584,"Baggotrath House, Newbridge Ave, Ballsbridge, Dublin 4",3360, Dublin 4,1,3360.00
+585,"Baggoth Rath, Newbridge Avenue, Ballsbridge, Dublin 4",4200, Dublin 4,2,2100.00
+586,"Baggot Rath House, Newbridge Ave, Ballsbridge, Dublin 4",5460, Dublin 4,3,1820.00
+587,"Blackthorn Drive, Sandyford, Dublin 18",4760, Dublin 18,2,2380.00
+588,"Olivemount house, Olivemount road, Dundrum, Dublin 14",1200, Dublin 14,1,1200.00
+589,"Sweepstakes, Ballsbridge, Dublin 4",3000, Dublin 4,3,1000.00
+590,"The Courtyard, Block B, North Great Georges St, Dublin 1",1782, Dublin 1,2,891.00
+591,"Belfield Court, Donnybrook, Dublin 4",1875, Dublin 4,2,937.50
+592,"Kilmore House Drynam Hall, Kinsealy, Co. Dublin",1560, Co. Dublin,2,780.00
+593,"Amiens Square Amiens Street, Dublin 1",1575, Dublin 1,1,1575.00
+594,"Seamount, Stillorgan, Co. Dublin",2300, Co. Dublin,2,1150.00
+595,"OCallaghan Court, Grand Canal Dock, Dublin 2",2250, Dublin 2,1,2250.00
+596,"Old Quay Terrace, Strand Road, Sutton, Dublin 13",1853, Dublin 13,2,926.50
+597,"Achill Square, Waterville, Blanchardstown, Dublin 15",1700, Dublin 15,2,850.00
+598,"Southmede, Ballinteer Road, Dundrum, Dublin 16",2000, Dublin 16,2,1000.00
+599,"Francis Street, Christchurch, Dublin 8",2000, Dublin 8,2,1000.00
+600,"Esker Manor, Lucan, Co. Dublin",1460, Co. Dublin,2,730.00
+601,"Fernley Court, Long Lane, Dublin 8",1500, Dublin 8,1,1500.00
+602,"Ardoyne House, Pembroke Park, Ballsbridge, Dublin 4",3000, Dublin 4,3,1000.00
+603,"Leeson Street Upper, Dublin 4",2300, Dublin 4,2,1150.00
+604,"Mount Merrion Avenue, Blackrock, Blackrock, Co. Dublin",1900, Co. Dublin,2,950.00
+605,"Seabury, Sandymount, Dublin 4",2250, Dublin 4,2,1125.00
+606,"The square , haddington rd, Ballsbridge, Dublin 4",2400, Dublin 4,2,1200.00
+607,"3 Richmond Mews Richmond Ave, Fairview, Dublin 3",1400, Dublin 3,1,1400.00
+608,"Main Street Swords, Swords, Co. Dublin",1350, Co. Dublin,1,1350.00
+609,"South Circular Rd, Dublin 8",1350, Dublin 8,1,1350.00
+610,"58 Serpentine Avenue, Ballsbridge, Dublin 4",2250, Dublin 4,2,1125.00
+611,"Pembroke Square, Grand Canal Street Upper, Grand Canal Dock, Dublin 4",3300, Dublin 4,3,1100.00
+612,"181 Bellevue, Islandbridge, Dublin 8",2000, Dublin 8,2,1000.00
+613,"Wellington Road, Ballsbridge, Dublin 4",3500, Dublin 4,2,1750.00
+614,"clarion quay bl 5, Dublin 1",2300, Dublin 1,1,2300.00
+615,"1 Blackhorse Downs, Dublin 7",1600, Dublin 7,2,800.00
+616,"Wynnsward Park, Clonskeagh, Dublin 14",1500, Dublin 14,2,750.00
+617,"Timber Mills, Artane, Dublin 5",1550, Dublin 5,2,775.00
+618,"Fortunes Walk, Citypark, Citywest, Co. Dublin",2200, Co. Dublin,3,733.33
+619,"dame street, Dublin 2",2300, Dublin 2,1,2300.00
+620,"169 171 James's street, Dublin 8",1600, Dublin 8,1,1600.00
+621,"Terenure road east, Rathgar, Dublin 6",1600, Dublin 6,1,1600.00
+622,"Shelbourne Court, Ballsbridge, Dublin 4",3120, Dublin 4,2,1560.00
+623,"4857, North Circular Road, Dublin 1",1500, Dublin 1,2,750.00
+624,"mayor street, IFSC, Dublin 1",1900, Dublin 1,1,1900.00
+625,"8 Lynton Court, Ballsbridge, Dublin 4",3640, Dublin 4,4,910.00
+626,"66 The Birch, Riversdale, Dundrum, Dublin 14",1850, Dublin 14,2,925.00
+627,"4 Millstream, The Links, Portmarnock, Portmarnock, Co. Dublin",1650, Co. Dublin,2,825.00
+628,"208 The links, Elm Park, Merrion, Dublin 4",2300, Dublin 4,2,1150.00
+629,"Finsbury House 79-81 Pembroke Road, Ballsbridge, Dublin 4",2600, Dublin 4,2,1300.00
+630,"The Charter, Santry Cross, Ballymun, Dublin 9",2000, Dublin 9,2,1000.00
+631,"Charles Street Great, Dublin 1",1400, Dublin 1,1,1400.00
+632,"Charles Street Great, Dublin 1",2300, Dublin 1,3,766.67
+633,"Airfield Manor, Donnybrook, Dublin 4",2000, Dublin 4,2,1000.00
+634,"1 BED Priorsgate, Greenhills Road, Tallaght, Dublin 24",1172, Dublin 24,1,1172.00
+635,"Bracken Hill, Blackglen Road, Sandyford, Dublin 18",2300, Dublin 18,1,2300.00
+636,"Brennanstown Square, Cabinteely, Dublin 18",2400, Dublin 18,2,1200.00
+637,"Dunluce, Anglesea Road, Ballsbridge, Dublin 4",3250, Dublin 4,2,1625.00
+638,"Fitzwilliam Place, Dublin 2",3000, Dublin 2,2,1500.00
+639,"Francis Street, Dublin 8",2500, Dublin 8,2,1250.00
+640,"The Hibernian,The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3810, Dublin 4,1,3810.00
+641,"Longboat Quay, Sir Rogeron's Quay, Grand Canal Dock, Dublin 2",4200, Dublin 2,1,4200.00
+642,"The Cedars, Herbert Park Lane, Ballsbridge, Dublin 4",3600, Dublin 4,1,3600.00
+643,"The Dickens, The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3810, Dublin 4,1,3810.00
+644,"William Bligh, The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3600, Dublin 4,1,3600.00
+645,"The Cedars, Herbert Park Lane, Ballsbridge, Dublin 4",3600, Dublin 4,1,3600.00
+646,"The Hibernian,The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3390, Dublin 4,1,3390.00
+647,"The Poolbeg, The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3600, Dublin 4,1,3600.00
+648,"Warrington Place, Dublin 2, Ballsbridge, Dublin 4",3600, Dublin 4,1,3600.00
+649,"Upper Leeson Street, Dublin 4",3800, Dublin 4,1,3800.00
+650,"The Hibernian,The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3390, Dublin 4,1,3390.00
+651,"Hanover Riverside, Sir Rogerson's Quay, Dublin 2, Grand Canal Dock, Dublin 2",3810, Dublin 2,1,3810.00
+652,"Hanover Quay, The Waterfront, Grand Canal Dock, Dublin 2",4800, Dublin 2,2,2400.00
+653,"The Sweepstakes, Ballsbridge, Ballsbridge, Dublin 4",3640, Dublin 4,2,1820.00
+654,"The Clayton, The Gasworks, Barrow Street, Ballsbridge, Dublin 4",3390, Dublin 4,1,3390.00
+655,"William Bligh, The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3400, Dublin 4,1,3400.00
+656,"The Hibernian,The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3600, Dublin 4,1,3600.00
+657,"The Argyle, Custom House Quay, IFSC, Dublin 1",3600, Dublin 1,1,3600.00
+658,"The Alliance, The Gasworks, South Lotts Road, Ballsbridge, Dublin 4",4500, Dublin 4,2,2250.00
+659,"Gallery Quay, Grand Canal Quay, Grand Canal Dock, Dublin 2",4500, Dublin 2,2,2250.00
+660,"William Bligh, The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3400, Dublin 4,1,3400.00
+661,"The Poolbeg, The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3810, Dublin 4,1,3810.00
+662,"The Clayton, The Gasworks, Barrow Street, Ballsbridge, Dublin 4",3390, Dublin 4,1,3390.00
+663,"The Hibernian,The Gasworks, Barrow Street, Grand Canal Dock, Dublin 4",3390, Dublin 4,1,3390.00
+664,"The Cedars, Herbert Park Lane, Ballsbridge, Dublin 4",3600, Dublin 4,1,3600.00
+665,"The Cedars, Herbert Park Lane, Ballsbridge, Dublin 4",3600, Dublin 4,1,3600.00
+666,"Herbert Park Lane, The Pines, Ballsbridge, Dublin 4",3600, Dublin 4,2,1800.00
+667,"25 Richmond Square, Morning Star avenue, Smithfield, Dublin 7",2000, Dublin 7,2,1000.00
+668,"Madison Court, Grattan Street, Dublin 2",2400, Dublin 2,2,1200.00
+669,"El Greco, St James Court, Ballsbridge, Dublin 4",1750, Dublin 4,1,1750.00
+670,"Shrewsbury Square, Sandymount Avenue, Ballsbridge, Dublin 4",3250, Dublin 4,2,1625.00
+671,"214 The Distillery, Distillery Road, Fairview, Dublin 3",1950, Dublin 3,2,975.00
+672,"Apt 25 Cherry Lodge Farmleigh, Castleknock, Dublin 15",1450, Dublin 15,1,1450.00
+673,"1 Bedroom Apartment, Island Key, East Wall, Dublin 3",1600, Dublin 3,1,1600.00
+674,"Richmond Street North, Dublin 1",1300, Dublin 1,1,1300.00
+675,"The Water Rill, Waterside, Co Dublin, Malahide, Co. Dublin",1500, Co. Dublin,2,750.00
+676,"Brittas, Brittas, Co. Dublin",1150, Co. Dublin,1,1150.00
+677,"Rathborne Court, Ashtown, Dublin 15",1900, Dublin 15,2,950.00
+678,"North Circular Road, Dublin 1",2100, Dublin 1,3,700.00
+679,"Adelaide Square, Dublin 2",3000, Dublin 2,1,3000.00
+680,"Alexandra Walk, Dublin 2",3740, Dublin 2,2,1870.00
+681,"Alexandra Walk, Dublin 2",3200, Dublin 2,2,1600.00
+682,"Pembroke Row, Dublin 2",3400, Dublin 2,2,1700.00
+683,"Adelaide Square, Dublin 2",2600, Dublin 2,1,2600.00
+684,"Alexandra Walk, Dublin 2",3400, Dublin 2,2,1700.00
+685,"Alexandra Walk, Dublin 2",3740, Dublin 2,2,1870.00
+686,"Adelaide Square, Dublin 2",3000, Dublin 2,1,3000.00
+687,"Adelaide Square, Dublin 2",3200, Dublin 2,1,3200.00
+688,"Alexandra Walk, Dublin 2",3400, Dublin 2,1,3400.00
+689,"Alexandra Walk, Dublin 2",3300, Dublin 2,2,1650.00
+690,"Adelaide Square, Dublin 2",3240, Dublin 2,2,1620.00
+691,"Alexandra Walk, Dublin 2",3740, Dublin 2,2,1870.00
+692,"Pembroke Row, Dublin 2",2600, Dublin 2,2,1300.00
+693,"Adelaide Square, Dublin 2",3400, Dublin 2,2,1700.00
+694,"Alexandra Walk, Dublin 2",3320, Dublin 2,1,3320.00
+695,"Alexandra Walk, Dublin 2",3400, Dublin 2,1,3400.00
+696,"Adelaide Square, Dublin 2",3240, Dublin 2,1,3240.00
+697,"Adelaide Square, Dublin 2",3080, Dublin 2,1,3080.00
+698,"Adelaide Square, Dublin 2",3380, Dublin 2,2,1690.00
+699,"Alexandra Walk, Dublin 2",3600, Dublin 2,2,1800.00
+700,"Adelaide Square Penthouse, Dublin 2",3600, Dublin 2,2,1800.00
+701,"Adelaide Square Penthouse, Dublin 2",4100, Dublin 2,1,4100.00
+702,"Pembroke Row, Dublin 2",3520, Dublin 2,2,1760.00
+703,"Adelaide Square, Dublin 2",2880, Dublin 2,1,2880.00
+704,"Adelaide Square Penthouse, Dublin 2",3800, Dublin 2,2,1900.00
+705,"Adelaide Square, Dublin 2",2760, Dublin 2,1,2760.00
+706,"Adelaide Square, Dublin 2",2400, Dublin 2,1,2400.00
+707,"Adelaide Square Penthouse, Dublin 2",4800, Dublin 2,2,2400.00
+708,"Adelaide Square, Dublin 2",3400, Dublin 2,2,1700.00
+709,"Adelaide Square, Dublin 2",4200, Dublin 2,1,4200.00
+710,"Adelaide Square, Dublin 2",3000, Dublin 2,1,3000.00
+711,"Mayor Street Lower, Dublin 2, Dublin 2",2400, Dublin 2,1,2400.00
+712,"Pembroke Row, Dublin 2",2880, Dublin 2,1,2880.00
+713,"Adelaide Square, Dublin 2",2200, Dublin 2,1,2200.00
+714,"Alexandra Walk, Dublin 2",3300, Dublin 2,2,1650.00
+715,"Pembroke Row, Dublin 2",3480, Dublin 2,2,1740.00
+716,"Gardiner Place, Dublin 1",2750, Dublin 1,2,1375.00
+717,"(1) Tallaght Cross East, Tallaght, Dublin 24",1350, Dublin 24,1,1350.00
+718,"Applewood Village, Swords, Co. Dublin",1600, Co. Dublin,2,800.00
+719,"3 Grove House, Maxwell Road, Rathmines, Dublin 6",1750, Dublin 6,2,875.00
+720,"Wikeford Hall, Thornleigh Road, Swords, Co. Dublin",1700, Co. Dublin,2,850.00
+721,"2 Church Mews, Church Gardens, Rathmines, Dublin 6",1333, Dublin 6,1,1333.00
+722,"Aranmore, Custom House Harbour, I.F.S.C, Dublin 1",2250, Dublin 1,2,1125.00
+723,"Rockview, Simonsridge, Sandyford, Sandyford, Dublin 18",1800, Dublin 18,2,900.00
+724,"144 blackhall square north Brunswick street dublin, Dublin 7",1800, Dublin 7,1,1800.00
+725,"Custom House Square, Mayor Street Lower, IFSC, Dublin 1",2100, Dublin 1,2,1050.00
+726,"Greenlea Place, Terenure Road West, Terenure, Dublin 6w",1450, Dublin 6w,1,1450.00
+727,"Amiens Square, Corner Of Amiens Street & Talbot St, Dublin 1",1400, Dublin 1,1,1400.00
+728,"Gratton Wood, Clongriffin, Dublin 13",1200, Dublin 13,1,1200.00
+729,"Manor Street, Stoneybatter, Dublin 7",1650, Dublin 7,2,825.00
+730,"Summer Street North, Dublin 1",1300, Dublin 1,1,1300.00
+731,"Mountjoy Square, Dublin 1",2200, Dublin 1,3,733.33
+732,"64 Drumcondra Road Upper, Drumcondra, Dublin 9",2250, Dublin 9,3,750.00
+733,"32 Finglas Road, Finglas, Dublin 11",1200, Dublin 11,1,1200.00
+734,"Block 5, Portland Lock, Portland Place, Dublin 1",2100, Dublin 1,2,1050.00
+735,"The Island Chapelizod, Chapelizod, Dublin 20",1750, Dublin 20,2,875.00
+736,"Smithfield Gate, Smithfield, Dublin 7",1500, Dublin 7,1,1500.00
+737,"Ballymount Square, Walkinstown, Dublin 12",1350, Dublin 12,1,1350.00
+738,"53 St. Samsons Square, Balgriffin, Dublin 13",1600, Dublin 13,2,800.00
+739,"Howth Lodge, Howth, Dublin 13",2390, Dublin 13,2,1195.00
+740,"Lansdowne Gate, Drimnagh, Dublin 12",1525, Dublin 12,1,1525.00
+741,"32 Lansdowne Gate, Long Mile Road, Dublin 12, Drimnagh, Dublin 12",1805, Dublin 12,2,902.50
+742,"Charlestown Place, Finglas, Dublin 11",1580, Dublin 11,2,790.00
+743,"Sunnybank, Conyngham Road, Islandbridge, Dublin 8",1770, Dublin 8,2,885.00
+744,"120 The Oval, Tullyvale, Cabinteely, Dublin 18",1800, Dublin 18,2,900.00
+745,"5 Dunville Court, Rathmines, Dublin 6",1600, Dublin 6,1,1600.00
+746,"Highfield Park, Dundrum, Dublin 14",4500, Dublin 14,5,900.00
+747,"Market Square, Green Street, Off Capel Street, Dublin 1",1560, Dublin 1,1,1560.00
+748,"Harbour View, Crofton Road, Dun Laoghaire, Co. Dublin",2484, Co. Dublin,2,1242.00
+749,"Shelbourne Hall, Shelbourne Road, Ballsbridge, Dublin 4",3450, Dublin 4,2,1725.00
+750,"Shelbourne Hall, Shelbourne Rd, Ballsbridge, Dublin 4",2274, Dublin 4,2,1137.00
+751,"The Sweepstakes, Ballsbridge Park, Merrion Road, Ballsbridge, Dublin 4",1745, Dublin 4,1,1745.00
+752,"grand canal dock, Dublin 2",3560, Dublin 2,3,1186.67
+753,"clarendon st, Dublin 2",3200, Dublin 2,1,3200.00
+754,"86 Thomas Street, Dublin 8",1850, Dublin 8,2,925.00
+755,"83 Waterville Terrace, Blanchardstown, Dublin 15",1308, Dublin 15,2,654.00
+756,"4 Grange Lodge Court, Clongriffin, Dublin 13",1250, Dublin 13,1,1250.00
+757,"28, Talbot Hall, Riverbank, Swords, Co. Dublin",1600, Co. Dublin,2,800.00
+758,"Wyckham Place, Dundrum Dublin 14, Dundrum, Dublin 14",2400, Dublin 14,1,2400.00
+759,"14 the moyle prospect hill, Finglas, Dublin 11",1400, Dublin 11,1,1400.00
+760,"235 Marina Village Malahide, Malahide, Co. Dublin",1450, Co. Dublin,1,1450.00
+761,"229 Phibsborough Road, Phibsborough, Dublin 7",1650, Dublin 7,1,1650.00
+762,"8 Harcourt Hall Charlotte Way, Dublin 2",2380, Dublin 2,1,2380.00
+763,"24 holywell dene, Swords, Dublin 13",1650, Dublin 13,2,825.00
+764,"The Rowan, Rockfield, Dundrum, Dublin 16",2300, Dublin 16,2,1150.00
+765,"2 Harbour View, Balbriggan, Co. Dublin",1750, Co. Dublin,2,875.00
+766,"Lymewood Mews, northwood, Santry, Dublin 9",2200, Dublin 9,2,1100.00
+767,"Sorrento Heights, Sorrento Rd, Dalkey, Co. Dublin",3450, Co. Dublin,3,1150.00
+768,"Boyne House, Custom House Square, IFSC, Dublin 1",1950, Dublin 1,1,1950.00
+769,"Ashwood house, mount street, Dublin 2, Grand Canal Dock, Dublin 2",2600, Dublin 2,2,1300.00
+770,"the forum, Sandyford, Dublin 18",2600, Dublin 18,2,1300.00
+771,"Juliet Square, St. Edmunds, Lucan, Co. Dublin",1691, Co. Dublin,2,845.50
+772,"109 Parnell St, Dublin 1",2000, Dublin 1,1,2000.00
+773,"Phibsborough Road, Phibsborough, Dublin 7",1400, Dublin 7,1,1400.00
+774,"50 Howth Lodge, Practically On The Beach, Howth, Dublin 13",2500, Dublin 13,2,1250.00
+775,"35 Melville Park, Finglas, Dublin 11",1650, Dublin 11,3,550.00
+776,"Shandon Park, Monkstown, Co. Dublin",1940, Co. Dublin,1,1940.00
+777,"Ashley Hall, Lucan, Co. Dublin",1793, Co. Dublin,2,896.50
+778,"8 Carrigmore Gardens, Citywest, Co. Dublin",600, Co. Dublin,1,600.00
+779,"Christchurch View, Christchurch, Dublin 8",2200, Dublin 8,2,1100.00
+780,"The Willows, Claremont Road, Sandymount, Dublin 4",2000, Dublin 4,2,1000.00
+781,"Scarriff House, Custom House Square, Mayor Street, IFSC, Dublin 1",3300, Dublin 1,3,1100.00
+782,"46 Charleston Rd, Ranelagh, Dublin 6",1500, Dublin 6,1,1500.00
+783,"Mount Street Lower, adjacent to the passport offic, Dublin 2",1750, Dublin 2,2,875.00
+784,"allendale court, Clonsilla, Dublin 15",1700, Dublin 15,2,850.00
+785,"Bushy Park House, Terenure, Dublin 6",1900, Dublin 6,2,950.00
+786,"Edenmore shopping center, Raheny, Dublin 5",1600, Dublin 5,2,800.00
+787,"Galloping Green, Stillorgan, Co. Dublin",1800, Co. Dublin,2,900.00
+788,"Hanover Quarter, Hanover Quay, off Asgard Road, Grand Canal Dock, Dublin 2",3500, Dublin 2,2,1750.00
+789,"Merrion Village, Merrion road, Ballsbridge, Dublin 4",2500, Dublin 4,2,1250.00
+790,"The Crescent Building, Park West, Dublin 12",1800, Dublin 12,2,900.00
+791,"The Pines, Herbert Park Lane, Angelsea Road, Ballsbridge, Dublin 4",3800, Dublin 4,3,1266.67
+792,"28 Mountfield Park, Malahide, Co. Dublin",2000, Co. Dublin,2,1000.00
+793,"Sandyford View, Sandyford, Dublin 18",1380, Dublin 18,1,1380.00
+794,"The Distillery, Drumcondra, Dublin 3",1450, Dublin 3,1,1450.00
+795,"The Cedars, Herbert Park Lane, Ballsbridge, Dublin 4",2400, Dublin 4,2,1200.00
+796,"Rathmines Town Centre, Rathmines, Dublin 6",1292, Dublin 6,1,1292.00
+797,"Whitehall Square, Crumlin, Dublin 12",1185, Dublin 12,1,1185.00
+798,"Blackhall Square, Smithfield, Smithfield, Dublin 7",1850, Dublin 7,2,925.00
+799,"Castlegrange Court, Clonsilla, Dublin 15",2200, Dublin 15,3,733.33
+800,"Ha'Penny Bridge House, Lower Ormond Quay, Dublin 1",1200, Dublin 1,1,1200.00
+801,"76 Belmayne, park south, Balgriffin, Dublin 13",1600, Dublin 13,2,800.00
+802,"41 Pembroke Road, Ballsbridge, Dublin 4",800.00, Dublin 4,0,800.00
+803,"The Rectory, Stepaside, Dublin 18",1800, Dublin 18,2,900.00
+804,"Tara Street, Dublin 2",1950, Dublin 2,1,1950.00
+805,"Slane House, Lower Mount Street, Dublin 2",2500, Dublin 2,2,1250.00
+806,"149 Rathgar road, Rathmines Dublin 6, Rathmines, Dublin 6",1585, Dublin 6,1,1585.00
+807,"Harold's Cross Road, Harold's Cross, Dublin 6w",1550, Dublin 6w,1,1550.00
+808,"Block 7, Mabbot Lane, Off Talbot Street, IFSC, Dublin 1",1443, Dublin 1,1,1443.00
+809,"Belgrove Park, Mount Prospect Lawns, Clontarf, Dublin 3",1750, Dublin 3,2,875.00
+810,"41 Slade Castle Avenue, Saggart, Co. Dublin",1550, Co. Dublin,3,516.67
+811,"25 wolfetone street dublin 1, Dublin 1",1650, Dublin 1,1,1650.00
+812,"Penthouse Apartment, Intercontinental Hotel, Ballsbridge, Dublin 4",7000, Dublin 4,2,3500.00
+813,"The Hibernian, The Gasworks, Ringsend, Dublin 4",3300, Dublin 4,1,3300.00
+814,"The Hibernian, The Gasworks, Ringsend, Dublin 4",3900, Dublin 4,2,1950.00
+815,"Spencer Dock Apartments, Dublin 1",4500, Dublin 1,2,2250.00
+816,"112 pembroke road, Dublin 4, Ballsbridge, Dublin 4",1500, Dublin 4,1,1500.00
+817,"Hannah Square, Lucan, Co. Dublin",1799, Co. Dublin,2,899.50
+818,"171 Strand Road, Sandymount, Dublin 4, Sandymount, Dublin 4",1900, Dublin 4,2,950.00
+819,"9 Watermill Court, Raheny, Dublin 5",1600, Dublin 5,1,1600.00
+820,"25 Upper Pembroke Street, Dublin 2",3400, Dublin 2,2,1700.00
+821,"25 Upper Pembroke Street, Dublin 2",3500, Dublin 2,2,1750.00
+822,"Castledawson, Sion Hill, Blackrock, Co. Dublin",2890, Co. Dublin,3,963.33
+823,"Canon Hall, IFSC, Dublin 1",2200, Dublin 1,2,1100.00
+824,"Shandon Mill, Phibsborough, Dublin 7",1450, Dublin 7,1,1450.00
+825,"Parnell Street, Dublin 1",1600, Dublin 1,1,1600.00
+826,"192 Bachelors Walk The Lotts Dublin 1, Dublin 1",1500, Dublin 1,1,1500.00
+827,"The Crescent, Ongar, Dublin 15",1400, Dublin 15,2,700.00
+828,"Ma Tuire, Mount Merrion, Mount Merrion, Co. Dublin",2250, Co. Dublin,2,1125.00
+829,"150 Howth Road, Clontarf, Dublin 3",1600, Dublin 3,1,1600.00
+830,"150 Howth Road, Clontarf, Dublin 3",2700, Dublin 3,3,900.00
+831,"Seville Place, IFSC, Dublin 1",2000, Dublin 1,2,1000.00
+832,"Crescent building, Park West Pointe, Park West, Dublin 12",1800, Dublin 12,2,900.00
+833,"147 Adamstown Avenue, Adamstown, Co. Dublin",2100, Co. Dublin,3,700.00
+834,"Hendrick Street, Smithfield, Dublin 1",1400, Dublin 1,2,700.00
+835,"GEORGES QUAY, Dublin 2",2200, Dublin 2,2,1100.00
+836,"Elm Court Merrion Road Ballsbridge, Dublin 4",1950, Dublin 4,2,975.00
+837,"Apartment 2 The Chancery, Chancery Lane, Dublin 8",2600, Dublin 8,2,1300.00
+838,"Carmanhall Court, Burton Hall Road, Sandyford, Dublin 18",1850, Dublin 18,2,925.00
+839,"Cityside, Meakstown, Finglas, Dublin 11",1375, Dublin 11,2,687.50
+840,"5 Newmarket Square, Dublin 8",1500, Dublin 8,1,1500.00
+841,"The Old Ranch House School House Road Saggart, Saggart, Co. Dublin",1450, Co. Dublin,3,483.33
+842,"The Edges 1, Beacon South Quater, Sandyford, Dublin 18",2200, Dublin 18,2,1100.00
+843,"Knockmaree, Chapelizod, Dublin 20",1950, Dublin 20,3,650.00
+844,"Rathborne Court, Ashtown, Dublin 7",1600, Dublin 7,2,800.00
+845,"The Waterfront, Hanover Quay, Hanover Quay, Dublin 2",3000, Dublin 2,2,1500.00
+846,"46 saint Lawrence Road, Clontarf, Dublin 3",1400, Dublin 3,1,1400.00
+847,"Sherrard Street Upper, Dublin 1",1000, Dublin 1,1,1000.00
+848,"dorset street, Dublin 1",2800, Dublin 1,3,933.33
+849,"gardiner place, Dublin 1",1600, Dublin 1,1,1600.00
+850,"18 fairview, Fairview, Dublin 3",1950, Dublin 3,2,975.00
+851,"16 Blessington St, Dublin 7",850, Dublin 7,1,850.00
+852,"Woodbrook park, Riverwood road, Carpenterstown, Castleknock, Dublin 15",1600, Dublin 15,2,800.00
+853,"Beacon Cubes 8, Sandyford, Dublin 18",2000, Dublin 18,2,1000.00
+854,"cherbury court, Booterstown, Co. Dublin",1750, Co. Dublin,2,875.00
+855,"Pavilion View, 127-131 Lower Rathmines road, Rathmines, Dublin 6",2800, Dublin 6,2,1400.00
+856,"Hogan View Apartments Richmond Road, Drumcondra, Dublin 3",1500, Dublin 3,1,1500.00
+857,"Brennanstown Avenue, Cabinteely, Dublin 18",1900, Dublin 18,2,950.00
+858,"1 The Cedars, Monkstown Valley, Monkstown, Co. Dublin",2100, Co. Dublin,2,1050.00
+859,"59 Long Meadows, Conygham road, Islandbridge, Islandbridge, Dublin 8",1850, Dublin 8,2,925.00
+860,"Wolsey House, Drynam Hall, Kinsealy, Swords, Co. Dublin",1250, Co. Dublin,1,1250.00
+861,"87 Old Kilmainham Village, Kilmainham, Dublin 8",1600, Dublin 8,2,800.00
+862,"1G Rathborne Avenue, Ashtown, Dublin 15",1400, Dublin 15,1,1400.00
+863,"Aston quay, Dublin 2",2500, Dublin 2,1,2500.00
+864,"Apt 201 The Hermitage Apartments, Balgriffin, Dublin 13",2100, Dublin 13,2,1050.00
+865,"Belgrove Park, Clontarf, Dublin 3",1800, Dublin 3,2,900.00
+866,"Gardiner Place, Dublin City Centre, Dublin 1",1050, Dublin 1,1,1050.00
+867,"29 St Laurences Glen, St Laurences Road, Chapelizo, Chapelizod, Dublin 20",1768, Dublin 20,2,884.00
+868,"Pembroke Road, Ballsbridge, Dublin 4",2500, Dublin 4,2,1250.00
+869,"Pembroke Road, Dublin 2",2500, Dublin 2,2,1250.00
+870,"Furry Park Court, Killester, Dublin 5",2600, Dublin 5,3,866.67
+871,"Leona Apartments, Dun Laoghaire, Co. Dublin",2046, Co. Dublin,2,1023.00
+872,"38 The Bay Elm Park, Merrion, Dublin 4",1575, Dublin 4,1,1575.00
+873,"19 Ashleigh Court, Casleknock, Dublin 15, Castleknock, Dublin 15",1800, Dublin 15,2,900.00
+874,"Grace Park Manor, Drumcondra, Dublin 3",3800, Dublin 3,4,950.00
+875,"44 Millrace Road, Castleknock, Dublin 15",1825, Dublin 15,2,912.50
+876,"Cowper Road, Rathmines, Dublin 6",1250, Dublin 6,1,1250.00
+877,"Tullyvale, Cabinteely, Dublin 18",1850, Dublin 18,3,616.67
+878,"One Beacon, Sandyford, Dublin 18",1950, Dublin 18,2,975.00
+879,"Hanover Dock, Grand Canal Dock, Dublin 2",3500, Dublin 2,2,1750.00
+880,"Bloomfield park, Donnybrook, Dublin 4",2600, Dublin 4,2,1300.00
+881,"stoneybatter road, Stoneybatter, Dublin 7",1200, Dublin 7,1,1200.00
+882,"Church Road, Ballybrack, Killiney, Co. Dublin",1250, Co. Dublin,1,1250.00
+883,"Nephin road, Navan Road (D7), Dublin 7",1300, Dublin 7,2,650.00
+884,"212 The Tramyard, Inchicore, Dublin 8",1450, Dublin 8,1,1450.00
+885,"Alexandra College, Milltown, Dublin 6",750, Dublin 6,5,150.00
+886,"martins row chapelizod, Chapelizod, Dublin 20",1450, Dublin 20,1,1450.00
+887,"Bracken Hill, Blackglen Road, Simon's Ridge, Sandyford, Dublin 18",1595, Dublin 18,1,1595.00
+888,"Wyckham Point, Dundrum, Dublin 14",2600, Dublin 14,2,1300.00
+889,"Adair, Sandymount Avenue, Sandymount, Dublin 4",2800, Dublin 4,2,1400.00
+890,"21 st Edmunds Lucan, Lucan, Co. Dublin",1350, Co. Dublin,1,1350.00
+891,"62 Rathgar Road, Rathgar, Dublin 6",1700, Dublin 6,1,1700.00
+892,"Beacon South Quarter, Sandyford, Dublin 18",2500, Dublin 18,1,2500.00
+893,"IFSC, custom house harbour, Dublin 1",1795, Dublin 1,1,1795.00
+894,"The Waxworks Ashtown Village, Ashtown, Dublin 15",1400, Dublin 15,1,1400.00
+895,"Gresham House, Cathal Brugha Street, Dublin 1",1975, Dublin 1,2,987.50
+896,"Castleforbes Square, Dublin 1",2200, Dublin 1,2,1100.00
+897,"Castleknock Park, Castleknock, Dublin 15, Castleknock, Dublin 15",1800, Dublin 15,2,900.00
+898,"122 Beaumont Road, Beaumont, Dublin 9",2100, Dublin 9,3,700.00
+899,"Canon Hall, Dublin 1",2200, Dublin 1,2,1100.00
+900,"3 Ashford, Glasnevin, Dublin 11",1700, Dublin 11,2,850.00
+901,"Collins Square, Benburb Street, Smithfield, Dublin 7",2100, Dublin 7,2,1050.00
+902,"Neptune Apartments, Dun Laoghaire, Co. Dublin",2820, Co. Dublin,3,940.00
+903,"The Academy Building, Park West, Dublin 12",1528, Dublin 12,2,764.00
+904,"Bertram Court, Lamb alley, Christchurch, Dublin 8",1450, Dublin 8,1,1450.00
+905,"Clearwater Cove, Dun Laoghaire, Co. Dublin",1575, Co. Dublin,1,1575.00
+906,"Marianella, Rathgar, Dublin 6",2850, Dublin 6,2,1425.00
+907,"Upper Gardiner Street, on corner of Dorset St., Dublin 1",1500, Dublin 1,1,1500.00
+908,"Neptune Apartments, Dun Laoghaire, Co. Dublin",1758, Co. Dublin,1,1758.00
+909,"Bissetts loft, strand street, Malahide, Co. Dublin",2000, Co. Dublin,2,1000.00
+910,"Cedar Square, Ridgewood, Swords, Swords, Co. Dublin",1900, Co. Dublin,2,950.00
+911,"Chapelgate, St Alphonsus Road, Drumcondra, Dublin 9",2200, Dublin 9,2,1100.00
+912,"Hanover Quay, Grand Canal Dock, Dublin 2",3000, Dublin 2,1,3000.00
+913,"leeson street lower, Dublin 2",2100, Dublin 2,1,2100.00
+914,"Gracepark Manor, Drumcondra, Dublin 3",3180, Dublin 3,3,1060.00
+915,"Charlotte Apartments, Dun Laoghaire, Co. Dublin",1975, Co. Dublin,2,987.50
+916,"Charlotte Apartments, Dun Laoghaire, Co. Dublin",1800, Co. Dublin,1,1800.00
+917,"Holywell lane, Swords, Co. Dublin",1475, Co. Dublin,2,737.50
+1,"Apartment 2, Garrison, Co. Fermanagh, BT93 4AE",400456, BT93 4AE,2,200228.00
+1,"Sliabh Ard, Bothar Stiofan, Knocknacarra, Co. Galway",968, Co. Galway,2,484.00
+2,"Garran Ard, Doughiska, Co. Galway",1300, Co. Galway,3,433.33
+3,"Edward Square Apartments, Barrack Lane, Galway City, Co. Galway",988, Co. Galway,3,329.33
+4,"Ce Na Mara, The Docks, Galway City, Co. Galway",1500, Co. Galway,2,750.00
+5,"Gleann Na Ri, Murrough, Renmore, Renmore, Co. Galway",1065, Co. Galway,2,532.50
+6,"Laurel Park, Newcastle, Co. Galway",2100, Co. Galway,4,525.00
+7,"Cuirt Na hHabhann, Liosban, Galway City, Co. Galway",1350, Co. Galway,2,675.00
+8,"Shannon Oaks St Joesphs Road, Portumna, Co. Galway",700, Co. Galway,2,350.00
+9,"Silverseas, Knocknacarra, Co. Galway",1500, Co. Galway,2,750.00
+10,"5 Creig na Coille, Oughterard, Co. Galway",800, Co. Galway,2,400.00
+11,"Station House Apartment, 502, Clifden, Co. Galway",650, Co. Galway,2,325.00
+12,"Arus Grattan, Grattan Road, Upper Salthill, galwa, Galway City, Co. Galway",1200, Co. Galway,1,1200.00
+13,"Lippa, Furbo, Co. Galway., Furbo, Co. Galway",720, Co. Galway,2,360.00
+14,"Ocean Towers, Blackrock, Salthill, Co. Galway",1600, Co. Galway,2,800.00
+15,"An Creagan, Barna, Co. Galway",1350, Co. Galway,2,675.00
+16,"Rockfield Park, Rahoon, Co. Galway",1200, Co. Galway,2,600.00
+17,"Serviced Apartment, Lough Atalia, Galway City, Co. Galway",2600, Co. Galway,2,1300.00
+18,"Sheerwater House, Galway City, Co. Galway",2000, Co. Galway,2,1000.00
+19,"20 Creagan, Barna, Co. Galway",1400, Co. Galway,2,700.00
+20,"Rahoon, Drum East, Co. Galway",1300, Co. Galway,2,650.00
+21,"Castle Street, Galway City, Co. Galway",1300, Co. Galway,2,650.00
+22,"Mountain View, Clonbur, Co. Galway",550, Co. Galway,1,550.00
+23,"Oranmore village, Oranmore, Co. Galway",1000, Co. Galway,2,500.00
+24,"Abhainn na Ri, Oranmore, Co. Galway",1400, Co. Galway,3,466.67
+25,"Drum East, Drum East, Co. Galway",1300, Co. Galway,2,650.00
+26,"Dominick Street, Galway City, Co. Galway",2350, Co. Galway,2,1175.00
+27,"Lios Ealtain, Nile Lodge, Galway City, Co. Galway",1500, Co. Galway,3,500.00
+28,"Abbey Court, Mary Street, Galway City, Co. Galway",1250, Co. Galway,2,625.00
+29,"6A Rocklands Ave, Ballybane, Co. Galway",550, Co. Galway,1,550.00
+30,"No. 81 Coill Tire, Doughiska, Co. Galway",1800, Co. Galway,2,900.00
+31,"108 Bluebell Woods, Oranmore, Co Galway, Oranmore, Co. Galway",1100, Co. Galway,2,550.00
+32,"No. 12 An Creagan, Barna, Co. Galway",1400, Co. Galway,2,700.00
+33,"Annaghill, Lackagh, Co. Galway",600, Co. Galway,1,600.00
+34,"LIOS EALTÁN, LOWER SALTHILL, Salthill, Co. Galway",1250, Co. Galway,2,625.00
+35,"Merlin Park, Galway City, Co. Galway",1100, Co. Galway,2,550.00
+36,"30 Gort Na Ri, Gort, Co. Galway",850, Co. Galway,3,283.33
+37,"Dun Oran, oranhill Avenue, Oranhill, Oranmore, Co. Galway",1150, Co. Galway,2,575.00
+38,"Creig Na Coille, Oughterard, Co. Galway",800, Co. Galway,2,400.00
+39,"Apt No. 3, Springwells, Ennis Road, Gort, Gort, Co. Galway",800, Co. Galway,2,400.00
+40,"Granary Suites, 58 Dominick Street Lower, Galway C, Galway City, Co. Galway",2250, Co. Galway,2,1125.00
+41,"Arbutus Avenue, Renmore, Co. Galway",800, Co. Galway,1,800.00
+42,"5 Brinkwater House, Quincentennial Drive, Salthill, Co. Galway",1450, Co. Galway,2,725.00
+43,"Rockbarton Court, Salthill, Co. Galway",1680, Co. Galway,2,840.00
+44,"Area, Athenry, Co. Galway",800, Co. Galway,2,400.00
+45,"Mullan Mor, Tuam Rd, Galway City, Co. Galway",1500, Co. Galway,3,500.00
+46,"Killaguile, Rosscahill, Co. Galway",500, Co. Galway,1,500.00
+47,"26 Millbrook, Milltown, Co. Galway",750, Co. Galway,3,250.00
+48,"3 Ce na Mara, Galway City, Co. Galway",1550, Co. Galway,2,775.00
+49,"Coill Tire, Doughiska, Co. Galway",1400, Co. Galway,3,466.67
+50,"Apt 2, 21 Upper Dominick Street, Galway City, Co. Galway",1275, Co. Galway,2,637.50
+51,"Lackagh Village, Claregalway, Co. Galway",700, Co. Galway,1,700.00
+52,"McDermot Avenue, Mervue, Co. Galway",850, Co. Galway,1,850.00
+53,"Durabhan, Roscam, Co. Galway",1400, Co. Galway,3,466.67
+54,"Radharc Na Locha, Bealdangan, Co. Galway",600, Co. Galway,2,300.00
+55,"Lydacan, Claregalway, Co. Galway",800, Co. Galway,1,800.00
+56,"City Centre Cill Ard Galway, Bohermore, Co. Galway",1400, Co. Galway,2,700.00
+57,"Shannon Oaks Apartments, Portumna, Co. Galway",700, Co. Galway,2,350.00
+58,"Dominick Street, Portumna, Co. Galway",575, Co. Galway,1,575.00
+59,"19 Hazel Court, Oranmore, Co. Galway",1100, Co. Galway,2,550.00
+60,"Maree Oranmore, Oranmore, Co. Galway",1150, Co. Galway,2,575.00
+61,"Apt 1, The Vineyard Apartments, Lombard Street, Galway City, Co. Galway",1450, Co. Galway,2,725.00
+62,"Lydican, Carnmore, Co. Galway",750, Co. Galway,1,750.00
+63,"churchfield, Salthill, Co. Galway",1600, Co. Galway,2,800.00
+64,"Rosscahill Co Galway, Rosscahill, Co. Galway",600, Co. Galway,1,600.00
+65,"Upper Salthill, Salthill, Co. Galway",1300, Co. Galway,2,650.00
+66,"Bride Street, Loughrea, Co. Galway",800, Co. Galway,2,400.00
+1,"Tralee Marina, Tralee, Co. Kerry",800, Co. Kerry,2,400.00
+2,"The Anchorage, Tralee, Co. Kerry",800, Co. Kerry,2,400.00
+3,"Lissivigeen area, Killarney, Co. Kerry",700, Co. Kerry,1,700.00
+4,"William Street, Listowel, Co. Kerry",480, Co. Kerry,2,240.00
+5,"Tralee Marina, Tralee, Co. Kerry",950, Co. Kerry,2,475.00
+6,"Market Passage, The Mall, Tralee, Co. Kerry",650, Co. Kerry,2,325.00
+7,"Ashe Street, Tralee, Co. Kerry",575, Co. Kerry,1,575.00
+8,"The Marina Apartments, Tralee, Co. Kerry",775, Co. Kerry,2,387.50
+9,"33 Upper Castle Street, Tralee, Co. Kerry",575, Co. Kerry,1,575.00
+10,"E Block, Edward Court, Edward Street, Tralee, Co. Kerry",775, Co. Kerry,2,387.50
+11,"An Sean Mhuileann, Tralee, Co. Kerry",795, Co. Kerry,2,397.50
+12,"Park Road, Killarney, Co. Kerry",980, Co. Kerry,2,490.00
+13,"Cuirt Cleady, Glanerought, Kenmare, Co. Kerry",700, Co. Kerry,2,350.00
+14,"12 Grosvenor Court, High Street, Killarney, Co. Kerry",850, Co. Kerry,2,425.00
+15,"Ref 777 - Apartment, New Street, Cahersiveen, Co. Kerry",600, Co. Kerry,2,300.00
+16,"Park Road, Killarney, Co. Kerry",1050, Co. Kerry,2,525.00
+17,"Killarney Road, Castleisland, Co. Kerry",520, Co. Kerry,2,260.00
+18,"Killorglin Town Centre, Killorglin, Co. Kerry",700, Co. Kerry,2,350.00
+19,"Main Street, Killorglin, Co. Kerry",600, Co. Kerry,2,300.00
+20,"Apt 1 Scrahan Place, Ross road, Killarney, Co. Kerry",900, Co. Kerry,2,450.00
+21,"Main St., Castleisland, Co. Kerry",500, Co. Kerry,2,250.00
+22,"Apartment 4 Town Centre, Killorglin, Co. Kerry",600, Co. Kerry,1,600.00
+23,"Kilbrean, Killarney, Co. Kerry",800, Co. Kerry,2,400.00
+24,"New Market Lane, Killarney, Co. Kerry",700, Co. Kerry,2,350.00
+25,"The Willow, Avenue, Countess Road, Killarney, Co. Kerry",1250, Co. Kerry,3,416.67
+26,"Ardfert village, Tralee, Co. Kerry",1000, Co. Kerry,1,1000.00
+27,"Plunkett Street, Killarney, Co. Kerry",1000, Co. Kerry,2,500.00
+28,"Oakdale park road, Killarney, Co. Kerry",1100, Co. Kerry,2,550.00
+29,"OFF ROCK STREET, Tralee, Co. Kerry",650, Co. Kerry,2,325.00
+30,"Grove Lodge, Killorglin, Co. Kerry",900, Co. Kerry,2,450.00
+31,"oakpark road tralee, Tralee, Co. Kerry",700, Co. Kerry,1,700.00
+32,"Rockwell Close, Tralee, Co. Kerry",650, Co. Kerry,2,325.00
+33,"10 The Square, Tralee, Co. Kerry",580, Co. Kerry,2,290.00
+1,"Stradbrook Luxury Appartment, Portlaoise, Co. Laois",875, Co. Laois,2,437.50
+2,"9A Market Square, Portlaoise, Co. Laois",700, Co. Laois,1,700.00
+3,"6 De Vesci court Fairgreen, Portlaoise, Co. Laois",1000, Co. Laois,2,500.00
+4,"Lalor Way, Fairgreen, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+5,"Lalor Way Fairgreen Portlaoise, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+6,"College View, Mountmellick, Co. Laois",850, Co. Laois,2,425.00
+7,"Heather Lane, Esker Hills, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+8,"De Vesci Court, Portlaoise, Co. Laois",800, Co. Laois,1,800.00
+9,"De Vesci Court, Fairgreen, Portlaoise, Co. Laois",900, Co. Laois,2,450.00
+10,"The Mews, Mountrath Road, Portlaoise, Co. Laois",750, Co. Laois,1,750.00
+11,"Church Street, Portlaoise, Co. Laois",850, Co. Laois,2,425.00
+12,"95, Riverside, Portarlington, Co. Laois",800, Co. Laois,2,400.00
+13,"Kilnacourt Woods, Portarlington, Co. Laois",650, Co. Laois,1,650.00
+1,"No 9, Carbry Coast, Tullaghan, Co, Tullaghan, Co. Leitrim",450, Co. Leitrim,2,225.00
+2,"Sinann, Carrick-on-Shannon, Co. Leitrim",650, Co. Leitrim,3,216.67
+3,"Priest Lane, Carrick-on-Shannon, Co. Leitrim",600, Co. Leitrim,2,300.00
+4,"Inver Gael, Carrick-on-Shannon, Co. Leitrim",600, Co. Leitrim,2,300.00
+5,"Marymount, Carrick-on-Shannon, Co. Leitrim",550, Co. Leitrim,2,275.00
+6,"Bridge Street, Carrick-on-Shannon, Co. Leitrim",480, Co. Leitrim,1,480.00
+7,"The Pavillion, Carrick-on-Shannon, Co. Leitrim",650, Co. Leitrim,3,216.67
+8,"Bridge Street, Carrick-on-Shannon, Co. Leitrim",450, Co. Leitrim,1,450.00
+9,"Quay Road, Carrick-on-Shannon, Co. Leitrim",550, Co. Leitrim,2,275.00
+10,"Key Street, Carrick-on-Shannon, Co. Leitrim",475, Co. Leitrim,1,475.00
+11,"The Waterfront, Leitrim, Co. Leitrim",700, Co. Leitrim,3,233.33
+12,"4 Library Corner, Manorhamilton, Co. Leitrim",500, Co. Leitrim,2,250.00
+13,"Leitrim Village, Leitrim, Co. Leitrim",700, Co. Leitrim,3,233.33
+1,"Newtown Mews, Annacotty, Co. Limerick",1400, Co. Limerick,3,466.67
+2,"Elm Park Castletroy, Kilmurry, Co. Limerick",800, Co. Limerick,1,800.00
+3,"Main Street, Patrickswell, Co. Limerick",1300, Co. Limerick,1,1300.00
+4,"Banantyne place, Steamboat quay, Dock road, Limerick City, Co. Limerick",1400, Co. Limerick,3,466.67
+5,"113 Glanntan, Castletroy, Co. Limerick",1200, Co. Limerick,3,400.00
+6,"Kildimo, Kildimo, Co. Limerick",1150, Co. Limerick,2,575.00
+7,"50 Thomas Street, Limerick City, Co. Limerick",1000, Co. Limerick,1,1000.00
+8,"Old Windmill Court, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+9,"Ballycumin Village, Raheen, Co. Limerick",1000, Co. Limerick,2,500.00
+10,"Harveys Quay, Limerick City, Co. Limerick",1300, Co. Limerick,2,650.00
+11,"Newcastle Court, Castletroy, Co. Limerick",1200, Co. Limerick,2,600.00
+12,"An Dun, Church road, Raheen, Co. Limerick",1100, Co. Limerick,2,550.00
+13,"Riverpoint, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+14,"Bridgewater Court, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+15,"Coolbane, Castleconnell, Co. Limerick",950, Co. Limerick,3,316.67
+16,"Drominbeg, Rhebogue, Co. Limerick",1300, Co. Limerick,3,433.33
+17,"The Strand, O'Callaghans Strand, Limerick City, Co. Limerick",1575, Co. Limerick,3,525.00
+18,"Thornfield, South Circular Road, Co. Limerick",1300, Co. Limerick,2,650.00
+19,"Apartment 1, Block A, Ballycummin Village, Raheen, Co. Limerick",1100, Co. Limerick,2,550.00
+20,"Penthouse Apartment, Charlotte Quay, Limerick, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+21,"Riverpoint, Bishops Quay, Limerick City, Co. Limerick",1400, Co. Limerick,2,700.00
+22,"Main Street, Adare, Co. Limerick",1250, Co. Limerick,2,625.00
+23,"The Strand, O' Callaghan Strand, Limerick City, Co. Limerick",1500, Co. Limerick,2,750.00
+24,"Main Street, Adare, Co. Limerick",1100, Co. Limerick,2,550.00
+25,"Palmerstown Court, Limerick City, Co. Limerick",1200, Co. Limerick,3,400.00
+26,"Allandale Orchard, South Circular Road, Co. Limerick",1100, Co. Limerick,2,550.00
+27,"8 Sheares Street, Kilmallock, Co. Limerick",400, Co. Limerick,1,400.00
+28,"Log na gCapall, South Circular Road, Co. Limerick",1400, Co. Limerick,2,700.00
+29,"Boarmanshill, Murroe, Co. Limerick",1000, Co. Limerick,1,1000.00
+30,"10 The Steeples Mulgrave Street, Limerick City, Co. Limerick",950, Co. Limerick,2,475.00
+31,"Apt 4, Bloomfield, Newtown, Annacotty, Castletroy, Co. Limerick",1200, Co. Limerick,2,600.00
+32,"The Strand Complex, O'Callaghan Strand, Limerick, Limerick City, Co. Limerick",1450, Co. Limerick,2,725.00
+33,"Riverpoint, Limerick City, Co. Limerick",1200, Co. Limerick,2,600.00
+34,"160 Drominbeg, Rhebogue, Co. Limerick",1300, Co. Limerick,3,433.33
+35,"Mount Kenneth, Dock Road, Limerick City, Co. Limerick",950, Co. Limerick,2,475.00
+1,"Main Street, Granard, Co. Longford",400, Co. Longford,1,400.00
+2,"Main Street, Granard, Co. Longford",400, Co. Longford,1,400.00
+3,"Main Street, Granard, Co. Longford",400, Co. Longford,1,400.00
+4,"Sli Na Mona, Ballymahon, Co. Longford",520, Co. Longford,1,520.00
+5,"Cornmill House, Great Water Street, Longford Town, Co. Longford",450, Co. Longford,1,450.00
+6,"The Granary, Ballymahon, Co. Longford",650, Co. Longford,2,325.00
+7,"Creevaghbawn, Creevaghbeg, Mullingar Road, Ballymahon, Co. Longford",520, Co. Longford,1,520.00
+8,"The Mill, Clondra, Clondra, Co. Longford",650, Co. Longford,3,216.67
+9,"Drumlish Road. Longford Town, Longford Town, Co. Longford",600, Co. Longford,1,600.00
+10,"French Hall,Prospect Wood, Longford Town, Co. Longford",600, Co. Longford,2,300.00
+11,"APT 2, Main street, Ballymahon, Co. Longford",650, Co. Longford,2,325.00
+12,"10 Edgeworth Hall,Prospect Wood, Longford Town, Co. Longford",600, Co. Longford,2,300.00
+13,"14,The Mill, Clondra, Co. Longford",600, Co. Longford,3,200.00
+14,"Prucklish, Newtownforbes, Co. Longford",500, Co. Longford,1,500.00
+15,"Main St., Ballymahon, Co. Longford",600, Co. Longford,2,300.00
+16,"13 Harbour Point, Longford Town, Co. Longford",650, Co. Longford,2,325.00
+1,"Drogheda, Drogheda, Co. Louth",1150, Co. Louth,1,1150.00
+2,"Clanbrassil Street, Dundalk, Co. Louth",800, Co. Louth,2,400.00
+3,"27north strand, Drogheda, Co. Louth",900, Co. Louth,1,900.00
+4,"Hoey's Lane, Dundalk, Co. Louth",1000, Co. Louth,2,500.00
+5,"Ashwalk ,Adree, Louth, Co. Louth",1150, Co. Louth,2,575.00
+6,"18 Bolton Street, Drogheda, Co. Louth",1200, Co. Louth,2,600.00
+7,"17 Bolton Street, Drogheda, Co. Louth",1100, Co. Louth,2,550.00
+8,"The Granary, Drogheda, Co. Louth",850, Co. Louth,1,850.00
+9,"139 clonmore Hale St Ardee, Ardee, Co. Louth",900, Co. Louth,2,450.00
+10,"Carroll Village, Dundalk, Co. Louth",1000, Co. Louth,2,500.00
+11,"Main Street Blackrock, Blackrock, Co. Louth",1200, Co. Louth,2,600.00
+12,"St Nicholas Gardens, Dundalk, Co. Louth",950, Co. Louth,2,475.00
+13,"Fair Street House, Drogheda, Co. Louth",1083, Co. Louth,3,361.00
+14,"Earl Street, Dundalk, Co. Louth",650, Co. Louth,2,325.00
+15,"ramparts road, Dundalk, Co. Louth",1200, Co. Louth,2,600.00
+16,"Jocelyn Street, Dundalk, Co. Louth",950, Co. Louth,1,950.00
+17,"3 The Malthouse, Drogheda, Dromiskin, Co. Louth",1050, Co. Louth,2,525.00
+18,"Greenhills, Drogheda, Co. Louth",800, Co. Louth,1,800.00
+19,"Shop Street, Drogheda, Co. Louth",1000, Co. Louth,1,1000.00
+20,"Shop Street, Drogheda, Co. Louth",1200, Co. Louth,2,600.00
+21,"Martello Dublin Road, Drogheda, Co. Louth",1250, Co. Louth,2,625.00
+22,"Bridge Street, Dundalk, Co. Louth",800, Co. Louth,2,400.00
+23,"Bryanstown Manor, Drogheda, Co. Louth",1200, Co. Louth,2,600.00
+24,"Knockdinnin, Dromin, Co. Louth",850, Co. Louth,2,425.00
+25,"Main Street, Greenore, Carlingford, Co. Louth",695, Co. Louth,1,695.00
+26,"Main Street, Greenore, Carlingford, Co. Louth",695, Co. Louth,1,695.00
+27,"Euston Street, Greenore, Co. Louth",725, Co. Louth,1,725.00
+28,"Apartment, Adelphi Boulevard, Park Avenue, Dundalk, Co. Louth",1250, Co. Louth,2,625.00
+29,"The Willows, Drogheda, Co. Louth",1250, Co. Louth,2,625.00
+30,"Irishgrange, Carlingford, Co. Louth",700, Co. Louth,1,700.00
+31,"plaster, Kilkerley, Co. Louth",550, Co. Louth,1,550.00
+32,"Smarmore Ardee, Ardee, Co. Louth",750, Co. Louth,1,750.00
+33,"8 and 15 Stella Maris, Castle Hill Carlingford, Carlingford, Co. Louth",900, Co. Louth,2,450.00
+1,"American Street, Belmullet, Co. Mayo",450, Co. Mayo,2,225.00
+2,"Craobh Ban, Newport, Co Mayo, Newport, Co. Mayo",650, Co. Mayo,2,325.00
+3,"Craobh Ban, Newport, Co. Mayo",650, Co. Mayo,2,325.00
+4,"Presbyetry Lane, Claremorris, Co. Mayo",650, Co. Mayo,2,325.00
+5,"Mount Street, Claremorris, Co. Mayo",750, Co. Mayo,2,375.00
+6,"Apt 4, CBE House, the Square, Claremorris, Co. Mayo",600, Co. Mayo,2,300.00
+7,"Esker Meadows, Knock, Co. Mayo",480, Co. Mayo,2,240.00
+8,"Cushlough, Saleen, Castlebar, Co. Mayo",850, Co. Mayo,2,425.00
+9,"Newline, Castlebar, Co.Mayo, Castlebar, Co. Mayo",800, Co. Mayo,2,400.00
+10,"Main Street, Castlebar, Co.Mayo, Castlebar, Co. Mayo",600, Co. Mayo,2,300.00
+11,"Nephin Halls, Hopkins road, Castlebar, Co. Mayo",600, Co. Mayo,2,300.00
+12,"Apartment 2, Teach Ciaran, Bangor Erris, Co. Mayo",440, Co. Mayo,2,220.00
+13,"1 chapel walk, church street, Crossmolina, Co. Mayo",500, Co. Mayo,2,250.00
+14,"Newline, Castlebar, Co. Mayo",800, Co. Mayo,2,400.00
+15,"B2 Rosebury Court, Knock, Co. Mayo",500, Co. Mayo,2,250.00
+16,"22 Silverbridge, Claremorris, Co. Mayo",750, Co. Mayo,2,375.00
+17,"James Connolly St, Ballina, Co. Mayo",480, Co. Mayo,1,480.00
+18,"Main Street, Balla, Co Mayo, Balla, Co. Mayo",600, Co. Mayo,2,300.00
+19,"Breaffy Woods, Castlebar, Co. Mayo",650, Co. Mayo,2,325.00
+20,"Westport Harbour, Westport, Co. Mayo",800, Co. Mayo,2,400.00
+21,"Morrison Mews, Station Road, Ballina, Co. Mayo",695, Co. Mayo,2,347.50
+22,"Apartment Three Sruffaun House, New Antrim Street, Castlebar, Co. Mayo",825, Co. Mayo,2,412.50
+23,"Apt 31 Hawthorn Village, Saleen, Castlebar, Co. Mayo",650, Co. Mayo,2,325.00
+24,"The Neale, Neale, Co. Mayo",500, Co. Mayo,2,250.00
+25,"Bury Mews, Ballina, Co. Mayo",500, Co. Mayo,1,500.00
+26,"Nephin Halls, Castlebar, Co. Mayo",750, Co. Mayo,2,375.00
+27,"Turlough Village, Castlebar, Co. Mayo",700, Co. Mayo,2,350.00
+28,"The Residences, Breaffy, Castlebar, Co. Mayo",750, Co. Mayo,2,375.00
+29,"The Lodges ,Breaffy House Resort, Castlebar, Co. Mayo",675, Co. Mayo,2,337.50
+30,"The Brambles, Pontoon road, Castlebar, Co. Mayo",550, Co. Mayo,1,550.00
+31,"Clogher, Claremorris, Co. Mayo",440, Co. Mayo,2,220.00
+32,"Humbert Mall, Castlebar, Co. Mayo",580, Co. Mayo,2,290.00
+33,"The Residences, Breaffy, Co. Mayo",650, Co. Mayo,2,325.00
+34,"3 Esker Meadows, Knock, Co. Mayo",500, Co. Mayo,2,250.00
+35,"19 Altbawn Crescent, Kiltimagh, Co Mayo, Kiltimagh, Co. Mayo",600, Co. Mayo,2,300.00
+36,"Milebush Road, Castlebar, Co. Mayo",900, Co. Mayo,4,225.00
+37,"Milebush Road, Castlebar, Co. Mayo",650, Co. Mayo,2,325.00
+38,"Cedar Crescent, Cedar Park, Newport Road, Westport, Co. Mayo",800, Co. Mayo,2,400.00
+39,"Bruach na hAbhainn, Altamount Street, Westport, Co. Mayo",800, Co. Mayo,2,400.00
+40,"High Street, Westport, Co. Mayo",740, Co. Mayo,3,246.67
+41,"5 The Moorings American street, Belmullet, Co. Mayo",520, Co. Mayo,2,260.00
+42,"Carramore, Knock, Co. Mayo",520, Co. Mayo,2,260.00
+43,"Westport, Westport Quay, Co. Mayo",850, Co. Mayo,2,425.00
+1,"killegland house, Ashbourne, Co. Meath",1475, Co. Meath,2,737.50
+2,"Clonardran, Garlow Cross, Navan, Navan, Co. Meath",850, Co. Meath,1,850.00
+3,"Cluain Ri, Ashbourne, Co. Meath",1650, Co. Meath,3,550.00
+4,"Eastham Court, Bettystown, Co. Meath",1400, Co. Meath,3,466.67
+5,"Corballis Demesne, Ratoath, Co. Meath",1250, Co. Meath,1,1250.00
+6,"Garden Apartment, Cullenore, Kilcloon, Co. Meath",1250, Co. Meath,2,625.00
+7,"moyvalley Hotel And Golf Resort, Enfield, Co. Meath",1200, Co. Meath,3,400.00
+8,"Moyvalley Hotel and Golf Resort, Enfield, Co. Meath",1400, Co. Meath,3,466.67
+9,"6 Turry Close, Athboy, Co. Meath",950, Co. Meath,2,475.00
+10,"Flowerville House, Navan, Co. Meath",1200, Co. Meath,1,1200.00
+11,"Norbury Hall, Trim, Co. Meath",1250, Co. Meath,2,625.00
+12,"Bective Square, Kells, Co. Meath",750, Co. Meath,1,750.00
+13,"Grange End, Dunshaughlin, Co. Meath",1400, Co. Meath,2,700.00
+14,"Hampton Rise Mill Lane, Navan, Co. Meath",1100, Co. Meath,2,550.00
+15,"Killegland Hall, Ashbourne, Co. Meath",1450, Co. Meath,2,725.00
+16,"Cavan Street, Oldcastle, Co. Meath",600, Co. Meath,1,600.00
+17,"The Commons, Duleek, Co. Meath",1150, Co. Meath,2,575.00
+18,"Northlands, Bettystown, Co. Meath",1300, Co. Meath,2,650.00
+19,"Main Street Enfield, Enfield, Co. Meath",950, Co. Meath,1,950.00
+20,"The Courtyard, Dunshaughlin, Co. Meath",1300, Co. Meath,2,650.00
+21,"Patrick Street, Trim, Co. Meath",1300, Co. Meath,3,433.33
+22,"Trim, Trim, Co. Meath",1150, Co. Meath,2,575.00
+23,"110 the court, Dunboyne, Co. Meath",1400, Co. Meath,2,700.00
+24,"5 Chestnut Square, Johnstown, Navan, Co. Meath",1200, Co. Meath,2,600.00
+25,"The steeples., Navan, Co. Meath",1000, Co. Meath,2,500.00
+26,"Hickey's Lane, Baltrasna, Co. Meath, Ashbourne, Co. Meath",1150, Co. Meath,1,1150.00
+27,"Trim, Trim, Co. Meath",1100, Co. Meath,2,550.00
+28,"Parsonstowm, Batterstown, Co. Meath",1200, Co. Meath,2,600.00
+29,"Moyvalley Hotel Apartments, Enfield, Co. Meath",1400, Co. Meath,3,466.67
+30,"3 Effernock mews Trim, Trim, Co. Meath",1475, Co. Meath,2,737.50
+31,"4 The Olde Forge, Haggard Street, Trim, Co. Meath",1200, Co. Meath,2,600.00
+32,"6A Navan Gate, Trim, Co. Meath",900, Co. Meath,1,900.00
+1,"Ardee Road, Carrickmacross, Co. Monaghan",750, Co. Monaghan,2,375.00
+2,"Hill Street, Monaghan, Co. Monaghan",585, Co. Monaghan,1,585.00
+3,"Farney Street, Carrickmacross, Co. Monaghan",750, Co. Monaghan,3,250.00
+1,"Bridge Lane, Tullamore, Co. Offaly",650, Co. Offaly,1,650.00
+2,"Library Hall, Tullamore, Co. Offaly",775, Co. Offaly,2,387.50
+3,"Sragh Rd, Tullamore, Co. Offaly",650, Co. Offaly,1,650.00
+4,"Kingston fortal, Birr, Co. Offaly",900, Co. Offaly,4,225.00
+5,"Main Street, Banagher, Co. Offaly",380, Co. Offaly,1,380.00
+6,"Sharavogue Birr, Sharavogue, Co. Offaly",480, Co. Offaly,1,480.00
+7,"Clonmullen Hall, Edenderry, Co. Offaly",900, Co. Offaly,2,450.00
+8,"20 Colliers Brook, Clonminch Road, Tullamore, Co. Offaly",750, Co. Offaly,1,750.00
+9,"R401, Edenderry, Co. Offaly",900, Co. Offaly,2,450.00
+10,"foxboro, Moneygall, Moneygall, Co. Offaly",550, Co. Offaly,2,275.00
+11,"Market Square, Tullamore, Co. Offaly",850, Co. Offaly,2,425.00
+1,"Hodson Bay, Athlone, Co. Roscommon",1500, Co. Roscommon,3,500.00
+2,"Bofin House, Tarmonbarry, Co. Roscommon",675, Co. Roscommon,2,337.50
+3,"Apartment No 1, Marian Court, Dublin Rd, Ballaghaderreen, Co. Roscommon",475, Co. Roscommon,2,237.50
+4,"Inver Geal, Carrick-on-Shannon, Co. Roscommon",650, Co. Roscommon,3,216.67
+5,"Riverside, Military road, Boyle, Co. Roscommon",450, Co. Roscommon,2,225.00
+6,"APT 7 Abbey Crest, Boyle, Co. Roscommon",450, Co. Roscommon,2,225.00
+7,"12 Ardsallagh Woods, Roscommon Town, Co. Roscommon",600, Co. Roscommon,1,600.00
+8,"Church Street, Strokestown, Co. Roscommon",650, Co. Roscommon,1,650.00
+9,"riverwalk, Castlerea, Co. Roscommon",550, Co. Roscommon,2,275.00
+1,"Fairways, Tubbercurry, Co. Sligo",550, Co. Sligo,2,275.00
+2,"Millbrook Apts, JFK Parade, Riverside, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+3,"HIGH STREET, Sligo, Co. Sligo",650, Co. Sligo,1,650.00
+4,"16 lower abbey street sligo, Sligo, Co. Sligo",730, Co. Sligo,2,365.00
+5,"Edenmount Hall,Brooklawns, First Sea Road, Sligo, Co. Sligo",715, Co. Sligo,2,357.50
+6,"High Street, Sligo, Co. Sligo",750, Co. Sligo,1,750.00
+7,"Humbert St, Tubbercurry, Co. Sligo",540, Co. Sligo,1,540.00
+8,"Pearse Road, Sligo, Co. Sligo",750, Co. Sligo,2,375.00
+9,"Block B, City Gate, Mail Coach Rd, Sligo, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+10,"Silver Falls, Knockmuldowney Ballisodare, Ballisodare, Co. Sligo",895, Co. Sligo,2,447.50
+11,"Abbeykiln House, Abbey Street, Sligo, Co. Sligo",650, Co. Sligo,1,650.00
+12,"Calry Court, Stephen Street, Sligo., Sligo, Co. Sligo",770, Co. Sligo,2,385.00
+13,"High Street, Sligo, Co. Sligo",650, Co. Sligo,1,650.00
+14,"Quayside North Court, Wine Street, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+15,"Milbrook Apartments, Riverside, Sligo, Co. Sligo",850, Co. Sligo,3,283.33
+16,"12 Charles St, Sligo, Co. Sligo",750, Co. Sligo,2,375.00
+17,"Sea Front, Rosses Point, Co. Sligo",750, Co. Sligo,3,250.00
+18,"7/8 Market street, Sligo, Co. Sligo",800, Co. Sligo,2,400.00
+19,"Collooney, Collooney, Co. Sligo",450, Co. Sligo,1,450.00
+20,"Coach Yard, Kevinsfort, Strandhill Road, Sligo, Co. Sligo",900, Co. Sligo,2,450.00
+21,"R292, Ransboro, Co. Sligo",560, Co. Sligo,1,560.00
+22,"Church Street, Sligo, Co. Sligo",600, Co. Sligo,2,300.00
+23,"Ballincourt, Ballintogher, Co. Sligo",450, Co. Sligo,1,450.00
+24,"Loughanelteen, Calry, Co. Sligo",400, Co. Sligo,3,133.33
+25,"49 the mall, Sligo, Co. Sligo",700, Co. Sligo,1,700.00
+26,"Tonaphubble, Sligo, Co. Sligo",555, Co. Sligo,1,555.00
+27,"Lisnarawer, Beltra, Co. Sligo",500, Co. Sligo,2,250.00
+1,"An Cuirt, Monard, Co. Tipperary",630, Co. Tipperary,1,630.00
+2,"42 The Chase, Knockbrit, Co. Tipperary",1000, Co. Tipperary,2,500.00
+3,"Caherclough, Lisronagh, Co. Tipperary",850, Co. Tipperary,2,425.00
+4,"Marlfield House, Clonmel, Co. Tipperary",300, Co. Tipperary,3,100.00
+5,"Westcourt, The Quays, Clonmel, Co. Tipperary",800, Co. Tipperary,2,400.00
+6,"34 Ballina Quay, Ballina, Co. Tipperary",900, Co. Tipperary,2,450.00
+7,"Coleville Road, Clonmel, Co. Tipperary",550, Co. Tipperary,2,275.00
+8,"Apartment, Woodlawn, Cashel, Co. Tipperary",500, Co. Tipperary,1,500.00
+9,"Apartment 2, Main Street, Carrick-on-Suir, Co. Tipperary",650, Co. Tipperary,2,325.00
+10,"Abbey Street clonmel, Clonmel, Co. Tipperary",550, Co. Tipperary,1,550.00
+11,"Bank Street, Templemore, Co. Tipperary",450, Co. Tipperary,1,450.00
+12,"Pearse st, Nenagh, Co. Tipperary",480, Co. Tipperary,1,480.00
+13,"11 Bank place, Cashel, Co. Tipperary",700, Co. Tipperary,1,700.00
+14,"Slievenamon Mews, Davis Road, Clonmel, Co. Tipperary",900, Co. Tipperary,2,450.00
+15,"Riverside Shopping Centre, Borrisokane, Co. Tipperary",850, Co. Tipperary,3,283.33
+16,"Riverside Shopping Centre, Borrisokane, Co. Tipperary",700, Co. Tipperary,2,350.00
+17,"Quarry Mews Mitchel Street, Thurles, Co. Tipperary",500, Co. Tipperary,1,500.00
+18,"half mile from templemore, Templemore, Co. Tipperary",600, Co. Tipperary,1,600.00
+19,"Dominics Court, Cashel, Co. Tipperary",750, Co. Tipperary,2,375.00
+1,"Glencove, Dunmore Road, Waterford., Waterford City, Co. Waterford",1200, Co. Waterford,2,600.00
+2,"Castle Place Railway Square, Waterford City, Co. Waterford",900, Co. Waterford,2,450.00
+3,"Watersgate, Billberry, Waterford, Waterford City, Co. Waterford",1100, Co. Waterford,2,550.00
+4,"Adelphi Quay, Waterford, Waterford City, Co. Waterford",975, Co. Waterford,2,487.50
+5,"Railway Square, Castle Place, Waterford City, Co. Waterford",1100, Co. Waterford,3,366.67
+6,"Ardkeen Woods, Dunmore Road, Waterford City, Co. Waterford",1150, Co. Waterford,3,383.33
+7,"De Bruin Court, Waterford City, Co. Waterford",365, Co. Waterford,1,365.00
+8,"Glencove, Dunmore Road, Waterford City, Co. Waterford",1200, Co. Waterford,2,600.00
+9,"Harbour View, Scotch Quay, Waterford City, Co. Waterford",850, Co. Waterford,2,425.00
+10,"O'Connell Court, Penrose Lane, Waterford City, Co. Waterford",700, Co. Waterford,1,700.00
+11,"Manor St, Waterford City, Co. Waterford",600, Co. Waterford,1,600.00
+12,"Newtown House, Newtown, Waterford City, Co. Waterford",800, Co. Waterford,1,800.00
+13,"Annescourt, Annes Street, Waterford City, Co. Waterford",800, Co. Waterford,2,400.00
+14,"O'Gradys Yard, Johnstown, Waterford City, Co. Waterford",750, Co. Waterford,1,750.00
+15,"Aylesbury Manor, Waterford City, Co. Waterford",350, Co. Waterford,1,350.00
+16,"Apt. Waters Gate, Bilberry, Waterford City, Co. Waterford",950, Co. Waterford,2,475.00
+17,"Apt. Maypark Mews, Maypark, Waterford City, Co. Waterford",950, Co. Waterford,2,475.00
+18,"Apartment 3 21/22 Broad Street, Waterford City, Co. Waterford",2000, Co. Waterford,2,1000.00
+19,"Apartment 1 21/22 Broad Street, Waterford City, Co. Waterford",2000, Co. Waterford,2,1000.00
+20,"James Gate, Waterford City, Co. Waterford",750, Co. Waterford,1,750.00
+21,"Circular Road, Dunmore East, Co. Waterford",650, Co. Waterford,2,325.00
+22,"The Old Infirmary, Johns Hill, Waterford City, Co. Waterford",850, Co. Waterford,2,425.00
+23,"Harbour View, Canada Street, Waterford City, Co. Waterford",800, Co. Waterford,2,400.00
+24,"Appollonian Suites Galweys Hill Tramore, Tramore, Co. Waterford",900, Co. Waterford,3,300.00
+25,"Atlantic Coast Apartment, Tramore, Co. Waterford",900, Co. Waterford,2,450.00
+26,"McConnell House Waterford, Waterford City, Co. Waterford",1000, Co. Waterford,4,250.00
+27,"The Glen, Gracedieu, Co. Waterford",850, Co. Waterford,3,283.33
+28,"Ballybrussa, Grange, Dungarvan, Co. Waterford",550, Co. Waterford,1,550.00
+1,"Esker Glenn, Bonavalley, Dublin Rd., Athlone, Co. Westmeath",1100, Co. Westmeath,3,366.67
+2,"Bastion Quay, Athlone, Co. Westmeath",1400, Co. Westmeath,3,466.67
+3,"Apt 25, The Jolly Mariner Marina Village, Coosan, Athlone, Co. Westmeath",1100, Co. Westmeath,2,550.00
+4,"Trax, Retreat Road, Athlone, Co. Westmeath",925, Co. Westmeath,2,462.50
+5,"Apt 3 Mildstone House, Golden Island, Athlone, Co. Westmeath",950, Co. Westmeath,2,475.00
+6,"Goldsmith Close, Athlone, Co. Westmeath",900, Co. Westmeath,2,450.00
+7,"22 Fry Court, Athlone, Co. Westmeath",950, Co. Westmeath,2,475.00
+8,"29 Bastion Court, Athlone, Co. Westmeath",1000, Co. Westmeath,2,500.00
+9,"10 Whitcroft Court, Moate, Co. Westmeath",800, Co. Westmeath,2,400.00
+10,"39 Church View, Bastion Court, Connaught Street, Athlone, Co. Westmeath",835, Co. Westmeath,1,835.00
+11,"Gortmore, Tang, Co. Westmeath",650, Co. Westmeath,2,325.00
+12,"Belleview, Mullingar, Co. Westmeath",950, Co. Westmeath,2,475.00
+13,"19 Radharc An Chuain, Mullingar, Co. Westmeath",950, Co. Westmeath,2,475.00
+14,"Northgate street, Athlone, Co. Westmeath",1000, Co. Westmeath,2,500.00
+15,"4 Marlinstown, Mullingar, Co. Westmeath",1000, Co. Westmeath,2,500.00
+16,"8 Teach na Greine Lynn Mullingar, Mullingar, Co. Westmeath",850, Co. Westmeath,2,425.00
+17,"29 Marlinstown Park, Mullingar, Co. Westmeath",800, Co. Westmeath,1,800.00
+18,"Bastion Court, Connaught Street, Athlone, Co. Westmeath",850, Co. Westmeath,1,850.00
+19,"Nort Gate ST Sliver Quay, Athlone, Co. Westmeath",1000, Co. Westmeath,1,1000.00
+20,"ballinahowen court, Athlone, Co. Westmeath",400, Co. Westmeath,1,400.00
+21,"Annagh, Ballykeeran, Athlone, Co. Westmeath",750, Co. Westmeath,2,375.00
+1,"54 Rosbercon Court, New Ross, Co. Wexford",650, Co. Wexford,2,325.00
+2,"ramsgate, Gorey, Co. Wexford",900, Co. Wexford,2,450.00
+3,"Millers Rest, Castlebridge, Co. Wexford",552, Co. Wexford,2,276.00
+4,"Lr. Bride St, Wexford Town, Co. Wexford",650, Co. Wexford,1,650.00
+5,"Pinewood, Wexford Town, Co. Wexford",650, Co. Wexford,1,650.00
+6,"The Faythe, Wexford Town, Co. Wexford",1350, Co. Wexford,4,337.50
+7,"Apt. No. 6, The Pillar, King Street, Wexford Town, Co. Wexford",780, Co. Wexford,2,390.00
+8,"46 South Street, New Ross, Co. Wexford",580, Co. Wexford,2,290.00
+9,"Keywest, The Quay, Wexford Town, Co. Wexford",850, Co. Wexford,2,425.00
+10,"Melrose Court, Georges Street, Wexford Town, Co. Wexford",720, Co. Wexford,1,720.00
+11,"Rosslare Harbour, Rosslare Harbour, Co. Wexford",700, Co. Wexford,2,350.00
+12,"Hilltown, Killinick, Co. Wexford",700, Co. Wexford,2,350.00
+13,"Pearse street, Gorey, Co. Wexford",850, Co. Wexford,2,425.00
+14,"Barrow Hall Mountgarrett New Ross, New Ross, Co. Wexford",900, Co. Wexford,2,450.00
+15,"Station Court, The Avenue, Gorey, Co. Wexford",1000, Co. Wexford,2,500.00
+16,"R741, Ballyedmond, Co. Wexford",540, Co. Wexford,1,540.00
+17,"12 Waterloo road Wexford, Wexford Town, Co. Wexford",600, Co. Wexford,1,600.00
+18,"Lower Rosbercon, New Ross, Co. Wexford",650, Co. Wexford,3,216.67
+19,"Rosbercon Court, New Ross, Co. Wexford",650, Co. Wexford,2,325.00
+20,"Dunbrody Wharf, New Ross, Co. Wexford",675, Co. Wexford,2,337.50
+21,"Glebe, Meelnagh, Castletalbot, Blackwater, Co. Wexford",600, Co. Wexford,1,600.00
+22,"18 Upper Georges Street, Wexford Town, Co. Wexford",650, Co. Wexford,1,650.00
+23,"Esmonde Street, Gorey, Co. Wexford",650, Co. Wexford,1,650.00
+24,"Priory Court, Gorey, Co. Wexford",1150, Co. Wexford,3,383.33
+25,"New Ross Town, New Ross, New Ross, Co. Wexford",600, Co. Wexford,1,600.00
+26,"Shingan, Enniscorthy, Co. Wexford",650, Co. Wexford,2,325.00
+27,"Viking Wharf, Enniscorthy, Co. Wexford",600, Co. Wexford,2,300.00
+28,"No. 27 Spencers Court, Enniscorthy, Co. Wexford",650, Co. Wexford,1,650.00
+29,"Near COOLGREANY, Coolgreany, Co. Wexford",500, Co. Wexford,1,500.00
+30,"Waterside, New Ross, Co. Wexford",650, Co. Wexford,2,325.00
+31,"Quay Street, New Ross, Co. Wexford",580, Co. Wexford,2,290.00
+32,"Quay Street, New Ross, Co. Wexford",480, Co. Wexford,1,480.00
+33,"Quay Street, New Ross, Co. Wexford",580, Co. Wexford,2,290.00
+34,"Quay Street, New Ross, Co. Wexford",580, Co. Wexford,2,290.00
+35,"Quay Street, New Ross, Co. Wexford",580, Co. Wexford,2,290.00
+36,"Quay Street, New Ross, Co. Wexford",480, Co. Wexford,1,480.00
+37,"3 Doyles Barn, New Ross, New Ross, Co. Wexford",625, Co. Wexford,1,625.00
+38,"Melrose Court, Upper George's Street, Wexford Town, Co. Wexford",650, Co. Wexford,1,650.00
+39,"Mary Street, New Ross, Co. Wexford",550, Co. Wexford,1,550.00
+40,"New Ross Town, New Ross, Co. Wexford",650, Co. Wexford,2,325.00
+41,"6 Riverview Court, Enniscorthy, Co. Wexford",700, Co. Wexford,2,350.00
+42,"Ballyhine Lane, Barntown, Co. Wexford",800, Co. Wexford,2,400.00
+43,"Castlegardens, St Helens Village, Kilrane, Co. Wexford",750, Co. Wexford,3,250.00
+44,"The Old Schoolyard, Riverchapel, Gorey, Co. Wexford",750, Co. Wexford,1,750.00
+45,"Drumgoold, Enniscorthy, Co. Wexford",750, Co. Wexford,2,375.00
+1,"61 Church Drive, Eden Gate, Delgany, Co. Wicklow",1425, Co. Wicklow,2,712.50
+2,"Mizen Courtyard, Arklow Marina, Arklow, Co. Wicklow",1250, Co. Wicklow,2,625.00
+3,"Main Street, Rathdrum, Co. Wicklow",850, Co. Wicklow,2,425.00
+4,"The Stable Flat, Ballinatone Greenane, Rathdrum, Co. Wicklow",450, Co. Wicklow,1,450.00
+5,"Southpoint, Main Street, Bray, Co. Wicklow",1200, Co. Wicklow,1,1200.00
+6,"Kilmurray South, Kilmacanogue, Co. Wicklow",1400, Co. Wicklow,1,1400.00
+7,"Silverdale, King Edward Road, Bray, Co. Wicklow",1800, Co. Wicklow,2,900.00
+8,"Charlesland Park, Greystones, Co. Wicklow",1750, Co. Wicklow,3,583.33
+9,"45A Kilgarron Park, Enniskerry, Co. Wicklow",1600, Co. Wicklow,3,533.33
+10,"Ash Mews, Sidmonton Road, Bray, Co. Wicklow",1400, Co. Wicklow,1,1400.00
+11,"Clearwater Court, Church Road, Greystones, Co. Wicklow",2000, Co. Wicklow,2,1000.00
+12,"Wentworth Place, Wicklow Town, Co. Wicklow",1150, Co. Wicklow,1,1150.00
+13,"Roundwood Village, Roundwood, Co. Wicklow",1100, Co. Wicklow,2,550.00
+14,"Blacklion manor, Greystones, Co. Wicklow",2050, Co. Wicklow,3,683.33
+15,"Church Road, Newtownmountkennedy, Co. Wicklow",1000, Co. Wicklow,1,1000.00
+16,"Knocknamuck, Grange Con, Co. Wicklow",700, Co. Wicklow,2,350.00
+17,"Charlesland Court, Greystones, Co. Wicklow",1650, Co. Wicklow,3,550.00
+18,"Burnaby Mews, Greystones, Co. Wicklow",1600, Co. Wicklow,2,800.00
+19,"Slaney Park, Baltinglass, Co. Wicklow",1000, Co. Wicklow,2,500.00
+20,"1 The Green, Quldara B, Main Street, Blessington, Co. Wicklow",1450, Co. Wicklow,2,725.00
+21,"27 The Mill, Baltinglass, Co. Wicklow",900, Co. Wicklow,2,450.00
+22,"Rockview Park, Arklow, Co. Wicklow",1100, Co. Wicklow,2,550.00
+23,"main street, Carnew, Co. Wicklow",700, Co. Wicklow,1,700.00
+24,"“The Mews”, Roseair, Eden road, Greystones, Co. Wi, Greystones, Co. Wicklow",1750, Co. Wicklow,2,875.00
