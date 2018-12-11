@@ -5,9 +5,11 @@ dublin-city cork-city galway-city cork-city belfast-city limerick-city waterford
 """<br />
 <h1>Dates of the  scrape's </h1>
 <ul>
-<li>Scrape on 7th December --- 1696 out of the 1780 house that are available which is  95% and  1573 out of the 1621 apartments that are available which is  97%  </li>
-<li>Scrape on 8th December --- 1691 out of the 1779  house that are available which is  95% and  1563 out of the 1610 apartments that are available which is  97%  </li>
-<li>Scrape on 8th December --- 1682 out of the 1769  house that are available which is  95% and  1562 out of the 1612 apartments that are available which is  96%  </li>
+<li>Scrape on 7th December --- 1,696 out of the 1,780 house that are available which is  95% and  1,573 out of the 1,621 apartments that are available which is  97%  </li>
+<li>Scrape on 8th December --- 1,691 out of the 1,779  house that are available which is  95% and  1,563 out of the 1,610 apartments that are available which is  97%  </li>
+<li>Scrape on 9th December --- 1,682 out of the 1,769  house that are available which is  95% and  1,562 out of the 1,612 apartments that are available which is  96%  </li>
+<li>Scrape on 10th December --- 1,546 out of the 1,769  house that are available which is  95% and  1,546 out of the 1,594 apartments that are available which is  96%  </li>
+<li>Scrape on 10th December --- 1,690 out of the 1,776  house that are available which is  95% and  1,577 out of the 1,633 apartments that are available which is  96%  </li>
 </ul>
 <h1>Dates of the older scrape's while working out what things needed for column </h1>
 <ul>

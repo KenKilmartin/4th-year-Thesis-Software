@@ -3,6 +3,7 @@ from selenium.webdriver.chrome.options import Options
 import csv
 import datetime
 import math
+import time
 
 #constant for number of pages wanted to crawl
 MAX_PAGE_NUM = 25
@@ -105,9 +106,18 @@ def crawlycrawl(houses):
 
 
 print("Starting to scrape House :")
+start = time.time()
 getDataByCounty()
-driver.close()
 
+end = time.time()
+timetaken = end - start
+minuteTaken = timetaken / 60
+# secondsPercentage = timetaken - minuteTaken
+# seconds = 0.6 * secondsPercentage
+# print(timetaken)  # + str(seconds)[3:5])
+print('To run the scrape on House it took ' + str(int(minuteTaken)) + ' minutes')
+
+driver.close()
 
 
 
