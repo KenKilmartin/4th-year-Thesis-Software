@@ -5,11 +5,15 @@
 """<br />
 <h1>Dates of the  scrape's </h1>
 <ul>
-<li>Scrape on 7th December --- 1,696 out of the 1,780 house that are available which is  95% and  1,573 out of the 1,621 apartments that are available which is  97%  </li>
-<li>Scrape on 8th December --- 1,691 out of the 1,779  house that are available which is  95% and  1,563 out of the 1,610 apartments that are available which is  97%  </li>
-<li>Scrape on 9th December --- 1,682 out of the 1,769  house that are available which is  95% and  1,562 out of the 1,612 apartments that are available which is  96%  </li>
+
+<li>Scrape on 13th December --- 1,665 out of the 1,752  house that are available which is  95% and  1,580 out of the 1,631 apartments that are available which is  96%  </li>
+<li>Scrape on 12th December --- 1,682 out of the 1,776  house that are available which is  94% and  1,580 out of the 1,648 apartments that are available which is  96%  </li>
+<li>Scrape on 11th December --- there is a scrape for this data just forgot to check how many listings there was.  </li>
 <li>Scrape on 10th December --- 1,546 out of the 1,769  house that are available which is  95% and  1,546 out of the 1,594 apartments that are available which is  96%  </li>
-<li>Scrape on 11th December --- 1,690 out of the 1,776  house that are available which is  95% and  1,577 out of the 1,633 apartments that are available which is  96%  </li>
+<li>Scrape on 9th December --- 1,682 out of the 1,769  house that are available which is  95% and  1,562 out of the 1,612 apartments that are available which is  96%  </li>
+<li>Scrape on 8th December --- 1,691 out of the 1,779  house that are available which is  95% and  1,563 out of the 1,610 apartments that are available which is  97%  </li>
+<li>Scrape on 7th December --- 1,696 out of the 1,780 house that are available which is  95% and  1,573 out of the 1,621 apartments that are available which is  97%  </li>
+
 </ul>
 <h1>Dates of the older scrape's while working out what things needed for column </h1>
 <ul>

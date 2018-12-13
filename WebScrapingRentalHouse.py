@@ -7,7 +7,7 @@ import time
 
 #constant for number of pages wanted to crawl
 MAX_PAGE_NUM = 25
-
+aproxPpr = 0
 #need to download the chromedriver to get it to open page
 #chrome_path = r'C:\Python\Python37\Scripts\chromedriver\chromedriver.exe'
 
